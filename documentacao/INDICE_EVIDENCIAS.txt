@@ -1,0 +1,66 @@
+ÍNDICE DE EVIDÊNCIAS — IDENTIFICADOR DE FRUTAS — 23/11/2026
+
+Comece pelo RELATORIO_TECNICO_RESULTADOS_2026-11-23.txt desta pasta.
+O pacote EVIDENCIAS_PARA_ARTIGO_2026-11-23.zip reúne os registros para compartilhar.
+Caminhos abaixo são relativos à raiz do repositório.
+
+1. Preparação dos dados
+   documentacao/manifesto_dataset_frutas6.json
+   Cópia exata do manifesto local: semente, pastas, contagens, origens e SHA-256.
+   São 800 imagens de Training e 250 de Test por classe (6.300 no total).
+   As imagens do Fruits-360 não estão incluídas no repositório nem neste pacote.
+
+2. Treinamento
+   model/training.json — histórico, época selecionada e listas de treino/validação.
+   model/classes.json — ordem das saídas e pré-processamento.
+   training/execucao.log — saída original, 40 épocas e extração em CPU.
+   model/fruit_model.keras — modelo efetivamente usado; presente no repositório,
+   mas omitido do ZIP para evitar outra cópia. Seu hash é registrado nas avaliações.
+
+3. Avaliação Fruits-360
+   training/evaluation/metrics.json
+   training/evaluation/predictions.csv
+   training/evaluation/confusion_matrix.png
+   training/avaliacao.log
+   Resultado: 1.499/1.500 top-1 corretos (99,93%).
+
+4. Primeiros casos externos
+   training/testes_externos/2026-11-23_rodada01/
+   Inclui seis imagens, seis prints, folha de contato, CSV e registro JSON.
+   Amostra selecionada por falhas; inadequada para estimar desempenho global.
+   training/testes_externos/2026-11-23_rodada02_completa/
+   Inclui os 11 arquivos avaliados, rótulos, folha de contato e resultados.
+   Resultado: 5/11 top-1 corretos (45,45%). As seis falhas estão nesses 11.
+   Duas imagens de morangos são versões da mesma foto.
+   As fontes e licenças das fotos iniciais não foram fornecidas. Elas não recebem
+   automaticamente as licenças das fotos do Commons. São preservadas como evidência
+   dos testes realizados; a origem deve ser apurada para atribuição acadêmica.
+
+5. Rodada das 30 fotos da internet
+   training/testes_externos/2026-11-23_internet30/
+   relatorio.html — relatório visual (abra após extrair o ZIP, mantendo as pastas).
+   fontes.json — páginas de origem, autores, licenças e hashes das fotos do Commons.
+   selecionadas/ — as 30 fotos efetivamente avaliadas.
+   protocolo.txt e rotulos.csv — seleção e rótulos definidos antes da inferência.
+   avaliacao/registro.json e resultados.csv — probabilidades e resultados.
+   codigo_usado/ — cópia dos scripts usados naquela execução.
+   Resultado: 16/30 top-1 corretos (53,33%); na interface, 15 acertos aceitos,
+   7 erros aceitos e 8 inconclusivos. Um inconclusivo tinha top-1 correto.
+   Algumas imagens são relacionadas visualmente; amostra de conveniência.
+   Fontes e licenças individuais devem acompanhar as imagens em reutilizações.
+
+6. Verificação funcional e interface
+   training/verificacao.log — resultados de uma imagem por classe e estados de UI.
+   training/interface_uxui/ — capturas do layout desktop e móvel revisado.
+   Essas verificações funcionais não aumentam a amostra de avaliação estatística.
+
+7. O que permanece fora do GitHub
+   .venv, caches, credenciais, dataset_frutas6 e o Fruits-360 original,
+   logs operacionais do servidor, candidatos descartados e cópias redundantes
+   de modelo/imagens. Nenhum resultado foi alterado nesta publicação.
+
+Validação: py -3.12 verificar_evidencias.py
+O script verifica contagens, hashes das evidências disponíveis e coerência das
+métricas, sem dependências externas. Não mede novamente a acurácia da rede.
+O conjunto final independente de fotos reais e o treinamento melhorado ainda
+não foram realizados. Não afirmar validação para uso geral em fotos reais.

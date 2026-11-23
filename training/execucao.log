@@ -1,0 +1,97 @@
+GPUs detectadas: []
+Extra��o: 320/4800
+Extra��o: 640/4800
+Extra��o: 960/4800
+Extra��o: 1280/4800
+Extra��o: 1600/4800
+Extra��o: 1920/4800
+Extra��o: 2240/4800
+Extra��o: 2560/4800
+Extra��o: 2880/4800
+Extra��o: 3200/4800
+Extra��o: 3520/4800
+Extra��o: 3840/4800
+Extra��o: 4160/4800
+Extra��o: 4480/4800
+Extra��o: 4800/4800
+Epoch 1/40
+120/120 - 1s - 12ms/step - accuracy: 0.9099 - loss: 0.2621 - val_accuracy: 0.9979 - val_loss: 0.0297
+Epoch 2/40
+120/120 - 0s - 2ms/step - accuracy: 0.9937 - loss: 0.0354 - val_accuracy: 1.0000 - val_loss: 0.0133
+Epoch 3/40
+120/120 - 0s - 3ms/step - accuracy: 0.9977 - loss: 0.0184 - val_accuracy: 1.0000 - val_loss: 0.0080
+Epoch 4/40
+120/120 - 0s - 4ms/step - accuracy: 0.9992 - loss: 0.0132 - val_accuracy: 1.0000 - val_loss: 0.0062
+Epoch 5/40
+120/120 - 1s - 5ms/step - accuracy: 0.9997 - loss: 0.0093 - val_accuracy: 1.0000 - val_loss: 0.0047
+Epoch 6/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0077 - val_accuracy: 1.0000 - val_loss: 0.0039
+Epoch 7/40
+120/120 - 0s - 4ms/step - accuracy: 1.0000 - loss: 0.0064 - val_accuracy: 1.0000 - val_loss: 0.0036
+Epoch 8/40
+120/120 - 0s - 4ms/step - accuracy: 1.0000 - loss: 0.0056 - val_accuracy: 1.0000 - val_loss: 0.0032
+Epoch 9/40
+120/120 - 0s - 3ms/step - accuracy: 0.9995 - loss: 0.0054 - val_accuracy: 1.0000 - val_loss: 0.0031
+Epoch 10/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0042 - val_accuracy: 1.0000 - val_loss: 0.0029
+Epoch 11/40
+120/120 - 0s - 3ms/step - accuracy: 0.9997 - loss: 0.0045 - val_accuracy: 1.0000 - val_loss: 0.0027
+Epoch 12/40
+120/120 - 0s - 3ms/step - accuracy: 0.9997 - loss: 0.0038 - val_accuracy: 1.0000 - val_loss: 0.0026
+Epoch 13/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0036 - val_accuracy: 1.0000 - val_loss: 0.0025
+Epoch 14/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0039 - val_accuracy: 1.0000 - val_loss: 0.0026
+Epoch 15/40
+120/120 - 0s - 2ms/step - accuracy: 0.9995 - loss: 0.0041 - val_accuracy: 1.0000 - val_loss: 0.0024
+Epoch 16/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0034 - val_accuracy: 1.0000 - val_loss: 0.0023
+Epoch 17/40
+120/120 - 0s - 3ms/step - accuracy: 0.9997 - loss: 0.0035 - val_accuracy: 1.0000 - val_loss: 0.0023
+Epoch 18/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0031 - val_accuracy: 1.0000 - val_loss: 0.0023
+Epoch 19/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0033 - val_accuracy: 1.0000 - val_loss: 0.0023
+Epoch 20/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0030 - val_accuracy: 1.0000 - val_loss: 0.0022
+Epoch 21/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0027 - val_accuracy: 1.0000 - val_loss: 0.0022
+Epoch 22/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0027 - val_accuracy: 1.0000 - val_loss: 0.0022
+Epoch 23/40
+120/120 - 0s - 3ms/step - accuracy: 0.9997 - loss: 0.0028 - val_accuracy: 1.0000 - val_loss: 0.0021
+Epoch 24/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0027 - val_accuracy: 1.0000 - val_loss: 0.0021
+Epoch 25/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0025 - val_accuracy: 1.0000 - val_loss: 0.0020
+Epoch 26/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0025 - val_accuracy: 1.0000 - val_loss: 0.0020
+Epoch 27/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0024 - val_accuracy: 1.0000 - val_loss: 0.0020
+Epoch 28/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0024 - val_accuracy: 1.0000 - val_loss: 0.0020
+Epoch 29/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0024 - val_accuracy: 1.0000 - val_loss: 0.0019
+Epoch 30/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0024 - val_accuracy: 1.0000 - val_loss: 0.0019
+Epoch 31/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0022 - val_accuracy: 1.0000 - val_loss: 0.0019
+Epoch 32/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0023 - val_accuracy: 1.0000 - val_loss: 0.0018
+Epoch 33/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0022 - val_accuracy: 1.0000 - val_loss: 0.0018
+Epoch 34/40
+120/120 - 0s - 3ms/step - accuracy: 1.0000 - loss: 0.0022 - val_accuracy: 1.0000 - val_loss: 0.0018
+Epoch 35/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0020 - val_accuracy: 1.0000 - val_loss: 0.0018
+Epoch 36/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0023 - val_accuracy: 1.0000 - val_loss: 0.0018
+Epoch 37/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0021 - val_accuracy: 1.0000 - val_loss: 0.0017
+Epoch 38/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0023 - val_accuracy: 1.0000 - val_loss: 0.0017
+Epoch 39/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0020 - val_accuracy: 1.0000 - val_loss: 0.0018
+Epoch 40/40
+120/120 - 0s - 2ms/step - accuracy: 1.0000 - loss: 0.0022 - val_accuracy: 1.0000 - val_loss: 0.0017
+Modelo salvo em C:\Users\onlyj\Documents\identificador_frutas_ia\model

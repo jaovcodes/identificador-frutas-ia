@@ -1,0 +1,67 @@
+Avalia��o: 320/1500
+Avalia��o: 640/1500
+Avalia��o: 960/1500
+Avalia��o: 1280/1500
+Avalia��o: 1500/1500
+{
+  "dataset": "C:\\Users\\onlyj\\Documents\\identificador_frutas_ia\\dataset_frutas6\\test",
+  "count": 1500,
+  "classes": [
+    "apple",
+    "banana",
+    "lemon",
+    "orange",
+    "pineapple",
+    "strawberry"
+  ],
+  "accuracy": 0.9993333333333333,
+  "cross_entropy": 0.0010962695814669132,
+  "confidence_threshold": 0.7,
+  "coverage": 0.9993333333333333,
+  "accepted_accuracy": 1.0,
+  "per_class": {
+    "apple": {
+      "label": "Ma��",
+      "support": 250,
+      "precision": 1.0,
+      "recall": 0.996,
+      "f1": 0.9979959919839679
+    },
+    "banana": {
+      "label": "Banana",
+      "support": 250,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "lemon": {
+      "label": "Lim�o",
+      "support": 250,
+      "precision": 0.9960159362549801,
+      "recall": 1.0,
+      "f1": 0.998003992015968
+    },
+    "orange": {
+      "label": "Laranja",
+      "support": 250,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "pineapple": {
+      "label": "Abacaxi",
+      "support": 250,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "strawberry": {
+      "label": "Morango",
+      "support": 250,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "limitation": "Fruits-360 com fundo padronizado; fotografias reais ainda n�o avaliadas."
+}

@@ -150,7 +150,7 @@ py -3.12 -m venv .venv
 .\.venv\Scripts\python.exe -m streamlit run app.py
 ```
 
-Um repositório privado exige acesso à conta ou convite do proprietário.
+O repositório é público e pode ser clonado sem convite.
 Depois da instalação inicial, basta executar o último comando ou abrir
 `executar.bat`. O dataset original e `dataset_frutas6` não são versionados.
 Para reproduzir o treinamento, obtenha o Fruits-360 separadamente e informe
@@ -159,7 +159,33 @@ sua pasta com `preparar_dataset.py --origem CAMINHO`.
 As 30 fotos de avaliação do Commons têm fontes, autores e licenças individuais
 em `training/testes_externos/2026-11-23_internet30/fontes.json` e `relatorio.html`.
 Essas licenças se aplicam às respectivas imagens, não automaticamente ao código.
-Os registros das primeiras rodadas permanecem, mas fotos sem fonte documentada,
-prints, ambientes virtuais, logs e cópias redundantes do modelo foram excluídos
-do versionamento. Relatórios técnicos incluem caminhos da execução original;
+As evidências das primeiras rodadas incluem fotos, prints e registros. A origem
+e as licenças dessas fotos iniciais ainda não foram documentadas; não atribua
+a elas as licenças das fotos do Commons. Os logs de treinamento, avaliação e
+verificação também estão versionados. Ambientes virtuais, datasets, logs do
+servidor e cópias redundantes do modelo permanecem locais.
+Relatórios técnicos incluem caminhos da execução original;
 esses caminhos são históricos, não configuração necessária para instalar o app.
+
+## Evidências para o artigo e a apresentação
+
+- [Índice e orientação de leitura](documentacao/INDICE_EVIDENCIAS.txt)
+- [Relatório técnico consolidado](documentacao/RELATORIO_TECNICO_RESULTADOS_2026-11-23.txt)
+- [Pacote de evidências para download](documentacao/EVIDENCIAS_PARA_ARTIGO_2026-11-23.zip)
+- [Manifesto das 6.300 imagens selecionadas](documentacao/manifesto_dataset_frutas6.json)
+- [Seis prints das falhas iniciais](training/testes_externos/2026-11-23_rodada01/prints)
+- [Fotos dos 11 testes iniciais](training/testes_externos/2026-11-23_rodada02_completa/imagens)
+- [Log do treinamento](training/execucao.log)
+- [Log da avaliação Fruits-360](training/avaliacao.log)
+- [Log das verificações da interface e inferência](training/verificacao.log)
+
+As seis falhas iniciais estão incluídas nos 11 arquivos; não somar as rodadas.
+O manifesto registra arquivos e SHA-256, mas não inclui o próprio dataset.
+Para conferir a consistência dos registros publicados, sem instalar TensorFlow:
+
+```powershell
+py -3.12 verificar_evidencias.py
+```
+
+Essa conferência verifica os artefatos já produzidos; não executa novo treinamento
+nem substitui uma nova avaliação do modelo.

@@ -1,0 +1,7 @@
+2026-11-22 23:49:38.697 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+WARNING:tensorflow:From C:\Users\onlyj\Documents\identificador_frutas_ia\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-11-22 23:49:41.005 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-22 23:49:41.102 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Uma imagem de cada classe e paridade de pr�-processamento: [('apple', 'apple', 0.9999258518218994), ('banana', 'banana', 0.999996542930603), ('lemon', 'lemon', 0.9998888969421387), ('orange', 'orange', 0.9888678789138794), ('pineapple', 'pineapple', 0.999985933303833), ('strawberry', 'strawberry', 0.9999977350234985)]
+Streamlit: abertura, resultado e aviso de baixa confian�a passaram.

@@ -13,16 +13,15 @@ __pycache__/
 # Dados locais: recriar com preparar_dataset.py
 dataset_frutas6/
 
-# Evidências redundantes e fotos sem fonte/licença documentada
+# Cópias redundantes do modelo, candidatos descartados e dados duplicados
 training/**/modelo_baseline/
-training/**/imagens/
-training/**/prints/
 training/**/candidatas/
-training/conferencia_fotos_externas.png
-training/contato_pasta_testes_*.png
-training/testes_externos/2026-11-23_rodada01/contato_imagens.png
-training/testes_externos/2026-11-23_rodada02_completa/contato_imagens.png
+training/testes_externos/2026-11-23_internet30/avaliacao/imagens/
 
 # Logs e pacotes gerados; métricas e relatórios permanecem versionados
 *.log
 *.zip
+!training/execucao.log
+!training/avaliacao.log
+!training/verificacao.log
+!documentacao/EVIDENCIAS_PARA_ARTIGO_2026-11-23.zip
