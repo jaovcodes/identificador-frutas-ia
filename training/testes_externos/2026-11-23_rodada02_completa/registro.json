@@ -1,0 +1,367 @@
+{
+  "timestamp": "2026-11-23T00:10:47.978570-04:00",
+  "model_sha256": "954bf6d72037546619e13fc0b965e2d174c0039be4028f2ee7a89735d74b9f64",
+  "threshold": 0.7,
+  "count": 11,
+  "top1_correct": 5,
+  "top1_accuracy": 0.45454545454545453,
+  "accepted": 8,
+  "accepted_correct": 5,
+  "accepted_wrong": 3,
+  "uncertain": 3,
+  "coverage": 0.7272727272727273,
+  "accepted_accuracy": 0.625,
+  "per_class": {
+    "apple": {
+      "count": 1,
+      "top1_correct": 1,
+      "accepted_correct": 1,
+      "accepted_wrong": 0,
+      "uncertain": 0
+    },
+    "banana": {
+      "count": 1,
+      "top1_correct": 1,
+      "accepted_correct": 1,
+      "accepted_wrong": 0,
+      "uncertain": 0
+    },
+    "orange": {
+      "count": 2,
+      "top1_correct": 0,
+      "accepted_correct": 0,
+      "accepted_wrong": 0,
+      "uncertain": 2
+    },
+    "lemon": {
+      "count": 2,
+      "top1_correct": 0,
+      "accepted_correct": 0,
+      "accepted_wrong": 2,
+      "uncertain": 0
+    },
+    "pineapple": {
+      "count": 2,
+      "top1_correct": 0,
+      "accepted_correct": 0,
+      "accepted_wrong": 1,
+      "uncertain": 1
+    },
+    "strawberry": {
+      "count": 3,
+      "top1_correct": 3,
+      "accepted_correct": 3,
+      "accepted_wrong": 0,
+      "uncertain": 0
+    }
+  },
+  "confusion_classes": [
+    "apple",
+    "banana",
+    "lemon",
+    "orange",
+    "pineapple",
+    "strawberry"
+  ],
+  "confusion_matrix": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ]
+  ],
+  "results": [
+    {
+      "file": "1556727865-morango.jpg",
+      "expected": "strawberry",
+      "visual_group": "morangos_01",
+      "sha256": "7edf922b6395b0bfb15e1dc1fdf44c3eca4a5ca85672d234bdd7531e0bd16654",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\1556727865-morango.jpg",
+      "source_url": null,
+      "predicted": "strawberry",
+      "confidence": 0.9999383687973022,
+      "confident": true,
+      "correct": true,
+      "probabilities": {
+        "strawberry": 0.9999383687973022,
+        "banana": 5.8758847444551066e-05,
+        "pineapple": 2.4590303837612737e-06,
+        "apple": 3.343108971876063e-07,
+        "orange": 1.216322402797232e-07,
+        "lemon": 3.2317497566936026e-09
+      },
+      "error": null,
+      "status": "acerto_aceito"
+    },
+    {
+      "file": "beneficios-da-maca-scaled.jpg.webp",
+      "expected": "apple",
+      "visual_group": "maca_01",
+      "sha256": "8d2596a54dae7be20ef789209ed7b64a6ac0341706a3270d99885977b4096ceb",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\beneficios-da-maca-scaled.jpg.webp",
+      "source_url": null,
+      "predicted": "apple",
+      "confidence": 0.9956551790237427,
+      "confident": true,
+      "correct": true,
+      "probabilities": {
+        "apple": 0.9956551790237427,
+        "banana": 0.0025324507150799036,
+        "strawberry": 0.0017097577219828963,
+        "pineapple": 7.049593841657043e-05,
+        "orange": 2.0653022147598676e-05,
+        "lemon": 1.1418002031859942e-05
+      },
+      "error": null,
+      "status": "acerto_aceito"
+    },
+    {
+      "file": "morango.webp",
+      "expected": "strawberry",
+      "visual_group": "morangos_01",
+      "sha256": "67645fe715bfcb6e4b063d4de802f19196c9882fdfa38bc9998abfda5b5a247a",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\morango.webp",
+      "source_url": null,
+      "predicted": "strawberry",
+      "confidence": 0.9999068975448608,
+      "confident": true,
+      "correct": true,
+      "probabilities": {
+        "strawberry": 0.9999068975448608,
+        "banana": 8.798063936410472e-05,
+        "pineapple": 3.82465441362001e-06,
+        "apple": 1.011201334222278e-06,
+        "orange": 2.1297344687809527e-07,
+        "lemon": 3.854174757123019e-09
+      },
+      "error": null,
+      "status": "acerto_aceito"
+    },
+    {
+      "file": "OIP (1).webp",
+      "expected": "banana",
+      "visual_group": "banana_01",
+      "sha256": "9e3e574ada4b9833ec7dbc57819e8778ce063a78eb0a9302fa9867a85e29fc76",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\OIP (1).webp",
+      "source_url": null,
+      "predicted": "banana",
+      "confidence": 0.9989573955535889,
+      "confident": true,
+      "correct": true,
+      "probabilities": {
+        "banana": 0.9989573955535889,
+        "apple": 0.0010421690531075,
+        "strawberry": 2.506407383862097e-07,
+        "pineapple": 1.736581509703683e-07,
+        "lemon": 3.5139808840511932e-09,
+        "orange": 1.7425095654582945e-12
+      },
+      "error": null,
+      "status": "acerto_aceito"
+    },
+    {
+      "file": "OIP (2).webp",
+      "expected": "lemon",
+      "visual_group": "limao_01",
+      "sha256": "81d1b8eb0bc3519cd529bd418bc9fd09885214581cfb3652f0e3e9ca28f9b6b3",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\OIP (2).webp",
+      "source_url": null,
+      "predicted": "apple",
+      "confidence": 0.7843051552772522,
+      "confident": true,
+      "correct": false,
+      "probabilities": {
+        "apple": 0.7843051552772522,
+        "banana": 0.21340134739875793,
+        "strawberry": 0.001696295104920864,
+        "pineapple": 0.0005352254374884069,
+        "lemon": 6.038146239006892e-05,
+        "orange": 1.568501488691254e-06
+      },
+      "error": null,
+      "status": "erro_aceito"
+    },
+    {
+      "file": "OIP (3).webp",
+      "expected": "strawberry",
+      "visual_group": "morangos_02",
+      "sha256": "72c1c81ef8dff3ce5784769b5b1ddfe5e46309d823824d16d4cb447d36da73db",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\OIP (3).webp",
+      "source_url": null,
+      "predicted": "strawberry",
+      "confidence": 0.9999380111694336,
+      "confident": true,
+      "correct": true,
+      "probabilities": {
+        "strawberry": 0.9999380111694336,
+        "banana": 5.1733852160396054e-05,
+        "apple": 9.81520406639902e-06,
+        "pineapple": 3.4418002314851037e-07,
+        "orange": 1.3350405936307652e-07,
+        "lemon": 2.3292514583772572e-09
+      },
+      "error": null,
+      "status": "acerto_aceito"
+    },
+    {
+      "file": "OIP (4).webp",
+      "expected": "lemon",
+      "visual_group": "limao_02",
+      "sha256": "c83c1e82c62084852b336b17c0a23bb1d6e6d82e129479be0beee98e6beff0f6",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\OIP (4).webp",
+      "source_url": null,
+      "predicted": "apple",
+      "confidence": 0.9706200361251831,
+      "confident": true,
+      "correct": false,
+      "probabilities": {
+        "apple": 0.9706200361251831,
+        "banana": 0.02275111712515354,
+        "lemon": 0.005442073568701744,
+        "strawberry": 0.000769005564507097,
+        "pineapple": 0.00041628023609519005,
+        "orange": 1.4837338540019118e-06
+      },
+      "error": null,
+      "status": "erro_aceito"
+    },
+    {
+      "file": "OIP (5).webp",
+      "expected": "pineapple",
+      "visual_group": "abacaxi_01",
+      "sha256": "9d9906d8bba9ebaf90df38ca4cb9dd92509e6765f84084717c144a8feb11fe1d",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\OIP (5).webp",
+      "source_url": null,
+      "predicted": "strawberry",
+      "confidence": 0.7950231432914734,
+      "confident": true,
+      "correct": false,
+      "probabilities": {
+        "strawberry": 0.7950231432914734,
+        "pineapple": 0.18754062056541443,
+        "banana": 0.01495675090700388,
+        "lemon": 0.0022246665321290493,
+        "apple": 0.0002498748362995684,
+        "orange": 4.9165901145897806e-06
+      },
+      "error": null,
+      "status": "erro_aceito"
+    },
+    {
+      "file": "OIP.webp",
+      "expected": "orange",
+      "visual_group": "laranja_01",
+      "sha256": "4c26d20aef62cc025bf395bacf4c16a49a37279eb5f1a46adb43e0ddd2fdc2f9",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\OIP.webp",
+      "source_url": null,
+      "predicted": "banana",
+      "confidence": 0.623079776763916,
+      "confident": false,
+      "correct": false,
+      "probabilities": {
+        "banana": 0.623079776763916,
+        "lemon": 0.2031700313091278,
+        "strawberry": 0.0955652967095375,
+        "apple": 0.07473734766244888,
+        "pineapple": 0.002455333946272731,
+        "orange": 0.00099215900991112
+      },
+      "error": null,
+      "status": "inconclusivo"
+    },
+    {
+      "file": "R (1).jpg",
+      "expected": "pineapple",
+      "visual_group": "abacaxi_02",
+      "sha256": "f8d40c7a7d2eeb0cb92460aeab6093fdd24ca50b110a2cf27e342331925a20fa",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\R (1).jpg",
+      "source_url": null,
+      "predicted": "strawberry",
+      "confidence": 0.6980103850364685,
+      "confident": false,
+      "correct": false,
+      "probabilities": {
+        "strawberry": 0.6980103850364685,
+        "pineapple": 0.1570180505514145,
+        "banana": 0.1374262422323227,
+        "lemon": 0.007462508510798216,
+        "apple": 8.27452095109038e-05,
+        "orange": 1.020966644560417e-09
+      },
+      "error": null,
+      "status": "inconclusivo"
+    },
+    {
+      "file": "R.jpg",
+      "expected": "orange",
+      "visual_group": "laranja_02",
+      "sha256": "ba64ab8b8d2349cab0075cbc1b32384d30f06351329cc3ad6fcf13098b32a07d",
+      "original": "C:\\Users\\onlyj\\Downloads\\Imagens-testes\\R.jpg",
+      "source_url": null,
+      "predicted": "strawberry",
+      "confidence": 0.5260740518569946,
+      "confident": false,
+      "correct": false,
+      "probabilities": {
+        "strawberry": 0.5260740518569946,
+        "banana": 0.29399722814559937,
+        "lemon": 0.15036596357822418,
+        "orange": 0.024325476959347725,
+        "apple": 0.0032693163957446814,
+        "pineapple": 0.001967944670468569
+      },
+      "error": null,
+      "status": "inconclusivo"
+    }
+  ],
+  "limitations": [
+    "Amostra pequena de conveniência, sem estimativa de desempenho geral.",
+    "Rótulos por inspeção visual; URLs e licenças não fornecidas.",
+    "Arquivos com o mesmo visual_group são variantes da mesma foto; não independentes.",
+    "Inclui falhas anteriores; não somar esta rodada à anterior.",
+    "Uso reservado para regressão; não usar no treino nem como teste final independente após ajustes."
+  ]
+}

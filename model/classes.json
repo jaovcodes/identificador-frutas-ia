@@ -1,0 +1,16 @@
+{
+  "classes": [
+    "apple",
+    "banana",
+    "lemon",
+    "orange",
+    "pineapple",
+    "strawberry"
+  ],
+  "preprocessing": "none",
+  "resize": "bilinear_stretch",
+  "image_size": [
+    160,
+    160
+  ]
+}

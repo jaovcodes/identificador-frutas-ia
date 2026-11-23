@@ -1,0 +1,3122 @@
+[
+  {
+    "file": "apple_01.jpg",
+    "expected": "apple",
+    "visual_group": "apple_01",
+    "commons_title": "File:Red Apple.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 580,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/1280px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 580,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/1280px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/7823406",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-10-01 14:49:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Red Apple",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon D80|ISO speed rating 100|Flickr images reviewed by trusted users|Featured pictures of fruit|Featured pictures on Wikipedia, Turkish|Featured pictures on Wikipedia, Vietnamese|Featured pictures on Wikipedia, Malay|Unidentified red apples|Assessment tagged pages marked as POTY candidates|Images with Taiwanese Description|Featured pictures from Flickr|Apples on white background|Illustrations used in Salute, Jonathan!",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "featured|potd|poty",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Red Apple. Used white paper behind apple and above apple and bounced SB-600 at 1/4th power.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-03-10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/24340456@N03/3345977842/\">Nikon D80 Apple</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/24340456@N03\">Abhijit Tembhekar</a> from Mumbai, India",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table id=\"FlickrReview\" class=\"layouttemplate\" style=\"width:100%; margin:0.5em auto; background: var(--background-color-success-subtle, #eeffee); color: inherit; padding: 5px; border: 1px solid var(--border-color-base, #aaaa88);\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\"><span lang=\"en\" dir=\"ltr\">Flickr</span></a></span></b>, was reviewed on 16 September 2009 by the <a href=\"//commons.wikimedia.org/wiki/Commons:A\" class=\"mw-redirect\" title=\"Commons:A\">administrator</a> or <a href=\"//commons.wikimedia.org/wiki/Commons:License_review\" title=\"Commons:License review\">reviewer</a> <b><a href=\"//commons.wikimedia.org/wiki/User:Killiondude\" title=\"User:Killiondude\">Killiondude</a></b>, who confirmed that it was available on Flickr under the stated license on that date.\n</td>\n<td><figure class=\"mw-halign-right\" typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span><figcaption></figcaption></figure>\n</td></tr></tbody></table><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "apple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "apple_02.jpg",
+    "expected": "apple",
+    "visual_group": "apple_02",
+    "commons_title": "File:Tree with red apples in Barkedal 4.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tree_with_red_apples_in_Barkedal_4.jpg/960px-Tree_with_red_apples_in_Barkedal_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 640,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tree_with_red_apples_in_Barkedal_4.jpg/1280px-Tree_with_red_apples_in_Barkedal_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tree_with_red_apples_in_Barkedal_4.jpg/960px-Tree_with_red_apples_in_Barkedal_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 640,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tree_with_red_apples_in_Barkedal_4.jpg/1280px-Tree_with_red_apples_in_Barkedal_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tree_with_red_apples_in_Barkedal_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tree_with_red_apples_in_Barkedal_4.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/81528752",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-08-25 16:05:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Tree with red apples in Barkedal 4",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Retouched pictures|Barkedal|Särsö (apple)|Self-published work|Featured pictures of fruit|Apple trees in Sweden|Red apples|Images by W.carter|Files with coordinates missing SDC location of creation|Sweden photographs taken on 2018-09-01|Fallen apples in Sweden|Featured pictures of Lysekil Municipality|Featured pictures of Rosales|Featured photographs in the public domain|Featured pictures taken with compact digital camera|Images by W.carter, my own favorites|Trees in Lysekil Municipality|Reused images by W.carter|Featured pictures by W.carter",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "featured",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "58.409836",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "11.574005",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Tree with red apples 'Särsö' in Barkedal, Lysekil Municipality, Sweden. The apples ripened early and were unusually red on the side facing south and the camera, caused by the uncharacteristically many hours of sunlight during the hot summer of 2018.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-09-01 11:38:16",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:W.carter\" title=\"User:W.carter\">W.carter</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "apple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tree_with_red_apples_in_Barkedal_4.jpg/960px-Tree_with_red_apples_in_Barkedal_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "apple_03.jpg",
+    "expected": "apple",
+    "visual_group": "apple_03",
+    "commons_title": "File:Apple fruit in illorin.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Apple_fruit_in_illorin.jpg/960px-Apple_fruit_in_illorin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 480,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Apple_fruit_in_illorin.jpg/1280px-Apple_fruit_in_illorin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Apple_fruit_in_illorin.jpg/960px-Apple_fruit_in_illorin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 480,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Apple_fruit_in_illorin.jpg/1280px-Apple_fruit_in_illorin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Apple_fruit_in_illorin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apple_fruit_in_illorin.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/162557783",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-03-21 12:23:20",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Apple fruit in illorin",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Apples as food|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Apple fruit",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-03-21 10:34:52",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Eunice_Ameh\" title=\"User:Eunice Ameh\">Eunice Ameh</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "apple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Apple_fruit_in_illorin.jpg/960px-Apple_fruit_in_illorin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "apple_04.jpg",
+    "expected": "apple",
+    "visual_group": "apple_04",
+    "commons_title": "File:Whole apple and bitten apple.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Whole_apple_and_bitten_apple.jpg/960px-Whole_apple_and_bitten_apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 426,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/0/07/Whole_apple_and_bitten_apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Whole_apple_and_bitten_apple.jpg/960px-Whole_apple_and_bitten_apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 426,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/07/Whole_apple_and_bitten_apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Whole_apple_and_bitten_apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Whole_apple_and_bitten_apple.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/115761149",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-03-04 11:43:52",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Whole apple and bitten apple",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Apples|Flickr images reviewed by FlickreviewR 2|Half-eaten fruit",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "a whole apple and a bitten apple",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-07-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/lucorreia/48236732477/\">https://www.flickr.com/photos/lucorreia/48236732477/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Lucíola Correia",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "apple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Whole_apple_and_bitten_apple.jpg/960px-Whole_apple_and_bitten_apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "apple_05.jpg",
+    "expected": "apple",
+    "visual_group": "apple_05",
+    "commons_title": "File:Liat Portal for Foodie Disorder - Red Apple (Whole Fruit).jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 853,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg/1280px-Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 853,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg/1280px-Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Red_Apple_(Whole_Fruit).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/180638760",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-12-25 09:46:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Liat Portal for Foodie Disorder - Red Apple (Whole Fruit)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Food photography|Apples as food|Self-published work|Red apples|Files with coordinates missing SDC location of creation|Apples in the United States",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "37.778406",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-122.412414",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "High-quality photograph by Liat Portal showing a whole red apple resting on a white plate, photographed from above, with visible water droplets on the skin, made by Liat Portal. This image documents a fresh apple as part of the Foodie Disorder global food culture archive, highlighting natural produce, everyday consumption, and ingredient-level food observation.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-03-15 22:43:53",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HaJunkiyada&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HaJunkiyada (page does not exist)\">HaJunkiyada</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "apple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Red_Apple_%28Whole_Fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "banana_01.jpg",
+    "expected": "banana",
+    "visual_group": "banana_01",
+    "commons_title": "File:Cavendish banana from Maracaibo.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cavendish_banana_from_Maracaibo.jpg/960px-Cavendish_banana_from_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 447,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cavendish_banana_from_Maracaibo.jpg/1280px-Cavendish_banana_from_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cavendish_banana_from_Maracaibo.jpg/960px-Cavendish_banana_from_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 447,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cavendish_banana_from_Maracaibo.jpg/1280px-Cavendish_banana_from_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Cavendish_banana_from_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cavendish_banana_from_Maracaibo.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/22552194",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2012-11-05 00:37:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cavendish banana from Maracaibo",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Bananas in Venezuela|Taken with Nikon D300|Cavendish banana|Self-published work|Files by Wilfredor|Images of Venezuela by User:Wilfredor|Photographs of Maracaibo by Wilfredor|Nature pictures by Wilfredor",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Cavendish banana from Maracaibo, Venezuela",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-11-03 17:44:26",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wilfredor\" class=\"mw-redirect\" title=\"User:Wilfredor\">Wilfredor</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "banana",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cavendish_banana_from_Maracaibo.jpg/960px-Cavendish_banana_from_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "banana_02.jpg",
+    "expected": "banana",
+    "visual_group": "banana_02",
+    "commons_title": "File:Bananas on black background 02.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Bananas_on_black_background_02.jpg/960px-Bananas_on_black_background_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 409,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Bananas_on_black_background_02.jpg/1280px-Bananas_on_black_background_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Bananas_on_black_background_02.jpg/960px-Bananas_on_black_background_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 409,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Bananas_on_black_background_02.jpg/1280px-Bananas_on_black_background_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bananas_on_black_background_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bananas_on_black_background_02.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/113972132",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-01-04 06:05:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Bananas on black background 02",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Bananas in France|Cavendish banana|Bananas as food|Self-published work|Tournasol7's quality images|2 fruit|Yellow on black|Files with coordinates missing SDC location of creation|Occitanie photographs taken on 2021-12-16|Bananas on black background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "44.350000",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "2.575000",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Bananas on black background in Aveyron, France",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-12-16 20:26:22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tournasol7\" title=\"User:Tournasol7\">Krzysztof Golik</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "banana",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Bananas_on_black_background_02.jpg/960px-Bananas_on_black_background_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "banana_03.jpg",
+    "expected": "banana",
+    "visual_group": "banana_03",
+    "commons_title": "File:Green raw bananas.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Green_raw_bananas.jpg/960px-Green_raw_bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 480,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Green_raw_bananas.jpg/1280px-Green_raw_bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Green_raw_bananas.jpg/960px-Green_raw_bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 480,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Green_raw_bananas.jpg/1280px-Green_raw_bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Green_raw_bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Green_raw_bananas.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/114468680",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-04-19 07:50:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Green raw bananas",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Green bananas|Uploaded with Mobile/Android|Photographs taken on 2022-01-19|Musa acuminata (fruit)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Groups of raw green <a href=\"//commons.wikimedia.org/wiki/Banana\" title=\"Banana\">bananas</a> from a felled down banana tree (<a href=\"//commons.wikimedia.org/wiki/Musa_acuminata\" title=\"Musa acuminata\">Musa acuminata</a>)  on 18-19 January 2021 at night because of heavy rain.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "19 January 2022 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vitaium\" title=\"User:Vitaium\">Vitaium</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "banana",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Green_raw_bananas.jpg/960px-Green_raw_bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "banana_04.jpg",
+    "expected": "banana",
+    "visual_group": "banana_04",
+    "commons_title": "File:Banana fruit (musa).jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Banana_fruit_%28musa%29.jpg/960px-Banana_fruit_%28musa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 480,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Banana_fruit_%28musa%29.jpg/1280px-Banana_fruit_%28musa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Banana_fruit_%28musa%29.jpg/960px-Banana_fruit_%28musa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 480,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Banana_fruit_%28musa%29.jpg/1280px-Banana_fruit_%28musa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Banana_fruit_%28musa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Banana_fruit_(musa).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/119913895",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-06-30 01:06:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Banana fruit (musa)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Bananas|Herbaceous plants|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Musa sinansis commonly called as Banana....",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-06-30 06:18:42",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:DEEPAN_RAJA_.M&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:DEEPAN RAJA .M (page does not exist)\">DEEPAN RAJA .M</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "banana",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Banana_fruit_%28musa%29.jpg/960px-Banana_fruit_%28musa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "banana_05.jpg",
+    "expected": "banana",
+    "visual_group": "banana_05",
+    "commons_title": "File:Banana fruits.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Banana_fruits.jpg/960px-Banana_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 1135,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Banana_fruits.jpg/1280px-Banana_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Banana_fruits.jpg/960px-Banana_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 1135,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Banana_fruits.jpg/1280px-Banana_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Banana_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Banana_fruits.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/103925086",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-04-19 07:20:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Banana fruits",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images with watermarks|Self-published work|Green bananas|Bananas in Tamil Nadu",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This is a Banana fruit in tamilnadu",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-04-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Subash_Bose_29&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Subash Bose 29 (page does not exist)\">Subash Bose 29</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "banana",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Banana_fruits.jpg/960px-Banana_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "orange_01.jpg",
+    "expected": "orange",
+    "visual_group": "orange_01",
+    "commons_title": "File:Oranges - whole-halved-segment.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/960px-Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 427,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/1280px-Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/960px-Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 427,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/1280px-Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/98469414",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-03-02 18:09:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Oranges - whole-halved-segment",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oranges|Oranges as food|Self-published work|Featured pictures on Wikipedia, English|Featured pictures of fruit|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Turkish|Featured pictures on Wikipedia, Vietnamese|Featured pictures by iifar|Fruits on gray background|Photographs taken on 2021-01-03|Featured pictures on Wikipedia, Arabic|Focus stacking images of fruits|Uploads by iifar|Focus stacked image",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "featured|potd",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Oranges – whole, halved, and peeled segment",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-01-03",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Iifar\" title=\"User:Iifar\">Ivar Leidus</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "orange",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/960px-Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "orange_02.jpg",
+    "expected": "orange",
+    "visual_group": "orange_02",
+    "commons_title": "File:Ambersweet oranges.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/960px-Ambersweet_oranges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 722,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/1280px-Ambersweet_oranges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/960px-Ambersweet_oranges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 722,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/1280px-Ambersweet_oranges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ambersweet_oranges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambersweet_oranges.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/164959",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2005-05-24 18:39:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ambersweet oranges",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oranges|Files with no machine-readable author|Featured pictures from the United States Government|Media lacking author information|PD USDA ARS|Images with extracted images|Featured pictures of fruit|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Tamil|Formerly featured pictures on Wikipedia, Turkish|Unknown date|Food with black background|Media created by the United States Agricultural Research Service with known IDs|Orange on black|Fruits on black background|Featured photographs in the public domain|Cross sections of oranges|Fruit piles",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "featured|potd",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ambersweet <a href=\"//commons.wikimedia.org/wiki/Orange_(fruit)\" class=\"mw-redirect\" title=\"Orange (fruit)\">oranges</a>, a new cold-resistant orange variety.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Unknown date",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "This image was released by the <a href=\"https://en.wikipedia.org/wiki/Agricultural_Research_Service\" class=\"extiw\" title=\"en:Agricultural Research Service\">Agricultural Research Service</a>, the research agency of the <a href=\"https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture\" class=\"extiw\" title=\"en:United States Department of Agriculture\">United States Department of Agriculture</a>, with the ID <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//www.ars.usda.gov/is/graphics/photos/k3644-12.htm\" href=\"https://www.ars.usda.gov/is/graphics/photos/k3644-12.htm\">k3644-12</a> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/w/index.php?title=Category:Media_created_by_the_United_States_Agricultural_Research_Service_with_known_IDs&amp;filefrom=k3644-12#mw-category-media\" href=\"https://commons.wikimedia.org/w/index.php?title=Category:Media_created_by_the_United_States_Agricultural_Research_Service_with_known_IDs&amp;filefrom=k3644-12#mw-category-media\"><small>(next)</small></a>.",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"boilerplate\" lang=\"en\" id=\"pd\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This image is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> because it contains materials that originally came from the <a href=\"https://en.wikipedia.org/wiki/Agricultural_Research_Service\" class=\"extiw\" title=\"w:Agricultural Research Service\">Agricultural Research Service</a>, the research agency of the <a href=\"https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture\" class=\"extiw\" title=\"w:United States Department of Agriculture\">United States Department of Agriculture</a>.</i>\n<hr>\n<p><span style=\"font-size:small;line-height:1.4\" class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/ar\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/ar\"><bdi class=\"language lang-ar\" lang=\"ar\">العربية</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/da\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/da\"><bdi class=\"language lang-da\" lang=\"da\">dansk</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/de\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/de\"><bdi class=\"language lang-de\" lang=\"de\">Deutsch</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/en\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/en\"><bdi class=\"language lang-en\" lang=\"en\">English</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/es\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/es\"><bdi class=\"language lang-es\" lang=\"es\">español</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/fa\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/fa\"><bdi class=\"language lang-fa\" lang=\"fa\">فارسی</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/fr\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/fr\"><bdi class=\"language lang-fr\" lang=\"fr\">français</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/it\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/it\"><bdi class=\"language lang-it\" lang=\"it\">italiano</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/ja\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/ja\"><bdi class=\"language lang-ja\" lang=\"ja\">日本語</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/mk\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/mk\"><bdi class=\"language lang-mk\" lang=\"mk\">македонски</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/ml\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/ml\"><bdi class=\"language lang-ml\" lang=\"ml\">മലയാളം</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/nl\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/nl\"><bdi class=\"language lang-nl\" lang=\"nl\">Nederlands</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/pt\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/pt\"><bdi class=\"language lang-pt\" lang=\"pt\">português</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/scn\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/scn\"><bdi class=\"language lang-scn\" lang=\"scn\">sicilianu</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/tr\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/tr\"><bdi class=\"language lang-tr\" lang=\"tr\">Türkçe</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/vi\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/vi\"><bdi class=\"language lang-vi\" lang=\"vi\">Tiếng Việt</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/zh\" href=\"https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA-ARS/i18n/zh\"><bdi class=\"language lang-zh\" lang=\"zh\">中文</bdi></a> <b>∙</b> <small class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/w/index.php?title=Template:PD-USGov-USDA-ARS/i18n/lang&amp;action=edit\" href=\"https://commons.wikimedia.org/w/index.php?title=Template:PD-USGov-USDA-ARS/i18n/lang&amp;action=edit\">+/−</a></small></span>\n</p>\n</td>\n<td><span class=\"skin-invert\" typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/US-AgriculturalResearchService-Logo.svg/120px-US-AgriculturalResearchService-Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"42\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/US-AgriculturalResearchService-Logo.svg/250px-US-AgriculturalResearchService-Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"720\" data-file-height=\"475\"></span></span>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "orange",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/960px-Ambersweet_oranges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "orange_03.jpg",
+    "expected": "orange",
+    "visual_group": "orange_03",
+    "commons_title": "File:Orange-Fruit-Pieces.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/960px-Orange-Fruit-Pieces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 411,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/1280px-Orange-Fruit-Pieces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/960px-Orange-Fruit-Pieces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 411,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/1280px-Orange-Fruit-Pieces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orange-Fruit-Pieces.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/19304008",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-11-12 07:35:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Orange-Fruit-Pieces",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony DSLR-A700|Oranges|Evan Amos|Cross sections of oranges|Citrus fruits on white background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Two navel oranges, one whole and the other cut it pieces.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-05-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "orange",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/960px-Orange-Fruit-Pieces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "orange_04.jpg",
+    "expected": "orange",
+    "visual_group": "orange_04",
+    "commons_title": "File:Oranges Óbidos February 2022-1.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Oranges_%C3%93bidos_February_2022-1.jpg/960px-Oranges_%C3%93bidos_February_2022-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 491,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Oranges_%C3%93bidos_February_2022-1.jpg/1280px-Oranges_%C3%93bidos_February_2022-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Oranges_%C3%93bidos_February_2022-1.jpg/960px-Oranges_%C3%93bidos_February_2022-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 491,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Oranges_%C3%93bidos_February_2022-1.jpg/1280px-Oranges_%C3%93bidos_February_2022-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Oranges_%C3%93bidos_February_2022-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oranges_%C3%93bidos_February_2022-1.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/116608117",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-04-02 17:47:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Oranges Óbidos February 2022-1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oranges|Self-published work|Photographs by Alvesgaspar|Orange textures (fruit)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Composition with oranges and a barrel",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-02-28 13:51:16",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Alvesgaspar\" title=\"User:Alvesgaspar\">Alvesgaspar</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "orange",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Oranges_%C3%93bidos_February_2022-1.jpg/960px-Oranges_%C3%93bidos_February_2022-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "orange_05.jpg",
+    "expected": "orange",
+    "visual_group": "orange_05",
+    "commons_title": "File:Orange Fruit (18379).jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Orange_Fruit_%2818379%29.jpg/960px-Orange_Fruit_%2818379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 538,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Orange_Fruit_%2818379%29.jpg/1280px-Orange_Fruit_%2818379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Orange_Fruit_%2818379%29.jpg/960px-Orange_Fruit_%2818379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 538,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Orange_Fruit_%2818379%29.jpg/1280px-Orange_Fruit_%2818379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Orange_Fruit_%2818379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orange_Fruit_(18379).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/202916354",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-11-07 08:46:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Orange Fruit (18379)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Citrus sinensis|CC-Zero|Oranges|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Self-published work missing SDC copyright license|Uploaded with Mobile/Android|Mandarin oranges|Photographs taken on 2026-11-07",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "လိမ္မော်သီး Orange",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "7 November 2026 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:SarKaLay\" title=\"User:SarKaLay\">SarKaLay</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "orange",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Orange_Fruit_%2818379%29.jpg/960px-Orange_Fruit_%2818379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "lemon_01.jpg",
+    "expected": "lemon",
+    "visual_group": "lemon_01",
+    "commons_title": "File:Lemon.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Lemon.jpg/960px-Lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 452,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Lemon.jpg/960px-Lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 452,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lemon.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/59992",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2005-02-14 19:51:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lemon",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Lemon|Taken with Nikon D70|Formerly featured pictures on Wikimedia Commons|Featured pictures on Wikipedia, German|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Turkish|Cross sections of lemons|Citrus fruits on white background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "potd",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This image shows a whole and a cut lemon.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "<p>13 February 2005\n</p>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p><span class=\"int-own-work\" lang=\"en\">Own work</span>\n</p>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<p>André Karwath aka <a href=\"//commons.wikimedia.org/wiki/User:Aka\" title=\"User:Aka\">Aka</a>\n</p>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.5/deed.en\">Attribution-Share Alike 2.5 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.5</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.5 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.5 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "lemon",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Lemon.jpg/960px-Lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "lemon_02.jpg",
+    "expected": "lemon",
+    "visual_group": "lemon_02",
+    "commons_title": "File:Lemon - whole and split.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Lemon_-_whole_and_split.jpg/960px-Lemon_-_whole_and_split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 427,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Lemon_-_whole_and_split.jpg/1280px-Lemon_-_whole_and_split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Lemon_-_whole_and_split.jpg/960px-Lemon_-_whole_and_split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 427,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Lemon_-_whole_and_split.jpg/1280px-Lemon_-_whole_and_split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lemon_-_whole_and_split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lemon_-_whole_and_split.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/97148960",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-01-01 16:54:47",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lemon - whole and split",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Lemon|Self-published work|Featured pictures on Wikipedia, English|Featured pictures of fruit|Featured pictures by iifar|Fruits on black background|Photographs taken on 2020-11-29|Cross sections of Citrus fruits|Two-in-one (opposite)|Focus stacking images of fruits|Uploads by iifar|Focus stacked image",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|featured|potd",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Lemon – whole and halved",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-11-29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Iifar\" title=\"User:Iifar\">Ivar Leidus</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "lemon",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Lemon_-_whole_and_split.jpg/960px-Lemon_-_whole_and_split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "lemon_03.jpg",
+    "expected": "lemon",
+    "visual_group": "lemon_03",
+    "commons_title": "File:Lime - whole and halved.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Lime_-_whole_and_halved.jpg/960px-Lime_-_whole_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 427,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Lime_-_whole_and_halved.jpg/1280px-Lime_-_whole_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Lime_-_whole_and_halved.jpg/960px-Lime_-_whole_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 427,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Lime_-_whole_and_halved.jpg/1280px-Lime_-_whole_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lime_-_whole_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lime_-_whole_and_halved.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/97307282",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-01-30 15:34:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lime - whole and halved",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Limes|Self-published work|Featured pictures on Wikipedia, English|Featured pictures on Wikipedia, Persian|Featured pictures by iifar|Fruits on gray background|Photographs taken on 2022-01-30|Cross sections of limes|Focus stacking images of fruits|Uploads by iifar|Focus stacked image",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "featured",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Limes – whole and halved. Grown in Brazil",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-01-30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Iifar\" title=\"User:Iifar\">Ivar Leidus</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "lime",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Lime_-_whole_and_halved.jpg/960px-Lime_-_whole_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "lemon_04.jpg",
+    "expected": "lemon",
+    "visual_group": "lemon_04",
+    "commons_title": "File:Lime-Whole-Split.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Lime-Whole-Split.jpg/960px-Lime-Whole-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 308,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Lime-Whole-Split.jpg/1280px-Lime-Whole-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Lime-Whole-Split.jpg/960px-Lime-Whole-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 308,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Lime-Whole-Split.jpg/1280px-Lime-Whole-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lime-Whole-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lime-Whole-Split.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/16979841",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2011-10-14 08:35:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lime-Whole-Split",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony DSLR-A700|CC-Zero|Limes|Self-published work|Evan Amos|Citrus fruits on white background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A whole lime and a lime that has been cut in half.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2011-10-13",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "lime",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Lime-Whole-Split.jpg/960px-Lime-Whole-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "lemon_05.jpg",
+    "expected": "lemon",
+    "visual_group": "lemon_05",
+    "commons_title": "File:Lime CDC.jpg",
+    "info": {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lime_CDC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 640,
+      "thumbheight": 538,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lime_CDC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 538
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lime_CDC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lime_CDC.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/130316",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2005-05-05 06:40:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lime CDC",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Files with no machine-readable author|Files with no machine-readable source|Media missing infobox template|PD US HHS CDC|Unknown date|Cross sections of limes",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "lime",
+    "download_error": "HTTP Error 429: Too many requests. Please contact the Wikimedia SRE team at noc@wikimedia.org and refer to this message. (daab851)"
+  },
+  {
+    "file": "pineapple_01.jpg",
+    "expected": "pineapple",
+    "visual_group": "pineapple_01",
+    "commons_title": "File:Pineapple fruit 2.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pineapple_fruit_2.jpg/960px-Pineapple_fruit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 714,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pineapple_fruit_2.jpg/1280px-Pineapple_fruit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pineapple_fruit_2.jpg/960px-Pineapple_fruit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 714,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pineapple_fruit_2.jpg/1280px-Pineapple_fruit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Pineapple_fruit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pineapple_fruit_2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/25211393",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-03-21 02:13:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pineapple fruit 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Fruit of Venezuela|Taken with Nikon D300|CC-Zero|Pineapples|Self-published work|Photographs taken on 2013-03-16|Files with coordinates missing SDC location of creation|March 2013 Venezuela photographs|Images of Venezuela by User:Wilfredor|Photographs of Maracaibo by Wilfredor|Food of Maracaibo|Fruits by Wilfredor|Food by Wilfredor",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "10.642990",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-71.614650",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Pineapple fruit",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-03-16 09:53:52",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wilfredor\" class=\"mw-redirect\" title=\"User:Wilfredor\">Wilfredor</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "pineapple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pineapple_fruit_2.jpg/960px-Pineapple_fruit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "pineapple_02.jpg",
+    "expected": "pineapple",
+    "visual_group": "pineapple_02",
+    "commons_title": "File:Pineapple Chunks.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Pineapple_Chunks.jpg/960px-Pineapple_Chunks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 853,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Pineapple_Chunks.jpg/1280px-Pineapple_Chunks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Pineapple_Chunks.jpg/960px-Pineapple_Chunks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 853,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Pineapple_Chunks.jpg/1280px-Pineapple_Chunks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Pineapple_Chunks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pineapple_Chunks.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/127038445",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-12-26 16:30:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pineapple Chunks",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Fruit of Nepal|Self-published work|Pineapples in Nepal|Files with coordinates missing SDC location of creation|Pineapple slices",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "27.702227",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "85.348882",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Pineapple Chunks.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-08-07 18:39:57",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gaurav_Dhwaj_Khadka\" title=\"User:Gaurav Dhwaj Khadka\">Gaurav Dhwaj Khadka</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "pineapple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Pineapple_Chunks.jpg/960px-Pineapple_Chunks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "pineapple_03.jpg",
+    "expected": "pineapple",
+    "visual_group": "pineapple_03",
+    "commons_title": "File:Pineapple Fruit.jpg",
+    "info": {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Pineapple_Fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 640,
+      "thumbheight": 853,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Pineapple_Fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 853
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Pineapple_Fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pineapple_Fruit.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/119917076",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-06-30 05:12:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pineapple Fruit",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pineapples|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Subject-Initiative of Free knowledge club,periyar university",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-06-07",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E0%AE%9A%E0%AE%9A%E0%AE%BF%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%AE%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AF%8D&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:சசிகுமார் காமராஜ் (page does not exist)\">சசிகுமார் காமராஜ்</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "pineapple",
+    "download_error": "HTTP Error 429: Too many requests. Please contact the Wikimedia SRE team at noc@wikimedia.org and refer to this message. (daab851)"
+  },
+  {
+    "file": "pineapple_04.jpg",
+    "expected": "pineapple",
+    "visual_group": "pineapple_04",
+    "commons_title": "File:Pineapple fruit, April 2023.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pineapple_fruit%2C_April_2023.jpg/960px-Pineapple_fruit%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 850,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pineapple_fruit%2C_April_2023.jpg/1280px-Pineapple_fruit%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pineapple_fruit%2C_April_2023.jpg/960px-Pineapple_fruit%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 850,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pineapple_fruit%2C_April_2023.jpg/1280px-Pineapple_fruit%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Pineapple_fruit%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pineapple_fruit,_April_2023.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/131118903",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-04-24 23:44:37",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pineapple fruit, April 2023",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Files with coordinates missing SDC location of creation|Pineapples in Nigeria|Taken with Xiaomi Redmi 12C",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "6.680216",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "3.367150",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "View of a fruit market in a sunny day",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-04-24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Grace789\" title=\"User:Grace789\">Grace789</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "pineapple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pineapple_fruit%2C_April_2023.jpg/960px-Pineapple_fruit%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "pineapple_05.jpg",
+    "expected": "pineapple",
+    "visual_group": "pineapple_05",
+    "commons_title": "File:Pineapple victoria dsc07770.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pineapple_victoria_dsc07770.jpg/960px-Pineapple_victoria_dsc07770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 785,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pineapple_victoria_dsc07770.jpg/1280px-Pineapple_victoria_dsc07770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pineapple_victoria_dsc07770.jpg/960px-Pineapple_victoria_dsc07770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 785,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pineapple_victoria_dsc07770.jpg/1280px-Pineapple_victoria_dsc07770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pineapple_victoria_dsc07770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pineapple_victoria_dsc07770.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/296434",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2005-08-28 11:42:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pineapple victoria dsc07770",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Cuisine of Réunion|July 2005 in Réunion|GFDL|Taken with Sony DSC-P92|Pineapples|License migration completed|Victoria pineapples|Fruit of Réunion",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p><i><a href=\"//commons.wikimedia.org/wiki/Ananas_comosus\" title=\"Ananas comosus\">Ananas comosus</a></i> 'Victoria'\n</p><p>(Victoria pineapple)\n</p>\nÎle de la Réunion",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2005",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:David.Monniaux\" title=\"User:David.Monniaux\">David Monniaux</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "pineapple",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pineapple_victoria_dsc07770.jpg/960px-Pineapple_victoria_dsc07770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "strawberry_01.jpg",
+    "expected": "strawberry",
+    "visual_group": "strawberry_01",
+    "commons_title": "File:Strawberry-10.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Strawberry-10.jpg/960px-Strawberry-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 480,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Strawberry-10.jpg/1280px-Strawberry-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Strawberry-10.jpg/960px-Strawberry-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 480,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Strawberry-10.jpg/1280px-Strawberry-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Strawberry-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Strawberry-10.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/135752017",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-08-09 19:13:31",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Strawberry-10",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Paintings of fruit|Strawberries in art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Painting of a strawberry fruit.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-10-27",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.nagahitoyuki.com/2015/10/chasing-strawberries-i-had-a-distinction-between-vegetables-and-fruits.html\">https://www.nagahitoyuki.com/2015/10/chasing-strawberries-i-had-a-distinction-between-vegetables-and-fruits.html</a> 苺を追いかけて野菜と果物も見分けが付いた[]",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nagahitoyuki.com/\">些細な日常</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "strawberry",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Strawberry-10.jpg/960px-Strawberry-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "strawberry_02.jpg",
+    "expected": "strawberry",
+    "visual_group": "strawberry_02",
+    "commons_title": "File:STRAWBERRY SPROUTING green sprout vivipary achenes oblong fruit close-up Jordbær grønt skudd (bought in Norway December 2020) IMG 2524.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg/960px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 480,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg/1280px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg/960px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 480,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg/1280px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_(bought_in_Norway_December_2020)_IMG_2524.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/98158191",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-12-28 09:32:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "STRAWBERRY SPROUTING green sprout vivipary achenes oblong fruit close-up Jordbær grønt skudd (bought in Norway December 2020) IMG 2524",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Strawberries|Self-published work|Seedlings growing from fruit|Seed sprouters",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/Strawberry\" class=\"extiw\" title=\"en:Strawberry\">Strawberry</a> sprouting (<a href=\"https://en.wikipedia.org/wiki/vivipary\" class=\"extiw\" title=\"en:vivipary\">vivipary</a>). Seedlings growing from fruit. Close-up of oblong red fruit with green sprout and achenes (seeds). Berry bought in Norway in December 2020.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-12-24 13:10:16",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wolfmann\" title=\"User:Wolfmann\">Wolfmann</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "strawberry",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg/960px-STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_%28bought_in_Norway_December_2020%29_IMG_2524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "strawberry_03.jpg",
+    "expected": "strawberry",
+    "visual_group": "strawberry_03",
+    "commons_title": "File:Strawberry fruit sliced.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Strawberry_fruit_sliced.jpg/960px-Strawberry_fruit_sliced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 480,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Strawberry_fruit_sliced.jpg/1280px-Strawberry_fruit_sliced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Strawberry_fruit_sliced.jpg/960px-Strawberry_fruit_sliced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 480,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Strawberry_fruit_sliced.jpg/1280px-Strawberry_fruit_sliced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Strawberry_fruit_sliced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Strawberry_fruit_sliced.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/24895142",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-02-27 16:01:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Strawberry fruit sliced",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-author|Images uploaded by Fæ|Public-domain-image.com|Cross sections of strawberries|Photographs by Paolo Neo",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<br>\n<dl><dd>Image title: Strawberry fruit sliced</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/full-image/flora-plants-public-domain-images-pictures/fruits-public-domain-images-pictures/strawberries-pictures/strawberry-fruit-sliced.jpg.html\">http://www.public-domain-image.com/full-image/flora-plants-public-domain-images-pictures/fruits-public-domain-images-pictures/strawberries-pictures/strawberry-fruit-sliced.jpg.html</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-02-27</li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/flora-plants-public-domain-images-pictures/fruits-public-domain-images-pictures/strawberries-pictures/strawberry-fruit-sliced.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/flora-plants-public-domain-images-pictures/fruits-public-domain-images-pictures/strawberries-pictures/strawberry-fruit-sliced.jpg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Paolo Neo",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "strawberry",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Strawberry_fruit_sliced.jpg/960px-Strawberry_fruit_sliced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "strawberry_04.jpg",
+    "expected": "strawberry",
+    "visual_group": "strawberry_04",
+    "commons_title": "File:Strawberry fruit in studio.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Strawberry_fruit_in_studio.jpg/960px-Strawberry_fruit_in_studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 640,
+      "thumbheight": 480,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Strawberry_fruit_in_studio.jpg/1280px-Strawberry_fruit_in_studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Strawberry_fruit_in_studio.jpg/960px-Strawberry_fruit_in_studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 480,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Strawberry_fruit_in_studio.jpg/1280px-Strawberry_fruit_in_studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Strawberry_fruit_in_studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Strawberry_fruit_in_studio.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/24916505",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-02-28 23:15:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Strawberry fruit in studio",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-author|Images uploaded by Fæ|Public-domain-image.com|Public-domain-image.com (check needed)|Single strawberries|Photographs by Paolo Neo",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<br>\n<dl><dd>Image title: Strawberry fruit in studio</dd>\n<dd>Image from Public domain images website, <a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/full-image/photography-studio-public-domain-images-pictures/strawberry-fruit-in-studio.jpg.html\">http://www.public-domain-image.com/full-image/photography-studio-public-domain-images-pictures/strawberry-fruit-in-studio.jpg.html</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "<p>Not given\n</p>\n<ul><li>Transferred by <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:Fæ\">Fæ</a> on 2013-02-28</li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/photography-studio-public-domain-images-pictures/strawberry-fruit-in-studio.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/photography-studio-public-domain-images-pictures/strawberry-fruit-in-studio.jpg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Paolo Neo",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "strawberry",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Strawberry_fruit_in_studio.jpg/960px-Strawberry_fruit_in_studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "file": "strawberry_05.jpg",
+    "expected": "strawberry",
+    "visual_group": "strawberry_05",
+    "commons_title": "File:Strawberry pile.jpg",
+    "info": {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Strawberry_pile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 640,
+      "thumbheight": 572,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Strawberry_pile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 640,
+        "height": 572
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Strawberry_pile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Strawberry_pile.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/94666722",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-10-02 05:28:29",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Strawberry pile",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Strawberries|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Project 3.2 Using Online Resources",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-10-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Alda_Rizky_Nur_Afida&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Alda Rizky Nur Afida (page does not exist)\">Alda Rizky Nur Afida</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "subtype": "strawberry",
+    "download_error": "HTTP Error 429: Too many requests. Please contact the Wikimedia SRE team at noc@wikimedia.org and refer to this message. (daab851)"
+  }
+]

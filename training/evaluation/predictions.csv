@@ -1,0 +1,1501 @@
+﻿file,actual,predicted,confidence,accepted
+apple\Apple 10__r0_211_100.jpg,apple,apple,0.9999258518218994,True
+apple\Apple 10__r0_215_100.jpg,apple,apple,0.9999151229858398,True
+apple\Apple 10__r0_43_100.jpg,apple,apple,0.9999855756759644,True
+apple\Apple 10__r0_95_100.jpg,apple,apple,0.9994726777076721,True
+apple\Apple 10__r1_143_100.jpg,apple,apple,0.9987926483154297,True
+apple\Apple 10__r1_171_100.jpg,apple,apple,0.9979740977287292,True
+apple\Apple 10__r1_47_100.jpg,apple,apple,0.9999631643295288,True
+apple\Apple 10__r1_75_100.jpg,apple,apple,0.9999969005584717,True
+apple\Apple 10__r1_79_100.jpg,apple,apple,0.9999958276748657,True
+apple\Apple 10__r2_107_100.jpg,apple,apple,0.9999978542327881,True
+apple\Apple 10__r2_231_100.jpg,apple,apple,0.9998644590377808,True
+apple\Apple 10__r2_247_100.jpg,apple,apple,0.9999921321868896,True
+apple\Apple 10__r2_259_100.jpg,apple,apple,0.9999963045120239,True
+apple\Apple 11__r0_107_100.jpg,apple,apple,0.9999350309371948,True
+apple\Apple 11__r0_127_100.jpg,apple,apple,0.9998194575309753,True
+apple\Apple 11__r0_131_100.jpg,apple,apple,0.9999332427978516,True
+apple\Apple 11__r0_231_100.jpg,apple,apple,0.9999861717224121,True
+apple\Apple 11__r0_247_100.jpg,apple,apple,0.9999356269836426,True
+apple\Apple 11__r0_251_100.jpg,apple,apple,0.9999582767486572,True
+apple\Apple 11__r0_43_100.jpg,apple,apple,0.9999475479125977,True
+apple\Apple 11__r0_79_100.jpg,apple,apple,0.9999709129333496,True
+apple\Apple 12__r0_119_100.jpg,apple,apple,0.9999942779541016,True
+apple\Apple 12__r0_127_100.jpg,apple,apple,0.999971866607666,True
+apple\Apple 12__r0_171_100.jpg,apple,apple,0.9999898672103882,True
+apple\Apple 12__r0_191_100.jpg,apple,apple,0.9999969005584717,True
+apple\Apple 12__r0_263_100.jpg,apple,apple,0.999969482421875,True
+apple\Apple 12__r0_55_100.jpg,apple,apple,0.9999998807907104,True
+apple\Apple 12__r0_83_100.jpg,apple,apple,0.9999990463256836,True
+apple\Apple 12__r1_183_100.jpg,apple,apple,0.999990701675415,True
+apple\Apple 12__r1_215_100.jpg,apple,apple,0.9999504089355469,True
+apple\Apple 12__r1_223_100.jpg,apple,apple,0.9999781847000122,True
+apple\Apple 13__r0_35_100.jpg,apple,apple,0.9903046488761902,True
+apple\Apple 13__r0_47_100.jpg,apple,apple,0.9809354543685913,True
+apple\Apple 13__r1_183_100.jpg,apple,apple,0.9999969005584717,True
+apple\Apple 13__r1_219_100.jpg,apple,apple,0.9986691474914551,True
+apple\Apple 13__r1_71_100.jpg,apple,apple,0.9998218417167664,True
+apple\Apple 13__r1_83_100.jpg,apple,apple,0.9999998807907104,True
+apple\Apple 13__r2_187_100.jpg,apple,apple,0.9999794960021973,True
+apple\Apple 13__r2_67_100.jpg,apple,apple,0.9999996423721313,True
+apple\Apple 13__r2_83_100.jpg,apple,apple,0.9999998807907104,True
+apple\Apple 13__r2_87_100.jpg,apple,apple,1.0,True
+apple\Apple 14__r0_143_100.jpg,apple,apple,0.999993085861206,True
+apple\Apple 14__r0_199_100.jpg,apple,apple,0.9999998807907104,True
+apple\Apple 14__r0_275_100.jpg,apple,apple,0.9993845224380493,True
+apple\Apple 14__r1_179_100.jpg,apple,apple,0.9999967813491821,True
+apple\Apple 14__r1_207_100.jpg,apple,apple,0.9993835687637329,True
+apple\Apple 14__r1_211_100.jpg,apple,apple,0.9994055032730103,True
+apple\Apple 14__r1_215_100.jpg,apple,apple,0.9985983967781067,True
+apple\Apple 14__r1_31_100.jpg,apple,apple,0.9999980926513672,True
+apple\Apple 17__r1_107_100.jpg,apple,apple,0.9997690320014954,True
+apple\Apple 17__r1_123_100.jpg,apple,apple,0.9999723434448242,True
+apple\Apple 17__r1_79_100.jpg,apple,apple,0.9999983310699463,True
+apple\Apple 17__r2_119_100.jpg,apple,apple,0.9982048273086548,True
+apple\Apple 17__r2_151_100.jpg,apple,apple,0.9999845027923584,True
+apple\Apple 17__r2_15_100.jpg,apple,apple,0.9999620914459229,True
+apple\Apple 17__r2_191_100.jpg,apple,apple,0.9999867677688599,True
+apple\Apple 17__r2_195_100.jpg,apple,apple,0.9999910593032837,True
+apple\Apple 17__r2_283_100.jpg,apple,apple,0.9997016787528992,True
+apple\Apple 17__r2_47_100.jpg,apple,apple,0.9999936819076538,True
+apple\Apple 17__r2_99_100.jpg,apple,apple,0.9999539852142334,True
+apple\Apple 18__r0_155_100.jpg,apple,apple,0.9999991655349731,True
+apple\Apple 18__r0_19_100.jpg,apple,apple,0.9999996423721313,True
+apple\Apple 18__r0_211_100.jpg,apple,apple,0.9999998807907104,True
+apple\Apple 18__r0_243_100.jpg,apple,apple,0.9999983310699463,True
+apple\Apple 18__r0_27_100.jpg,apple,apple,0.9999997615814209,True
+apple\Apple 18__r1_11_100.jpg,apple,apple,0.9999762773513794,True
+apple\Apple 18__r1_39_100.jpg,apple,apple,0.9999990463256836,True
+apple\Apple 18__r2_27_100.jpg,apple,apple,0.9999998807907104,True
+apple\Apple 18__r2_39_100.jpg,apple,apple,0.9999474287033081,True
+apple\Apple 19__r0_143_100.jpg,apple,apple,0.9985595345497131,True
+apple\Apple 19__r0_147_100.jpg,apple,apple,0.9997685551643372,True
+apple\Apple 19__r0_171_100.jpg,apple,apple,0.9997175335884094,True
+apple\Apple 19__r0_211_100.jpg,apple,apple,0.9998881816864014,True
+apple\Apple 19__r0_219_100.jpg,apple,apple,0.9997621178627014,True
+apple\Apple 19__r0_227_100.jpg,apple,apple,0.99979168176651,True
+apple\Apple 19__r0_251_100.jpg,apple,apple,0.9999711513519287,True
+apple\Apple 19__r0_259_100.jpg,apple,apple,0.9999427795410156,True
+apple\Apple 19__r0_315_100.jpg,apple,apple,0.9998862743377686,True
+apple\Apple 19__r1_159_100.jpg,apple,apple,0.9997641444206238,True
+apple\Apple 19__r1_203_100.jpg,apple,apple,0.9999744892120361,True
+apple\Apple 19__r1_207_100.jpg,apple,apple,0.999902606010437,True
+apple\Apple 19__r1_283_100.jpg,apple,apple,0.9999861717224121,True
+apple\Apple 19__r2_183_100.jpg,apple,apple,0.9995459914207458,True
+apple\Apple 19__r2_227_100.jpg,apple,apple,0.9999390840530396,True
+apple\Apple 19__r2_231_100.jpg,apple,apple,0.9999667406082153,True
+apple\Apple 20__r0_267_100.jpg,apple,apple,0.9999772310256958,True
+apple\Apple 20__r0_275_100.jpg,apple,apple,0.9999785423278809,True
+apple\Apple 20__r0_31_100.jpg,apple,apple,0.999998927116394,True
+apple\Apple 20__r0_3_100.jpg,apple,apple,1.0,True
+apple\Apple 20__r1_135_100.jpg,apple,apple,0.999940037727356,True
+apple\Apple 20__r1_35_100.jpg,apple,apple,0.9999986886978149,True
+apple\Apple 20__r2_11_100.jpg,apple,apple,0.9999997615814209,True
+apple\Apple 20__r2_135_100.jpg,apple,apple,0.9943311214447021,True
+apple\Apple 20__r2_143_100.jpg,apple,apple,0.9999041557312012,True
+apple\Apple 20__r2_171_100.jpg,apple,apple,0.9999978542327881,True
+apple\Apple 20__r2_215_100.jpg,apple,apple,0.9999362230300903,True
+apple\Apple 21__r0_19_100.jpg,apple,apple,0.9999560117721558,True
+apple\Apple 21__r0_203_100.jpg,apple,apple,0.9998514652252197,True
+apple\Apple 21__r0_287_100.jpg,apple,apple,0.9808158278465271,True
+apple\Apple 21__r1_135_100.jpg,apple,apple,0.9999028444290161,True
+apple\Apple 21__r1_307_100.jpg,apple,apple,0.9963791966438293,True
+apple\Apple 22__r0_211_100.jpg,apple,apple,0.9999372959136963,True
+apple\Apple 22__r0_71_100.jpg,apple,apple,0.9999676942825317,True
+apple\Apple 22__r1_35_100.jpg,apple,apple,0.9999995231628418,True
+apple\Apple 22__r2_143_100.jpg,apple,apple,0.9998819828033447,True
+apple\Apple 22__r2_223_100.jpg,apple,apple,0.9999936819076538,True
+apple\Apple 23__r0_111_100.jpg,apple,apple,0.9997403025627136,True
+apple\Apple 23__r0_163_100.jpg,apple,apple,0.9999030828475952,True
+apple\Apple 23__r0_219_100.jpg,apple,apple,0.9997068047523499,True
+apple\Apple 23__r0_79_100.jpg,apple,apple,0.9994472861289978,True
+apple\Apple 23__r1_195_100.jpg,apple,apple,0.9731609225273132,True
+apple\Apple 23__r1_231_100.jpg,apple,apple,0.9980827569961548,True
+apple\Apple 23__r1_263_100.jpg,apple,apple,0.999863862991333,True
+apple\Apple 23__r1_83_100.jpg,apple,apple,0.9999655485153198,True
+apple\Apple 23__r1_99_100.jpg,apple,apple,0.9968404769897461,True
+apple\Apple 5__r0_271_100.jpg,apple,apple,0.986854076385498,True
+apple\Apple 5__r0_55_100.jpg,apple,apple,0.996783971786499,True
+apple\Apple 5__r0_59_100.jpg,apple,apple,0.9992724061012268,True
+apple\Apple 5__r1_215_100.jpg,apple,apple,0.9999575614929199,True
+apple\Apple 5__r1_287_100.jpg,apple,apple,0.9999995231628418,True
+apple\Apple 6__r0_299_100.jpg,apple,apple,0.9999624490737915,True
+apple\Apple 6__r1_111_100.jpg,apple,apple,0.9999998807907104,True
+apple\Apple 6__r1_275_100.jpg,apple,apple,0.999940037727356,True
+apple\Apple 6__r1_279_100.jpg,apple,apple,0.9994332194328308,True
+apple\Apple 7__r0_131_100.jpg,apple,apple,0.9999996423721313,True
+apple\Apple 7__r0_83_100.jpg,apple,apple,0.9999959468841553,True
+apple\Apple 7__r1_103_100.jpg,apple,apple,0.9999970197677612,True
+apple\Apple 7__r1_95_100.jpg,apple,apple,0.9999984502792358,True
+apple\Apple 7__r2_123_100.jpg,apple,apple,0.9999998807907104,True
+apple\Apple 7__r2_139_100.jpg,apple,apple,0.9998677968978882,True
+apple\Apple 7__r2_147_100.jpg,apple,apple,0.9999111890792847,True
+apple\Apple 7__r2_15_100.jpg,apple,apple,0.9998270869255066,True
+apple\Apple 7__r2_175_100.jpg,apple,apple,0.9999580383300781,True
+apple\Apple 7__r2_231_100.jpg,apple,apple,0.999998927116394,True
+apple\Apple 7__r2_87_100.jpg,apple,apple,0.999969482421875,True
+apple\Apple 7__r2_95_100.jpg,apple,apple,0.9999985694885254,True
+apple\Apple 8__r0_119_100.jpg,apple,apple,0.9999942779541016,True
+apple\Apple 8__r1_203_100.jpg,apple,apple,0.9997848868370056,True
+apple\Apple 8__r2_203_100.jpg,apple,apple,0.9999960660934448,True
+apple\Apple 8__r2_59_100.jpg,apple,apple,0.9999557733535767,True
+apple\Apple 9__r0_131_100.jpg,apple,apple,0.9965261816978455,True
+apple\Apple 9__r0_195_100.jpg,apple,apple,0.999977707862854,True
+apple\Apple 9__r0_211_100.jpg,apple,apple,0.9997896552085876,True
+apple\Apple 9__r0_291_100.jpg,apple,apple,0.9978423118591309,True
+apple\Apple 9__r0_3_100.jpg,apple,apple,0.9988749623298645,True
+apple\Apple 9__r0_99_100.jpg,apple,apple,0.9999918937683105,True
+apple\Apple 9__r1_27_100.jpg,apple,apple,0.9999971389770508,True
+apple\Apple 9__r1_291_100.jpg,apple,apple,0.9999750852584839,True
+apple\Apple 9__r2_103_100.jpg,apple,apple,0.9999701976776123,True
+apple\Apple 9__r2_11_100.jpg,apple,apple,0.9999974966049194,True
+apple\Apple 9__r2_207_100.jpg,apple,apple,0.9999991655349731,True
+apple\Apple 9__r2_211_100.jpg,apple,apple,0.9999980926513672,True
+apple\Apple 9__r2_223_100.jpg,apple,apple,0.9999986886978149,True
+apple\Apple 9__r2_259_100.jpg,apple,apple,0.9999911785125732,True
+apple\Apple 9__r2_55_100.jpg,apple,apple,0.9999731779098511,True
+apple\Apple 9__r2_59_100.jpg,apple,apple,0.9998809099197388,True
+apple\Apple Braeburn 1__36_100.jpg,apple,apple,0.9999911785125732,True
+apple\Apple Braeburn 1__68_100.jpg,apple,apple,0.9999902248382568,True
+apple\Apple Braeburn 1__71_100.jpg,apple,apple,0.9999926090240479,True
+apple\Apple Braeburn 1__73_100.jpg,apple,apple,0.9999868869781494,True
+apple\Apple Braeburn 1__r_324_100.jpg,apple,apple,0.999947190284729,True
+apple\Apple Braeburn 1__r_39_100.jpg,apple,apple,0.9995903372764587,True
+apple\Apple Braeburn 1__r_48_100.jpg,apple,apple,0.999954104423523,True
+apple\Apple Braeburn 1__r_50_100.jpg,apple,apple,0.9999336004257202,True
+apple\Apple Braeburn 1__r_69_100.jpg,apple,apple,0.9999840259552002,True
+apple\Apple Braeburn 1__r_6_100.jpg,apple,apple,0.9999278783798218,True
+apple\Apple Crimson Snow 1__113_100.jpg,apple,apple,0.9999741315841675,True
+apple\Apple Crimson Snow 1__114_100.jpg,apple,apple,0.9999736547470093,True
+apple\Apple Crimson Snow 1__122_100.jpg,apple,apple,0.9999516010284424,True
+apple\Apple Crimson Snow 1__88_100.jpg,apple,apple,0.9999637603759766,True
+apple\Apple Crimson Snow 1__r_24_100.jpg,apple,apple,0.9999939203262329,True
+apple\Apple Crimson Snow 1__r_48_100.jpg,apple,apple,0.9999741315841675,True
+apple\Apple Crimson Snow 1__r_60_100.jpg,apple,apple,0.9999715089797974,True
+apple\Apple Golden 1__120_100.jpg,apple,apple,0.9990907907485962,True
+apple\Apple Golden 1__r_39_100.jpg,apple,apple,0.999018669128418,True
+apple\Apple Golden 1__r_71_100.jpg,apple,apple,0.999849796295166,True
+apple\Apple Golden 1__r_89_100.jpg,apple,apple,0.9996144771575928,True
+apple\Apple Golden 2__46_100.jpg,apple,apple,0.9998311996459961,True
+apple\Apple Golden 2__52_100.jpg,apple,apple,0.9999939203262329,True
+apple\Apple Golden 2__95_100.jpg,apple,apple,0.9999804496765137,True
+apple\Apple Golden 2__r_322_100.jpg,apple,apple,0.9997739195823669,True
+apple\Apple Golden 2__r_52_100.jpg,apple,apple,0.9999101161956787,True
+apple\Apple Golden 2__r_8_100.jpg,apple,apple,0.9977335929870605,True
+apple\Apple Golden 2__r_9_100.jpg,apple,apple,0.999704897403717,True
+apple\Apple Golden 3__39_100.jpg,apple,apple,0.9999974966049194,True
+apple\Apple Golden 3__71_100.jpg,apple,apple,0.9999898672103882,True
+apple\Apple Golden 3__79_100.jpg,apple,apple,0.9999947547912598,True
+apple\Apple Golden 3__91_100.jpg,apple,apple,0.99994957447052,True
+apple\Apple Golden 3__r_39_100.jpg,apple,apple,0.9999983310699463,True
+apple\Apple Granny Smith 1__45_100.jpg,apple,apple,0.9999954700469971,True
+apple\Apple Granny Smith 1__84_100.jpg,apple,apple,0.9999990463256836,True
+apple\Apple Granny Smith 1__r_59_100.jpg,apple,apple,0.9999767541885376,True
+apple\Apple Granny Smith 1__r_61_100.jpg,apple,apple,0.9999905824661255,True
+apple\Apple Granny Smith 1__r_70_100.jpg,apple,apple,0.9999912977218628,True
+apple\Apple Granny Smith 1__r_82_100.jpg,apple,apple,0.9999960660934448,True
+apple\Apple Granny Smith 1__r_85_100.jpg,apple,apple,0.9999970197677612,True
+apple\Apple Pink Lady 1__229_100.jpg,apple,apple,0.99934321641922,True
+apple\Apple Pink Lady 1__267_100.jpg,apple,apple,0.9999315738677979,True
+apple\Apple Pink Lady 1__r_73_100.jpg,apple,apple,0.9999573230743408,True
+apple\Apple Red 1__35_100.jpg,apple,apple,0.9999150037765503,True
+apple\Apple Red 1__46_100.jpg,apple,apple,0.9996966123580933,True
+apple\Apple Red 1__49_100.jpg,apple,apple,0.9999639987945557,True
+apple\Apple Red 1__60_100.jpg,apple,apple,0.9999772310256958,True
+apple\Apple Red 1__7_100.jpg,apple,apple,0.9998031258583069,True
+apple\Apple Red 1__89_100.jpg,apple,apple,0.9999386072158813,True
+apple\Apple Red 1__r_39_100.jpg,apple,apple,0.9999483823776245,True
+apple\Apple Red 2__325_100.jpg,apple,apple,0.9999865293502808,True
+apple\Apple Red 2__37_100.jpg,apple,apple,0.9999908208847046,True
+apple\Apple Red 2__40_100.jpg,apple,apple,0.9998306035995483,True
+apple\Apple Red 2__53_100.jpg,apple,apple,0.9999390840530396,True
+apple\Apple Red 2__55_100.jpg,apple,apple,0.9999271631240845,True
+apple\Apple Red 2__82_100.jpg,apple,apple,0.999988317489624,True
+apple\Apple Red 2__r_325_100.jpg,apple,apple,0.9771456718444824,True
+apple\Apple Red 2__r_46_100.jpg,apple,apple,0.9906347393989563,True
+apple\Apple Red 2__r_64_100.jpg,apple,apple,0.9999767541885376,True
+apple\Apple Red 2__r_66_100.jpg,apple,apple,0.9999862909317017,True
+apple\Apple Red 2__r_7_100.jpg,apple,apple,0.9979166388511658,True
+apple\Apple Red 2__r_8_100.jpg,apple,apple,0.9975733160972595,True
+apple\Apple Red 3__63_100.jpg,apple,apple,0.9996823072433472,True
+apple\Apple Red 3__78_100.jpg,apple,apple,0.9998241066932678,True
+apple\Apple Red 3__r_326_100.jpg,apple,apple,0.9999758005142212,True
+apple\Apple Red 3__r_38_100.jpg,apple,apple,0.9999778270721436,True
+apple\Apple Red 3__r_87_100.jpg,apple,apple,0.9946610331535339,True
+apple\Apple Red Delicious 1__167_100.jpg,apple,apple,0.9997650980949402,True
+apple\Apple Red Delicious 1__228_100.jpg,apple,apple,0.9999485015869141,True
+apple\Apple Red Delicious 1__309_100.jpg,apple,apple,0.9999072551727295,True
+apple\Apple Red Delicious 1__317_100.jpg,apple,apple,0.9997171759605408,True
+apple\Apple Red Delicious 1__8_100.jpg,apple,apple,0.9999140501022339,True
+apple\Apple Red Delicious 1__r_144_100.jpg,apple,apple,0.9982505440711975,True
+apple\Apple Red Delicious 1__r_148_100.jpg,apple,apple,0.9976935982704163,True
+apple\Apple Red Delicious 1__r_169_100.jpg,apple,apple,0.9997501969337463,True
+apple\Apple Red Delicious 1__r_312_100.jpg,apple,apple,0.9985958933830261,True
+apple\Apple Red Delicious 1__r_313_100.jpg,apple,apple,0.9989803433418274,True
+apple\Apple Red Delicious 1__r_314_100.jpg,apple,apple,0.9984612464904785,True
+apple\Apple Red Yellow 1__36_100.jpg,apple,apple,0.9997161030769348,True
+apple\Apple Red Yellow 1__60_100.jpg,apple,apple,0.9997733235359192,True
+apple\Apple Red Yellow 1__79_100.jpg,apple,apple,0.9999433755874634,True
+apple\Apple Red Yellow 1__85_100.jpg,apple,apple,0.9828544855117798,True
+apple\Apple Red Yellow 1__91_100.jpg,apple,apple,0.995400607585907,True
+apple\Apple Red Yellow 1__r_322_100.jpg,apple,apple,0.9998830556869507,True
+apple\Apple Red Yellow 1__r_58_100.jpg,apple,apple,0.9987364411354065,True
+apple\Apple Red Yellow 1__r_79_100.jpg,apple,lemon,0.5671623349189758,False
+apple\Apple Red Yellow 1__r_93_100.jpg,apple,apple,0.7944969534873962,True
+apple\Apple Red Yellow 1__r_97_100.jpg,apple,apple,0.8781377077102661,True
+apple\Apple Red Yellow 2__247_100.jpg,apple,apple,0.9998549222946167,True
+apple\Apple Red Yellow 2__r2_213_100.jpg,apple,apple,0.9999063014984131,True
+apple\Apple Red Yellow 2__r_230_100.jpg,apple,apple,0.9994367957115173,True
+apple\Apple Red Yellow 2__r_249_100.jpg,apple,apple,0.9991201758384705,True
+apple\Apple Red Yellow 2__r_256_100.jpg,apple,apple,0.99870765209198,True
+apple\Apple Red Yellow 2__r_269_100.jpg,apple,apple,0.998286783695221,True
+banana\Banana 1__101_100.jpg,banana,banana,0.999996542930603,True
+banana\Banana 1__102_100.jpg,banana,banana,0.9999984502792358,True
+banana\Banana 1__14_100.jpg,banana,banana,0.9984503984451294,True
+banana\Banana 1__159_100.jpg,banana,banana,0.9998074173927307,True
+banana\Banana 1__15_100.jpg,banana,banana,0.9997482895851135,True
+banana\Banana 1__160_100.jpg,banana,banana,0.9999557733535767,True
+banana\Banana 1__161_100.jpg,banana,banana,0.9998016953468323,True
+banana\Banana 1__162_100.jpg,banana,banana,0.9998555183410645,True
+banana\Banana 1__163_100.jpg,banana,banana,0.9997736811637878,True
+banana\Banana 1__166_100.jpg,banana,banana,0.9998787641525269,True
+banana\Banana 1__169_100.jpg,banana,banana,0.9998689889907837,True
+banana\Banana 1__17_100.jpg,banana,banana,0.9980180263519287,True
+banana\Banana 1__23_100.jpg,banana,banana,0.9994737505912781,True
+banana\Banana 1__25_100.jpg,banana,banana,0.9999605417251587,True
+banana\Banana 1__27_100.jpg,banana,banana,0.9999600648880005,True
+banana\Banana 1__295_100.jpg,banana,banana,0.9994744658470154,True
+banana\Banana 1__298_100.jpg,banana,banana,0.9997419714927673,True
+banana\Banana 1__301_100.jpg,banana,banana,0.9989439845085144,True
+banana\Banana 1__304_100.jpg,banana,banana,0.9782078862190247,True
+banana\Banana 1__307_100.jpg,banana,banana,0.999563992023468,True
+banana\Banana 1__309_100.jpg,banana,banana,0.99996018409729,True
+banana\Banana 1__30_100.jpg,banana,banana,0.9999345541000366,True
+banana\Banana 1__310_100.jpg,banana,banana,0.9999241828918457,True
+banana\Banana 1__312_100.jpg,banana,banana,0.999930739402771,True
+banana\Banana 1__315_100.jpg,banana,banana,0.9996663331985474,True
+banana\Banana 1__317_100.jpg,banana,banana,0.9997478127479553,True
+banana\Banana 1__31_100.jpg,banana,banana,0.9998677968978882,True
+banana\Banana 1__320_100.jpg,banana,banana,0.9999227523803711,True
+banana\Banana 1__321_100.jpg,banana,banana,0.9999374151229858,True
+banana\Banana 1__32_100.jpg,banana,banana,0.9999830722808838,True
+banana\Banana 1__33_100.jpg,banana,banana,0.9999877214431763,True
+banana\Banana 1__36_100.jpg,banana,banana,0.999957799911499,True
+banana\Banana 1__r_14_100.jpg,banana,banana,0.9999995231628418,True
+banana\Banana 1__r_16_100.jpg,banana,banana,0.9999992847442627,True
+banana\Banana 1__r_215_100.jpg,banana,banana,0.9999994039535522,True
+banana\Banana 1__r_229_100.jpg,banana,banana,0.9999935626983643,True
+banana\Banana 1__r_230_100.jpg,banana,banana,0.9999885559082031,True
+banana\Banana 1__r_231_100.jpg,banana,banana,0.9999897480010986,True
+banana\Banana 1__r_232_100.jpg,banana,banana,0.9999904632568359,True
+banana\Banana 1__r_236_100.jpg,banana,banana,0.9999905824661255,True
+banana\Banana 1__r_237_100.jpg,banana,banana,0.9999911785125732,True
+banana\Banana 1__r_238_100.jpg,banana,banana,0.9999921321868896,True
+banana\Banana 1__r_23_100.jpg,banana,banana,0.9999971389770508,True
+banana\Banana 1__r_244_100.jpg,banana,banana,0.9999935626983643,True
+banana\Banana 1__r_245_100.jpg,banana,banana,0.999992847442627,True
+banana\Banana 1__r_246_100.jpg,banana,banana,0.9999773502349854,True
+banana\Banana 1__r_316_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana 1__r_31_100.jpg,banana,banana,0.9999974966049194,True
+banana\Banana 1__r_320_100.jpg,banana,banana,0.9999972581863403,True
+banana\Banana 1__r_327_100.jpg,banana,banana,0.9999979734420776,True
+banana\Banana 1__r_34_100.jpg,banana,banana,0.9999971389770508,True
+banana\Banana 1__r_37_100.jpg,banana,banana,0.9999947547912598,True
+banana\Banana 1__r_42_100.jpg,banana,banana,0.9999953508377075,True
+banana\Banana 1__r_43_100.jpg,banana,banana,0.9999973773956299,True
+banana\Banana 1__r_44_100.jpg,banana,banana,0.9999963045120239,True
+banana\Banana 1__r_45_100.jpg,banana,banana,0.9999959468841553,True
+banana\Banana 1__r_49_100.jpg,banana,banana,0.9999984502792358,True
+banana\Banana 1__r_52_100.jpg,banana,banana,0.9999990463256836,True
+banana\Banana 1__r_54_100.jpg,banana,banana,0.9999979734420776,True
+banana\Banana 1__r_56_100.jpg,banana,banana,0.9999964237213135,True
+banana\Banana 1__r_59_100.jpg,banana,banana,0.9999971389770508,True
+banana\Banana 1__r_61_100.jpg,banana,banana,0.9999960660934448,True
+banana\Banana 1__r_71_100.jpg,banana,banana,0.9999982118606567,True
+banana\Banana 1__r_73_100.jpg,banana,banana,0.999997615814209,True
+banana\Banana 2__r1_107_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 2__r1_111_100.jpg,banana,banana,0.9999972581863403,True
+banana\Banana 2__r1_115_100.jpg,banana,banana,0.9999935626983643,True
+banana\Banana 2__r1_119_100.jpg,banana,banana,0.9998823404312134,True
+banana\Banana 2__r1_131_100.jpg,banana,banana,0.9999997615814209,True
+banana\Banana 2__r1_163_100.jpg,banana,banana,0.9999995231628418,True
+banana\Banana 2__r1_175_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 2__r1_187_100.jpg,banana,banana,0.9999997615814209,True
+banana\Banana 2__r1_191_100.jpg,banana,banana,0.9999990463256836,True
+banana\Banana 2__r1_199_100.jpg,banana,banana,0.9999997615814209,True
+banana\Banana 2__r1_211_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana 2__r1_215_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana 2__r1_219_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 2__r1_231_100.jpg,banana,banana,0.9999992847442627,True
+banana\Banana 2__r1_255_100.jpg,banana,banana,0.999997615814209,True
+banana\Banana 2__r1_259_100.jpg,banana,banana,0.999997615814209,True
+banana\Banana 2__r1_271_100.jpg,banana,banana,0.9999985694885254,True
+banana\Banana 2__r1_275_100.jpg,banana,banana,0.9999648332595825,True
+banana\Banana 2__r1_279_100.jpg,banana,banana,0.9999918937683105,True
+banana\Banana 2__r1_287_100.jpg,banana,banana,0.9999997615814209,True
+banana\Banana 2__r1_291_100.jpg,banana,banana,1.0,True
+banana\Banana 2__r1_295_100.jpg,banana,banana,1.0,True
+banana\Banana 2__r1_35_100.jpg,banana,banana,0.9999990463256836,True
+banana\Banana 2__r1_63_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 2__r1_75_100.jpg,banana,banana,0.9999997615814209,True
+banana\Banana 2__r1_87_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 2__r1_95_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 3__r0_11_100.jpg,banana,banana,0.9999902248382568,True
+banana\Banana 3__r0_131_100.jpg,banana,banana,0.9999957084655762,True
+banana\Banana 3__r0_139_100.jpg,banana,banana,0.9999926090240479,True
+banana\Banana 3__r0_151_100.jpg,banana,banana,0.9999912977218628,True
+banana\Banana 3__r0_163_100.jpg,banana,banana,0.9999951124191284,True
+banana\Banana 3__r0_167_100.jpg,banana,banana,0.9999912977218628,True
+banana\Banana 3__r0_171_100.jpg,banana,banana,0.9999974966049194,True
+banana\Banana 3__r0_175_100.jpg,banana,banana,0.9999992847442627,True
+banana\Banana 3__r0_183_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana 3__r0_211_100.jpg,banana,banana,0.999935507774353,True
+banana\Banana 3__r0_227_100.jpg,banana,banana,0.999968409538269,True
+banana\Banana 3__r0_239_100.jpg,banana,banana,0.9999992847442627,True
+banana\Banana 3__r0_23_100.jpg,banana,banana,0.9999974966049194,True
+banana\Banana 3__r0_243_100.jpg,banana,banana,0.9999995231628418,True
+banana\Banana 3__r0_263_100.jpg,banana,banana,0.9999958276748657,True
+banana\Banana 3__r0_27_100.jpg,banana,banana,0.9999982118606567,True
+banana\Banana 3__r0_307_100.jpg,banana,banana,0.999895453453064,True
+banana\Banana 3__r0_31_100.jpg,banana,banana,0.9999983310699463,True
+banana\Banana 3__r0_35_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana 3__r0_39_100.jpg,banana,banana,0.9999966621398926,True
+banana\Banana 3__r0_51_100.jpg,banana,banana,0.9999934434890747,True
+banana\Banana 3__r0_63_100.jpg,banana,banana,0.9999665021896362,True
+banana\Banana 3__r0_67_100.jpg,banana,banana,0.9999833106994629,True
+banana\Banana 3__r0_7_100.jpg,banana,banana,0.999970555305481,True
+banana\Banana 3__r0_95_100.jpg,banana,banana,0.9999983310699463,True
+banana\Banana 4__r1_103_100.jpg,banana,banana,0.9999949932098389,True
+banana\Banana 4__r1_107_100.jpg,banana,banana,0.9999876022338867,True
+banana\Banana 4__r1_127_100.jpg,banana,banana,0.9999902248382568,True
+banana\Banana 4__r1_135_100.jpg,banana,banana,0.9999938011169434,True
+banana\Banana 4__r1_143_100.jpg,banana,banana,0.9999980926513672,True
+banana\Banana 4__r1_147_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana 4__r1_155_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 4__r1_171_100.jpg,banana,banana,0.9996970891952515,True
+banana\Banana 4__r1_175_100.jpg,banana,banana,0.9999911785125732,True
+banana\Banana 4__r1_187_100.jpg,banana,banana,0.9999995231628418,True
+banana\Banana 4__r1_191_100.jpg,banana,banana,0.9999997615814209,True
+banana\Banana 4__r1_199_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana 4__r1_203_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 4__r1_207_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana 4__r1_219_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana 4__r1_231_100.jpg,banana,banana,0.999997615814209,True
+banana\Banana 4__r1_259_100.jpg,banana,banana,0.9999990463256836,True
+banana\Banana 4__r1_279_100.jpg,banana,banana,0.9999979734420776,True
+banana\Banana 4__r1_27_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana 4__r1_283_100.jpg,banana,banana,0.9999986886978149,True
+banana\Banana 4__r1_291_100.jpg,banana,banana,0.9999974966049194,True
+banana\Banana 4__r1_315_100.jpg,banana,banana,0.9999997615814209,True
+banana\Banana 4__r1_323_100.jpg,banana,banana,0.9999994039535522,True
+banana\Banana 4__r1_3_100.jpg,banana,banana,0.9999887943267822,True
+banana\Banana 4__r1_51_100.jpg,banana,banana,0.9999940395355225,True
+banana\Banana 4__r1_71_100.jpg,banana,banana,0.9999982118606567,True
+banana\Banana 4__r1_7_100.jpg,banana,banana,0.9999737739562988,True
+banana\Banana 4__r1_91_100.jpg,banana,banana,0.9999951124191284,True
+banana\Banana Lady Finger 1__134_100.jpg,banana,banana,0.9999994039535522,True
+banana\Banana Lady Finger 1__144_100.jpg,banana,banana,0.9998520612716675,True
+banana\Banana Lady Finger 1__145_100.jpg,banana,banana,0.9998968839645386,True
+banana\Banana Lady Finger 1__150_100.jpg,banana,banana,0.9998277425765991,True
+banana\Banana Lady Finger 1__152_100.jpg,banana,banana,0.9998923540115356,True
+banana\Banana Lady Finger 1__153_100.jpg,banana,banana,0.9999470710754395,True
+banana\Banana Lady Finger 1__154_100.jpg,banana,banana,0.9999573230743408,True
+banana\Banana Lady Finger 1__157_100.jpg,banana,banana,0.9999346733093262,True
+banana\Banana Lady Finger 1__158_100.jpg,banana,banana,0.999934196472168,True
+banana\Banana Lady Finger 1__162_100.jpg,banana,banana,0.9999854564666748,True
+banana\Banana Lady Finger 1__38_100.jpg,banana,banana,0.9999979734420776,True
+banana\Banana Lady Finger 1__43_100.jpg,banana,banana,0.9999948740005493,True
+banana\Banana Lady Finger 1__47_100.jpg,banana,banana,0.9999879598617554,True
+banana\Banana Lady Finger 1__49_100.jpg,banana,banana,0.9999995231628418,True
+banana\Banana Lady Finger 1__51_100.jpg,banana,banana,0.9999984502792358,True
+banana\Banana Lady Finger 1__52_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana Lady Finger 1__54_100.jpg,banana,banana,1.0,True
+banana\Banana Lady Finger 1__56_100.jpg,banana,banana,0.9999998807907104,True
+banana\Banana Lady Finger 1__r2_107_100.jpg,banana,banana,0.9999744892120361,True
+banana\Banana Lady Finger 1__r2_109_100.jpg,banana,banana,0.9999822378158569,True
+banana\Banana Lady Finger 1__r2_141_100.jpg,banana,banana,0.9999979734420776,True
+banana\Banana Lady Finger 1__r2_144_100.jpg,banana,banana,0.9999760389328003,True
+banana\Banana Lady Finger 1__r2_148_100.jpg,banana,banana,0.9997898936271667,True
+banana\Banana Lady Finger 1__r2_149_100.jpg,banana,banana,0.9999730587005615,True
+banana\Banana Lady Finger 1__r2_150_100.jpg,banana,banana,0.9999933242797852,True
+banana\Banana Lady Finger 1__r2_184_100.jpg,banana,banana,0.9999997615814209,True
+banana\Banana Lady Finger 1__r2_188_100.jpg,banana,banana,0.9999994039535522,True
+banana\Banana Lady Finger 1__r2_189_100.jpg,banana,banana,0.9999991655349731,True
+banana\Banana Lady Finger 1__r2_190_100.jpg,banana,banana,0.9999972581863403,True
+banana\Banana Lady Finger 1__r2_191_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana Lady Finger 1__r2_194_100.jpg,banana,banana,0.9999990463256836,True
+banana\Banana Lady Finger 1__r2_197_100.jpg,banana,banana,0.9999986886978149,True
+banana\Banana Lady Finger 1__r2_200_100.jpg,banana,banana,0.9999983310699463,True
+banana\Banana Lady Finger 1__r2_47_100.jpg,banana,banana,0.9995262622833252,True
+banana\Banana Lady Finger 1__r2_6_100.jpg,banana,banana,0.9999990463256836,True
+banana\Banana Lady Finger 1__r_128_100.jpg,banana,banana,0.9999996423721313,True
+banana\Banana Lady Finger 1__r_133_100.jpg,banana,banana,0.9999995231628418,True
+banana\Banana Lady Finger 1__r_138_100.jpg,banana,banana,0.9999988079071045,True
+banana\Banana Lady Finger 1__r_141_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana Lady Finger 1__r_144_100.jpg,banana,banana,0.9999988079071045,True
+banana\Banana Lady Finger 1__r_145_100.jpg,banana,banana,0.9999991655349731,True
+banana\Banana Lady Finger 1__r_149_100.jpg,banana,banana,0.9999948740005493,True
+banana\Banana Lady Finger 1__r_33_100.jpg,banana,banana,0.9999856948852539,True
+banana\Banana Lady Finger 1__r_47_100.jpg,banana,banana,0.9999943971633911,True
+banana\Banana Lady Finger 1__r_49_100.jpg,banana,banana,0.9999858140945435,True
+banana\Banana Lady Finger 1__r_64_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana Lady Finger 1__r_69_100.jpg,banana,banana,0.9999980926513672,True
+banana\Banana Red 1__154_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana Red 1__155_100.jpg,banana,banana,0.9999977350234985,True
+banana\Banana Red 1__156_100.jpg,banana,banana,0.9999991655349731,True
+banana\Banana Red 1__158_100.jpg,banana,banana,0.9999966621398926,True
+banana\Banana Red 1__160_100.jpg,banana,banana,0.9999970197677612,True
+banana\Banana Red 1__163_100.jpg,banana,banana,0.9999985694885254,True
+banana\Banana Red 1__164_100.jpg,banana,banana,0.9999974966049194,True
+banana\Banana Red 1__165_100.jpg,banana,banana,0.9999973773956299,True
+banana\Banana Red 1__169_100.jpg,banana,banana,0.9999964237213135,True
+banana\Banana Red 1__173_100.jpg,banana,banana,0.9999978542327881,True
+banana\Banana Red 1__174_100.jpg,banana,banana,0.9999943971633911,True
+banana\Banana Red 1__178_100.jpg,banana,banana,0.9999974966049194,True
+banana\Banana Red 1__180_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana Red 1__181_100.jpg,banana,banana,0.9999986886978149,True
+banana\Banana Red 1__183_100.jpg,banana,banana,0.9999994039535522,True
+banana\Banana Red 1__185_100.jpg,banana,banana,0.9999983310699463,True
+banana\Banana Red 1__236_100.jpg,banana,banana,0.9999948740005493,True
+banana\Banana Red 1__240_100.jpg,banana,banana,0.9999953508377075,True
+banana\Banana Red 1__245_100.jpg,banana,banana,0.9999889135360718,True
+banana\Banana Red 1__247_100.jpg,banana,banana,0.9999884366989136,True
+banana\Banana Red 1__305_100.jpg,banana,banana,1.0,True
+banana\Banana Red 1__82_100.jpg,banana,banana,0.999663233757019,True
+banana\Banana Red 1__84_100.jpg,banana,banana,0.9997583031654358,True
+banana\Banana Red 1__85_100.jpg,banana,banana,0.9999338388442993,True
+banana\Banana Red 1__87_100.jpg,banana,banana,0.9999547004699707,True
+banana\Banana Red 1__88_100.jpg,banana,banana,0.9999146461486816,True
+banana\Banana Red 1__96_100.jpg,banana,banana,0.9922547340393066,True
+banana\Banana Red 1__99_100.jpg,banana,banana,0.9861388802528381,True
+banana\Banana Red 1__9_100.jpg,banana,banana,0.9999972581863403,True
+banana\Banana Red 1__r_100_100.jpg,banana,banana,0.999988317489624,True
+banana\Banana Red 1__r_102_100.jpg,banana,banana,0.9999434947967529,True
+banana\Banana Red 1__r_103_100.jpg,banana,banana,0.9999755620956421,True
+banana\Banana Red 1__r_105_100.jpg,banana,banana,0.9999960660934448,True
+banana\Banana Red 1__r_106_100.jpg,banana,banana,0.9999768733978271,True
+banana\Banana Red 1__r_109_100.jpg,banana,banana,0.9999974966049194,True
+banana\Banana Red 1__r_121_100.jpg,banana,banana,0.9999966621398926,True
+banana\Banana Red 1__r_125_100.jpg,banana,banana,0.9999986886978149,True
+banana\Banana Red 1__r_127_100.jpg,banana,banana,0.9999978542327881,True
+banana\Banana Red 1__r_128_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana Red 1__r_130_100.jpg,banana,banana,0.9999983310699463,True
+banana\Banana Red 1__r_131_100.jpg,banana,banana,0.9999978542327881,True
+banana\Banana Red 1__r_132_100.jpg,banana,banana,0.999998927116394,True
+banana\Banana Red 1__r_133_100.jpg,banana,banana,0.9999988079071045,True
+banana\Banana Red 1__r_142_100.jpg,banana,banana,0.9999990463256836,True
+banana\Banana Red 1__r_143_100.jpg,banana,banana,0.9999983310699463,True
+banana\Banana Red 1__r_146_100.jpg,banana,banana,0.9999972581863403,True
+banana\Banana Red 1__r_150_100.jpg,banana,banana,0.9999979734420776,True
+banana\Banana Red 1__r_154_100.jpg,banana,banana,0.9999966621398926,True
+banana\Banana Red 1__r_155_100.jpg,banana,banana,0.9999991655349731,True
+banana\Banana Red 1__r_156_100.jpg,banana,banana,0.9999985694885254,True
+banana\Banana Red 1__r_160_100.jpg,banana,banana,0.999997615814209,True
+banana\Banana Red 1__r_161_100.jpg,banana,banana,0.9999964237213135,True
+banana\Banana Red 1__r_16_100.jpg,banana,banana,0.9999933242797852,True
+banana\Banana Red 1__r_228_100.jpg,banana,banana,0.9999523162841797,True
+banana\Banana Red 1__r_253_100.jpg,banana,banana,0.9999958276748657,True
+banana\Banana Red 1__r_272_100.jpg,banana,banana,0.9999945163726807,True
+banana\Banana Red 1__r_273_100.jpg,banana,banana,0.9999895095825195,True
+banana\Banana Red 1__r_284_100.jpg,banana,banana,0.9999803304672241,True
+banana\Banana Red 1__r_98_100.jpg,banana,banana,0.999995231628418,True
+lemon\Lemon 1__323_100.jpg,lemon,lemon,0.9998888969421387,True
+lemon\Lemon 1__324_100.jpg,lemon,lemon,0.9998403787612915,True
+lemon\Lemon 1__325_100.jpg,lemon,lemon,0.9998996257781982,True
+lemon\Lemon 1__326_100.jpg,lemon,lemon,0.9998351335525513,True
+lemon\Lemon 1__327_100.jpg,lemon,lemon,0.9999432563781738,True
+lemon\Lemon 1__32_100.jpg,lemon,lemon,0.9998342990875244,True
+lemon\Lemon 1__33_100.jpg,lemon,lemon,0.9999393224716187,True
+lemon\Lemon 1__35_100.jpg,lemon,lemon,0.999958872795105,True
+lemon\Lemon 1__36_100.jpg,lemon,lemon,0.9999613761901855,True
+lemon\Lemon 1__37_100.jpg,lemon,lemon,0.9999291896820068,True
+lemon\Lemon 1__38_100.jpg,lemon,lemon,0.9999732971191406,True
+lemon\Lemon 1__39_100.jpg,lemon,lemon,0.9999561309814453,True
+lemon\Lemon 1__3_100.jpg,lemon,lemon,0.9999939203262329,True
+lemon\Lemon 1__40_100.jpg,lemon,lemon,0.9998797178268433,True
+lemon\Lemon 1__42_100.jpg,lemon,lemon,0.9999195337295532,True
+lemon\Lemon 1__44_100.jpg,lemon,lemon,0.9999712705612183,True
+lemon\Lemon 1__45_100.jpg,lemon,lemon,0.9999513626098633,True
+lemon\Lemon 1__46_100.jpg,lemon,lemon,0.9999284744262695,True
+lemon\Lemon 1__47_100.jpg,lemon,lemon,0.9999731779098511,True
+lemon\Lemon 1__48_100.jpg,lemon,lemon,0.9999644756317139,True
+lemon\Lemon 1__49_100.jpg,lemon,lemon,0.9999712705612183,True
+lemon\Lemon 1__4_100.jpg,lemon,lemon,0.9999916553497314,True
+lemon\Lemon 1__50_100.jpg,lemon,lemon,0.9999750852584839,True
+lemon\Lemon 1__52_100.jpg,lemon,lemon,0.999985933303833,True
+lemon\Lemon 1__55_100.jpg,lemon,lemon,0.9999889135360718,True
+lemon\Lemon 1__56_100.jpg,lemon,lemon,0.9999850988388062,True
+lemon\Lemon 1__57_100.jpg,lemon,lemon,0.999988317489624,True
+lemon\Lemon 1__61_100.jpg,lemon,lemon,0.999942421913147,True
+lemon\Lemon 1__62_100.jpg,lemon,lemon,0.9999582767486572,True
+lemon\Lemon 1__64_100.jpg,lemon,lemon,0.9999501705169678,True
+lemon\Lemon 1__65_100.jpg,lemon,lemon,0.9999637603759766,True
+lemon\Lemon 1__66_100.jpg,lemon,lemon,0.9999175071716309,True
+lemon\Lemon 1__67_100.jpg,lemon,lemon,0.9999393224716187,True
+lemon\Lemon 1__69_100.jpg,lemon,lemon,0.9997438788414001,True
+lemon\Lemon 1__6_100.jpg,lemon,lemon,0.999993085861206,True
+lemon\Lemon 1__70_100.jpg,lemon,lemon,0.9998745918273926,True
+lemon\Lemon 1__71_100.jpg,lemon,lemon,0.999955415725708,True
+lemon\Lemon 1__74_100.jpg,lemon,lemon,0.9999737739562988,True
+lemon\Lemon 1__78_100.jpg,lemon,lemon,0.999984622001648,True
+lemon\Lemon 1__79_100.jpg,lemon,lemon,0.9999691247940063,True
+lemon\Lemon 1__7_100.jpg,lemon,lemon,0.9999812841415405,True
+lemon\Lemon 1__80_100.jpg,lemon,lemon,0.9999632835388184,True
+lemon\Lemon 1__81_100.jpg,lemon,lemon,0.9999704360961914,True
+lemon\Lemon 1__83_100.jpg,lemon,lemon,0.9999552965164185,True
+lemon\Lemon 1__84_100.jpg,lemon,lemon,0.999914288520813,True
+lemon\Lemon 1__85_100.jpg,lemon,lemon,0.999980092048645,True
+lemon\Lemon 1__86_100.jpg,lemon,lemon,0.9999362230300903,True
+lemon\Lemon 1__87_100.jpg,lemon,lemon,0.9999655485153198,True
+lemon\Lemon 1__88_100.jpg,lemon,lemon,0.9999411106109619,True
+lemon\Lemon 1__89_100.jpg,lemon,lemon,0.9999469518661499,True
+lemon\Lemon 1__8_100.jpg,lemon,lemon,0.9999897480010986,True
+lemon\Lemon 1__90_100.jpg,lemon,lemon,0.9999567270278931,True
+lemon\Lemon 1__91_100.jpg,lemon,lemon,0.9999923706054688,True
+lemon\Lemon 1__94_100.jpg,lemon,lemon,0.9999152421951294,True
+lemon\Lemon 1__97_100.jpg,lemon,lemon,0.9999501705169678,True
+lemon\Lemon 1__98_100.jpg,lemon,lemon,0.9999784231185913,True
+lemon\Lemon 1__99_100.jpg,lemon,lemon,0.9999773502349854,True
+lemon\Lemon 1__9_100.jpg,lemon,lemon,0.9999932050704956,True
+lemon\Lemon 1__r_11_100.jpg,lemon,lemon,0.9999455213546753,True
+lemon\Lemon 1__r_12_100.jpg,lemon,lemon,0.9999630451202393,True
+lemon\Lemon 1__r_13_100.jpg,lemon,lemon,0.9999387264251709,True
+lemon\Lemon 1__r_14_100.jpg,lemon,lemon,0.9998857975006104,True
+lemon\Lemon 1__r_15_100.jpg,lemon,lemon,0.9999443292617798,True
+lemon\Lemon 1__r_164_100.jpg,lemon,lemon,0.9999970197677612,True
+lemon\Lemon 1__r_165_100.jpg,lemon,lemon,0.9999964237213135,True
+lemon\Lemon 1__r_166_100.jpg,lemon,lemon,0.9999982118606567,True
+lemon\Lemon 1__r_168_100.jpg,lemon,lemon,0.9999945163726807,True
+lemon\Lemon 1__r_169_100.jpg,lemon,lemon,0.999995231628418,True
+lemon\Lemon 1__r_170_100.jpg,lemon,lemon,0.9999961853027344,True
+lemon\Lemon 1__r_171_100.jpg,lemon,lemon,0.9999731779098511,True
+lemon\Lemon 1__r_172_100.jpg,lemon,lemon,0.9999880790710449,True
+lemon\Lemon 1__r_173_100.jpg,lemon,lemon,0.9999903440475464,True
+lemon\Lemon 1__r_174_100.jpg,lemon,lemon,0.999994158744812,True
+lemon\Lemon 1__r_175_100.jpg,lemon,lemon,0.9999923706054688,True
+lemon\Lemon 1__r_176_100.jpg,lemon,lemon,0.9999839067459106,True
+lemon\Lemon 1__r_178_100.jpg,lemon,lemon,0.9999978542327881,True
+lemon\Lemon 1__r_179_100.jpg,lemon,lemon,0.9999971389770508,True
+lemon\Lemon 1__r_17_100.jpg,lemon,lemon,0.9999147653579712,True
+lemon\Lemon 1__r_180_100.jpg,lemon,lemon,0.9999982118606567,True
+lemon\Lemon 1__r_181_100.jpg,lemon,lemon,0.9999961853027344,True
+lemon\Lemon 1__r_182_100.jpg,lemon,lemon,0.9999990463256836,True
+lemon\Lemon 1__r_183_100.jpg,lemon,lemon,0.9999988079071045,True
+lemon\Lemon 1__r_184_100.jpg,lemon,lemon,0.9999983310699463,True
+lemon\Lemon 1__r_186_100.jpg,lemon,lemon,0.9999961853027344,True
+lemon\Lemon 1__r_187_100.jpg,lemon,lemon,0.9999873638153076,True
+lemon\Lemon 1__r_188_100.jpg,lemon,lemon,0.999997615814209,True
+lemon\Lemon 1__r_18_100.jpg,lemon,lemon,0.9999562501907349,True
+lemon\Lemon 1__r_190_100.jpg,lemon,lemon,0.999995231628418,True
+lemon\Lemon 1__r_191_100.jpg,lemon,lemon,0.9999963045120239,True
+lemon\Lemon 1__r_192_100.jpg,lemon,lemon,0.9999866485595703,True
+lemon\Lemon 1__r_193_100.jpg,lemon,lemon,0.9999793767929077,True
+lemon\Lemon 1__r_194_100.jpg,lemon,lemon,0.9999728202819824,True
+lemon\Lemon 1__r_195_100.jpg,lemon,lemon,0.9999940395355225,True
+lemon\Lemon 1__r_196_100.jpg,lemon,lemon,0.9999951124191284,True
+lemon\Lemon 1__r_199_100.jpg,lemon,lemon,0.9999927282333374,True
+lemon\Lemon 1__r_19_100.jpg,lemon,lemon,0.9999527931213379,True
+lemon\Lemon 1__r_200_100.jpg,lemon,lemon,0.9999961853027344,True
+lemon\Lemon 1__r_201_100.jpg,lemon,lemon,0.9999972581863403,True
+lemon\Lemon 1__r_20_100.jpg,lemon,lemon,0.999937891960144,True
+lemon\Lemon 1__r_21_100.jpg,lemon,lemon,0.9997733235359192,True
+lemon\Lemon 1__r_22_100.jpg,lemon,lemon,0.999848484992981,True
+lemon\Lemon 1__r_25_100.jpg,lemon,lemon,0.9999274015426636,True
+lemon\Lemon 1__r_26_100.jpg,lemon,lemon,0.9998663663864136,True
+lemon\Lemon 1__r_27_100.jpg,lemon,lemon,0.9999445676803589,True
+lemon\Lemon 1__r_28_100.jpg,lemon,lemon,0.9999513626098633,True
+lemon\Lemon 1__r_2_100.jpg,lemon,lemon,0.9994686245918274,True
+lemon\Lemon 1__r_30_100.jpg,lemon,lemon,0.9996522665023804,True
+lemon\Lemon 1__r_319_100.jpg,lemon,lemon,0.9998955726623535,True
+lemon\Lemon 1__r_31_100.jpg,lemon,lemon,0.9996932744979858,True
+lemon\Lemon 1__r_325_100.jpg,lemon,lemon,0.9998635053634644,True
+lemon\Lemon 1__r_326_100.jpg,lemon,lemon,0.9999145269393921,True
+lemon\Lemon 1__r_327_100.jpg,lemon,lemon,0.9999721050262451,True
+lemon\Lemon 1__r_32_100.jpg,lemon,lemon,0.9998672008514404,True
+lemon\Lemon 1__r_34_100.jpg,lemon,lemon,0.9994142055511475,True
+lemon\Lemon 1__r_35_100.jpg,lemon,lemon,0.9999394416809082,True
+lemon\Lemon 1__r_36_100.jpg,lemon,lemon,0.9999620914459229,True
+lemon\Lemon 1__r_37_100.jpg,lemon,lemon,0.9999737739562988,True
+lemon\Lemon 1__r_3_100.jpg,lemon,lemon,0.9999021291732788,True
+lemon\Lemon 1__r_40_100.jpg,lemon,lemon,0.9999845027923584,True
+lemon\Lemon 1__r_4_100.jpg,lemon,lemon,0.9997225403785706,True
+lemon\Lemon 1__r_5_100.jpg,lemon,lemon,0.9999251365661621,True
+lemon\Lemon 1__r_6_100.jpg,lemon,lemon,0.9996645450592041,True
+lemon\Lemon 1__r_7_100.jpg,lemon,lemon,0.9999709129333496,True
+lemon\Lemon 1__r_8_100.jpg,lemon,lemon,0.9998476505279541,True
+lemon\Lemon 1__r_9_100.jpg,lemon,lemon,0.9999300241470337,True
+lemon\Lemon Meyer 1__147_100.jpg,lemon,lemon,0.9993270635604858,True
+lemon\Lemon Meyer 1__149_100.jpg,lemon,lemon,0.9982959628105164,True
+lemon\Lemon Meyer 1__150_100.jpg,lemon,lemon,0.9993802309036255,True
+lemon\Lemon Meyer 1__152_100.jpg,lemon,lemon,0.9994738698005676,True
+lemon\Lemon Meyer 1__154_100.jpg,lemon,lemon,0.9995002746582031,True
+lemon\Lemon Meyer 1__155_100.jpg,lemon,lemon,0.9982781410217285,True
+lemon\Lemon Meyer 1__156_100.jpg,lemon,lemon,0.998714804649353,True
+lemon\Lemon Meyer 1__158_100.jpg,lemon,lemon,0.9980624318122864,True
+lemon\Lemon Meyer 1__159_100.jpg,lemon,lemon,0.9991216063499451,True
+lemon\Lemon Meyer 1__160_100.jpg,lemon,lemon,0.9994688630104065,True
+lemon\Lemon Meyer 1__161_100.jpg,lemon,lemon,0.9990166425704956,True
+lemon\Lemon Meyer 1__162_100.jpg,lemon,lemon,0.9991366267204285,True
+lemon\Lemon Meyer 1__163_100.jpg,lemon,lemon,0.9993236064910889,True
+lemon\Lemon Meyer 1__164_100.jpg,lemon,lemon,0.9996826648712158,True
+lemon\Lemon Meyer 1__165_100.jpg,lemon,lemon,0.9997971653938293,True
+lemon\Lemon Meyer 1__168_100.jpg,lemon,lemon,0.9996793270111084,True
+lemon\Lemon Meyer 1__175_100.jpg,lemon,lemon,0.9987947940826416,True
+lemon\Lemon Meyer 1__177_100.jpg,lemon,lemon,0.999279797077179,True
+lemon\Lemon Meyer 1__190_100.jpg,lemon,lemon,0.998313307762146,True
+lemon\Lemon Meyer 1__191_100.jpg,lemon,lemon,0.9990630745887756,True
+lemon\Lemon Meyer 1__192_100.jpg,lemon,lemon,0.9993703961372375,True
+lemon\Lemon Meyer 1__193_100.jpg,lemon,lemon,0.9997147917747498,True
+lemon\Lemon Meyer 1__194_100.jpg,lemon,lemon,0.9979310035705566,True
+lemon\Lemon Meyer 1__195_100.jpg,lemon,lemon,0.9991648197174072,True
+lemon\Lemon Meyer 1__199_100.jpg,lemon,lemon,0.9998577833175659,True
+lemon\Lemon Meyer 1__203_100.jpg,lemon,lemon,0.9996017813682556,True
+lemon\Lemon Meyer 1__204_100.jpg,lemon,lemon,0.9998619556427002,True
+lemon\Lemon Meyer 1__205_100.jpg,lemon,lemon,0.9997851252555847,True
+lemon\Lemon Meyer 1__208_100.jpg,lemon,lemon,0.9995256662368774,True
+lemon\Lemon Meyer 1__209_100.jpg,lemon,lemon,0.9998157620429993,True
+lemon\Lemon Meyer 1__210_100.jpg,lemon,lemon,0.9997114539146423,True
+lemon\Lemon Meyer 1__211_100.jpg,lemon,lemon,0.9998193383216858,True
+lemon\Lemon Meyer 1__212_100.jpg,lemon,lemon,0.9995009899139404,True
+lemon\Lemon Meyer 1__213_100.jpg,lemon,lemon,0.9997734427452087,True
+lemon\Lemon Meyer 1__214_100.jpg,lemon,lemon,0.9996591806411743,True
+lemon\Lemon Meyer 1__26_100.jpg,lemon,lemon,0.999997615814209,True
+lemon\Lemon Meyer 1__28_100.jpg,lemon,lemon,0.9999957084655762,True
+lemon\Lemon Meyer 1__29_100.jpg,lemon,lemon,0.9999988079071045,True
+lemon\Lemon Meyer 1__30_100.jpg,lemon,lemon,0.9999966621398926,True
+lemon\Lemon Meyer 1__324_100.jpg,lemon,lemon,0.9999759197235107,True
+lemon\Lemon Meyer 1__32_100.jpg,lemon,lemon,0.9999946355819702,True
+lemon\Lemon Meyer 1__37_100.jpg,lemon,lemon,0.9999984502792358,True
+lemon\Lemon Meyer 1__39_100.jpg,lemon,lemon,0.9999970197677612,True
+lemon\Lemon Meyer 1__42_100.jpg,lemon,lemon,0.9999927282333374,True
+lemon\Lemon Meyer 1__44_100.jpg,lemon,lemon,0.9999953508377075,True
+lemon\Lemon Meyer 1__45_100.jpg,lemon,lemon,0.9999853372573853,True
+lemon\Lemon Meyer 1__46_100.jpg,lemon,lemon,0.9999592304229736,True
+lemon\Lemon Meyer 1__48_100.jpg,lemon,lemon,0.9999916553497314,True
+lemon\Lemon Meyer 1__49_100.jpg,lemon,lemon,0.9999850988388062,True
+lemon\Lemon Meyer 1__51_100.jpg,lemon,lemon,0.9999916553497314,True
+lemon\Lemon Meyer 1__52_100.jpg,lemon,lemon,0.9999866485595703,True
+lemon\Lemon Meyer 1__53_100.jpg,lemon,lemon,0.9999903440475464,True
+lemon\Lemon Meyer 1__55_100.jpg,lemon,lemon,0.9999600648880005,True
+lemon\Lemon Meyer 1__56_100.jpg,lemon,lemon,0.999968409538269,True
+lemon\Lemon Meyer 1__57_100.jpg,lemon,lemon,0.9999788999557495,True
+lemon\Lemon Meyer 1__58_100.jpg,lemon,lemon,0.9999691247940063,True
+lemon\Lemon Meyer 1__60_100.jpg,lemon,lemon,0.9999843835830688,True
+lemon\Lemon Meyer 1__r_0_100.jpg,lemon,lemon,0.9999876022338867,True
+lemon\Lemon Meyer 1__r_10_100.jpg,lemon,lemon,0.999996542930603,True
+lemon\Lemon Meyer 1__r_11_100.jpg,lemon,lemon,0.9999961853027344,True
+lemon\Lemon Meyer 1__r_12_100.jpg,lemon,lemon,0.9999727010726929,True
+lemon\Lemon Meyer 1__r_14_100.jpg,lemon,lemon,0.9999954700469971,True
+lemon\Lemon Meyer 1__r_15_100.jpg,lemon,lemon,0.9999969005584717,True
+lemon\Lemon Meyer 1__r_178_100.jpg,lemon,lemon,0.9998915195465088,True
+lemon\Lemon Meyer 1__r_17_100.jpg,lemon,lemon,0.9999818801879883,True
+lemon\Lemon Meyer 1__r_180_100.jpg,lemon,lemon,0.9998904466629028,True
+lemon\Lemon Meyer 1__r_181_100.jpg,lemon,lemon,0.9997699856758118,True
+lemon\Lemon Meyer 1__r_182_100.jpg,lemon,lemon,0.9994460940361023,True
+lemon\Lemon Meyer 1__r_183_100.jpg,lemon,lemon,0.9992029070854187,True
+lemon\Lemon Meyer 1__r_184_100.jpg,lemon,lemon,0.9992363452911377,True
+lemon\Lemon Meyer 1__r_185_100.jpg,lemon,lemon,0.9992503523826599,True
+lemon\Lemon Meyer 1__r_187_100.jpg,lemon,lemon,0.999237060546875,True
+lemon\Lemon Meyer 1__r_188_100.jpg,lemon,lemon,0.9986763596534729,True
+lemon\Lemon Meyer 1__r_189_100.jpg,lemon,lemon,0.9983470439910889,True
+lemon\Lemon Meyer 1__r_190_100.jpg,lemon,lemon,0.9994277358055115,True
+lemon\Lemon Meyer 1__r_191_100.jpg,lemon,lemon,0.9996606111526489,True
+lemon\Lemon Meyer 1__r_192_100.jpg,lemon,lemon,0.999868631362915,True
+lemon\Lemon Meyer 1__r_193_100.jpg,lemon,lemon,0.9996932744979858,True
+lemon\Lemon Meyer 1__r_194_100.jpg,lemon,lemon,0.9993539452552795,True
+lemon\Lemon Meyer 1__r_195_100.jpg,lemon,lemon,0.9999505281448364,True
+lemon\Lemon Meyer 1__r_196_100.jpg,lemon,lemon,0.9999333620071411,True
+lemon\Lemon Meyer 1__r_197_100.jpg,lemon,lemon,0.9998822212219238,True
+lemon\Lemon Meyer 1__r_199_100.jpg,lemon,lemon,0.9994297623634338,True
+lemon\Lemon Meyer 1__r_19_100.jpg,lemon,lemon,0.9999867677688599,True
+lemon\Lemon Meyer 1__r_1_100.jpg,lemon,lemon,0.9999939203262329,True
+lemon\Lemon Meyer 1__r_20_100.jpg,lemon,lemon,0.9999898672103882,True
+lemon\Lemon Meyer 1__r_21_100.jpg,lemon,lemon,0.9999809265136719,True
+lemon\Lemon Meyer 1__r_22_100.jpg,lemon,lemon,0.9999915361404419,True
+lemon\Lemon Meyer 1__r_23_100.jpg,lemon,lemon,0.9999969005584717,True
+lemon\Lemon Meyer 1__r_24_100.jpg,lemon,lemon,0.9999955892562866,True
+lemon\Lemon Meyer 1__r_25_100.jpg,lemon,lemon,0.9999960660934448,True
+lemon\Lemon Meyer 1__r_28_100.jpg,lemon,lemon,0.9999938011169434,True
+lemon\Lemon Meyer 1__r_29_100.jpg,lemon,lemon,0.9999940395355225,True
+lemon\Lemon Meyer 1__r_2_100.jpg,lemon,lemon,0.9999889135360718,True
+lemon\Lemon Meyer 1__r_301_100.jpg,lemon,lemon,0.9999953508377075,True
+lemon\Lemon Meyer 1__r_302_100.jpg,lemon,lemon,0.9999734163284302,True
+lemon\Lemon Meyer 1__r_303_100.jpg,lemon,lemon,0.9999960660934448,True
+lemon\Lemon Meyer 1__r_304_100.jpg,lemon,lemon,0.9999979734420776,True
+lemon\Lemon Meyer 1__r_305_100.jpg,lemon,lemon,0.9999958276748657,True
+lemon\Lemon Meyer 1__r_306_100.jpg,lemon,lemon,0.9999955892562866,True
+lemon\Lemon Meyer 1__r_307_100.jpg,lemon,lemon,0.9999939203262329,True
+lemon\Lemon Meyer 1__r_308_100.jpg,lemon,lemon,0.9999849796295166,True
+lemon\Lemon Meyer 1__r_309_100.jpg,lemon,lemon,0.9999896287918091,True
+lemon\Lemon Meyer 1__r_310_100.jpg,lemon,lemon,0.9999896287918091,True
+lemon\Lemon Meyer 1__r_312_100.jpg,lemon,lemon,0.9999939203262329,True
+lemon\Lemon Meyer 1__r_315_100.jpg,lemon,lemon,0.9999933242797852,True
+lemon\Lemon Meyer 1__r_316_100.jpg,lemon,lemon,0.9999324083328247,True
+lemon\Lemon Meyer 1__r_317_100.jpg,lemon,lemon,0.9999898672103882,True
+lemon\Lemon Meyer 1__r_31_100.jpg,lemon,lemon,0.9999905824661255,True
+lemon\Lemon Meyer 1__r_322_100.jpg,lemon,lemon,0.9999957084655762,True
+lemon\Lemon Meyer 1__r_324_100.jpg,lemon,lemon,0.9999818801879883,True
+lemon\Lemon Meyer 1__r_326_100.jpg,lemon,lemon,0.9999653100967407,True
+lemon\Lemon Meyer 1__r_327_100.jpg,lemon,lemon,0.9999891519546509,True
+lemon\Lemon Meyer 1__r_3_100.jpg,lemon,lemon,0.9999804496765137,True
+lemon\Lemon Meyer 1__r_4_100.jpg,lemon,lemon,0.9999945163726807,True
+lemon\Lemon Meyer 1__r_54_100.jpg,lemon,lemon,0.9999960660934448,True
+lemon\Lemon Meyer 1__r_55_100.jpg,lemon,lemon,0.9999982118606567,True
+lemon\Lemon Meyer 1__r_57_100.jpg,lemon,lemon,0.9999958276748657,True
+lemon\Lemon Meyer 1__r_5_100.jpg,lemon,lemon,0.9999955892562866,True
+lemon\Lemon Meyer 1__r_60_100.jpg,lemon,lemon,0.9999940395355225,True
+lemon\Lemon Meyer 1__r_63_100.jpg,lemon,lemon,0.9999984502792358,True
+lemon\Lemon Meyer 1__r_6_100.jpg,lemon,lemon,0.9999939203262329,True
+lemon\Lemon Meyer 1__r_7_100.jpg,lemon,lemon,0.9999945163726807,True
+lemon\Lemon Meyer 1__r_8_100.jpg,lemon,lemon,0.9999923706054688,True
+lemon\Lemon Meyer 1__r_9_100.jpg,lemon,lemon,0.9999959468841553,True
+orange\Orange 1__38_100.jpg,orange,orange,0.988867998123169,True
+orange\Orange 1__39_100.jpg,orange,orange,0.9962893724441528,True
+orange\Orange 1__44_100.jpg,orange,orange,0.999576985836029,True
+orange\Orange 1__45_100.jpg,orange,orange,0.9996297359466553,True
+orange\Orange 1__48_100.jpg,orange,orange,0.9998610019683838,True
+orange\Orange 1__49_100.jpg,orange,orange,0.9999654293060303,True
+orange\Orange 1__60_100.jpg,orange,orange,0.9998093247413635,True
+orange\Orange 1__67_100.jpg,orange,orange,0.999777615070343,True
+orange\Orange 1__73_100.jpg,orange,orange,0.9999488592147827,True
+orange\Orange 1__76_100.jpg,orange,orange,0.9998488426208496,True
+orange\Orange 1__78_100.jpg,orange,orange,0.99993896484375,True
+orange\Orange 1__86_100.jpg,orange,orange,0.9970290064811707,True
+orange\Orange 1__88_100.jpg,orange,orange,0.998001754283905,True
+orange\Orange 1__97_100.jpg,orange,orange,0.9995810389518738,True
+orange\Orange 1__r_322_100.jpg,orange,orange,0.9998829364776611,True
+orange\Orange 1__r_325_100.jpg,orange,orange,0.9993485808372498,True
+orange\Orange 1__r_326_100.jpg,orange,orange,0.9993196725845337,True
+orange\Orange 1__r_32_100.jpg,orange,orange,0.9999406337738037,True
+orange\Orange 1__r_33_100.jpg,orange,orange,0.9998444318771362,True
+orange\Orange 1__r_40_100.jpg,orange,orange,0.9998393058776855,True
+orange\Orange 1__r_42_100.jpg,orange,orange,0.999919056892395,True
+orange\Orange 1__r_45_100.jpg,orange,orange,0.9999895095825195,True
+orange\Orange 1__r_4_100.jpg,orange,orange,0.9999661445617676,True
+orange\Orange 1__r_53_100.jpg,orange,orange,0.9998986721038818,True
+orange\Orange 1__r_57_100.jpg,orange,orange,0.9999642372131348,True
+orange\Orange 1__r_58_100.jpg,orange,orange,0.9998835325241089,True
+orange\Orange 1__r_61_100.jpg,orange,orange,0.9997696280479431,True
+orange\Orange 1__r_67_100.jpg,orange,orange,0.9997681975364685,True
+orange\Orange 1__r_70_100.jpg,orange,orange,0.9999661445617676,True
+orange\Orange 1__r_71_100.jpg,orange,orange,0.9998651742935181,True
+orange\Orange 1__r_72_100.jpg,orange,orange,0.9997918009757996,True
+orange\Orange 1__r_73_100.jpg,orange,orange,0.9998445510864258,True
+orange\Orange 1__r_74_100.jpg,orange,orange,0.9999556541442871,True
+orange\Orange 1__r_76_100.jpg,orange,orange,0.9998107552528381,True
+orange\Orange 1__r_78_100.jpg,orange,orange,0.9998887777328491,True
+orange\Orange 1__r_79_100.jpg,orange,orange,0.999907374382019,True
+orange\Orange 1__r_84_100.jpg,orange,orange,0.9999558925628662,True
+orange\Orange 1__r_85_100.jpg,orange,orange,0.9999630451202393,True
+orange\Orange 1__r_89_100.jpg,orange,orange,0.9999043941497803,True
+orange\Orange 2__r0_131_100.jpg,orange,orange,0.9999984502792358,True
+orange\Orange 2__r0_143_100.jpg,orange,orange,0.9999725818634033,True
+orange\Orange 2__r0_147_100.jpg,orange,orange,0.9999983310699463,True
+orange\Orange 2__r0_163_100.jpg,orange,orange,0.9999496936798096,True
+orange\Orange 2__r0_175_100.jpg,orange,orange,0.9984851479530334,True
+orange\Orange 2__r0_19_100.jpg,orange,orange,0.9999897480010986,True
+orange\Orange 2__r0_251_100.jpg,orange,orange,0.9999998807907104,True
+orange\Orange 2__r0_255_100.jpg,orange,orange,0.9999998807907104,True
+orange\Orange 2__r0_263_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 2__r0_279_100.jpg,orange,orange,0.9999974966049194,True
+orange\Orange 2__r0_283_100.jpg,orange,orange,0.9999992847442627,True
+orange\Orange 2__r0_303_100.jpg,orange,orange,0.9999984502792358,True
+orange\Orange 2__r0_307_100.jpg,orange,orange,0.9999990463256836,True
+orange\Orange 2__r0_39_100.jpg,orange,orange,0.9999992847442627,True
+orange\Orange 2__r0_51_100.jpg,orange,orange,0.9999996423721313,True
+orange\Orange 2__r0_55_100.jpg,orange,orange,0.9999994039535522,True
+orange\Orange 2__r0_63_100.jpg,orange,orange,0.9999992847442627,True
+orange\Orange 2__r0_75_100.jpg,orange,orange,0.9999982118606567,True
+orange\Orange 2__r0_91_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 2__r1_11_100.jpg,orange,orange,0.9999978542327881,True
+orange\Orange 2__r1_127_100.jpg,orange,orange,0.9999998807907104,True
+orange\Orange 2__r1_143_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 2__r1_163_100.jpg,orange,orange,0.9999998807907104,True
+orange\Orange 2__r1_167_100.jpg,orange,orange,1.0,True
+orange\Orange 2__r1_175_100.jpg,orange,orange,0.9999998807907104,True
+orange\Orange 2__r1_179_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 2__r1_195_100.jpg,orange,orange,0.9992081522941589,True
+orange\Orange 2__r1_219_100.jpg,orange,orange,1.0,True
+orange\Orange 2__r1_227_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 2__r1_239_100.jpg,orange,orange,0.9999998807907104,True
+orange\Orange 2__r1_23_100.jpg,orange,orange,0.9999814033508301,True
+orange\Orange 2__r1_255_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 2__r1_39_100.jpg,orange,orange,0.999869704246521,True
+orange\Orange 2__r1_51_100.jpg,orange,orange,0.999923586845398,True
+orange\Orange 2__r1_7_100.jpg,orange,orange,0.9999978542327881,True
+orange\Orange 2__r2_103_100.jpg,orange,orange,0.9980448484420776,True
+orange\Orange 2__r2_155_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 2__r2_171_100.jpg,orange,orange,0.9999974966049194,True
+orange\Orange 2__r2_183_100.jpg,orange,orange,0.9999579191207886,True
+orange\Orange 2__r2_255_100.jpg,orange,orange,0.9999958276748657,True
+orange\Orange 2__r2_267_100.jpg,orange,orange,0.9999967813491821,True
+orange\Orange 2__r2_275_100.jpg,orange,orange,0.999992847442627,True
+orange\Orange 2__r2_283_100.jpg,orange,orange,0.9999998807907104,True
+orange\Orange 2__r2_291_100.jpg,orange,orange,0.9999982118606567,True
+orange\Orange 2__r2_303_100.jpg,orange,orange,0.9999984502792358,True
+orange\Orange 2__r2_35_100.jpg,orange,orange,0.9999771118164062,True
+orange\Orange 2__r2_3_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 2__r2_47_100.jpg,orange,orange,0.9999935626983643,True
+orange\Orange 2__r2_7_100.jpg,orange,orange,0.9999998807907104,True
+orange\Orange 2__r2_83_100.jpg,orange,orange,0.9999966621398926,True
+orange\Orange 3__r0_115_100.jpg,orange,orange,0.9999908208847046,True
+orange\Orange 3__r0_131_100.jpg,orange,orange,0.999983549118042,True
+orange\Orange 3__r0_151_100.jpg,orange,orange,0.9999988079071045,True
+orange\Orange 3__r0_159_100.jpg,orange,orange,0.999990701675415,True
+orange\Orange 3__r0_171_100.jpg,orange,orange,0.9999771118164062,True
+orange\Orange 3__r0_195_100.jpg,orange,orange,0.9999972581863403,True
+orange\Orange 3__r0_243_100.jpg,orange,orange,0.9997832179069519,True
+orange\Orange 3__r0_247_100.jpg,orange,orange,0.9998339414596558,True
+orange\Orange 3__r0_263_100.jpg,orange,orange,0.9999750852584839,True
+orange\Orange 3__r0_283_100.jpg,orange,orange,0.9999977350234985,True
+orange\Orange 3__r0_295_100.jpg,orange,orange,0.9999991655349731,True
+orange\Orange 3__r0_311_100.jpg,orange,orange,0.9999737739562988,True
+orange\Orange 3__r0_59_100.jpg,orange,orange,0.9999891519546509,True
+orange\Orange 3__r1_103_100.jpg,orange,orange,0.9998548030853271,True
+orange\Orange 3__r1_135_100.jpg,orange,orange,0.9999940395355225,True
+orange\Orange 3__r1_155_100.jpg,orange,orange,0.9999479055404663,True
+orange\Orange 3__r1_191_100.jpg,orange,orange,0.9999942779541016,True
+orange\Orange 3__r1_203_100.jpg,orange,orange,0.9999942779541016,True
+orange\Orange 3__r1_211_100.jpg,orange,orange,0.9999922513961792,True
+orange\Orange 3__r1_219_100.jpg,orange,orange,0.999993085861206,True
+orange\Orange 3__r1_235_100.jpg,orange,orange,0.9999834299087524,True
+orange\Orange 3__r1_239_100.jpg,orange,orange,0.9998584985733032,True
+orange\Orange 3__r1_307_100.jpg,orange,orange,0.9999953508377075,True
+orange\Orange 3__r1_35_100.jpg,orange,orange,0.9999938011169434,True
+orange\Orange 3__r1_47_100.jpg,orange,orange,0.9999929666519165,True
+orange\Orange 3__r1_71_100.jpg,orange,orange,0.9999992847442627,True
+orange\Orange 3__r1_7_100.jpg,orange,orange,0.9999949932098389,True
+orange\Orange 3__r1_99_100.jpg,orange,orange,0.9999914169311523,True
+orange\Orange 3__r2_151_100.jpg,orange,orange,0.9999967813491821,True
+orange\Orange 3__r2_159_100.jpg,orange,orange,0.9999990463256836,True
+orange\Orange 3__r2_163_100.jpg,orange,orange,0.9999984502792358,True
+orange\Orange 3__r2_167_100.jpg,orange,orange,0.9999983310699463,True
+orange\Orange 3__r2_175_100.jpg,orange,orange,0.9999915361404419,True
+orange\Orange 3__r2_231_100.jpg,orange,orange,1.0,True
+orange\Orange 3__r2_251_100.jpg,orange,orange,0.9999995231628418,True
+orange\Orange 3__r2_307_100.jpg,orange,orange,0.9999949932098389,True
+orange\Orange 3__r2_311_100.jpg,orange,orange,0.9999992847442627,True
+orange\Orange 3__r2_59_100.jpg,orange,orange,0.9999390840530396,True
+orange\orange 4__r0_111_100.jpg,orange,orange,0.9999994039535522,True
+orange\orange 4__r0_11_100.jpg,orange,orange,0.9999701976776123,True
+orange\orange 4__r0_127_100.jpg,orange,orange,0.9997789263725281,True
+orange\orange 4__r0_131_100.jpg,orange,orange,0.9994860887527466,True
+orange\orange 4__r0_139_100.jpg,orange,orange,0.9833198189735413,True
+orange\orange 4__r0_143_100.jpg,orange,orange,0.9744943380355835,True
+orange\orange 4__r0_19_100.jpg,orange,orange,0.9999974966049194,True
+orange\orange 4__r0_271_100.jpg,orange,orange,0.9999992847442627,True
+orange\orange 4__r0_299_100.jpg,orange,orange,0.9999998807907104,True
+orange\orange 4__r0_303_100.jpg,orange,orange,0.9999983310699463,True
+orange\orange 4__r0_311_100.jpg,orange,orange,0.9999964237213135,True
+orange\orange 4__r0_3_100.jpg,orange,orange,0.999995231628418,True
+orange\orange 4__r0_43_100.jpg,orange,orange,1.0,True
+orange\orange 4__r0_51_100.jpg,orange,orange,1.0,True
+orange\orange 4__r0_59_100.jpg,orange,orange,0.9999884366989136,True
+orange\orange 4__r0_63_100.jpg,orange,orange,0.9999526739120483,True
+orange\orange 4__r0_71_100.jpg,orange,orange,0.9999440908432007,True
+orange\orange 4__r0_75_100.jpg,orange,orange,0.9999513626098633,True
+orange\orange 4__r0_7_100.jpg,orange,orange,0.9999200105667114,True
+orange\orange 4__r1_127_100.jpg,orange,orange,0.9995632767677307,True
+orange\orange 4__r1_147_100.jpg,orange,orange,0.9999058246612549,True
+orange\orange 4__r1_175_100.jpg,orange,orange,0.9999719858169556,True
+orange\orange 4__r1_187_100.jpg,orange,orange,0.9999978542327881,True
+orange\orange 4__r1_191_100.jpg,orange,orange,0.999998927116394,True
+orange\orange 4__r1_19_100.jpg,orange,orange,1.0,True
+orange\orange 4__r1_215_100.jpg,orange,orange,1.0,True
+orange\orange 4__r1_231_100.jpg,orange,orange,0.9999994039535522,True
+orange\orange 4__r1_283_100.jpg,orange,orange,0.9999057054519653,True
+orange\orange 4__r1_291_100.jpg,orange,orange,0.9999592304229736,True
+orange\orange 4__r1_311_100.jpg,orange,orange,0.999934196472168,True
+orange\orange 4__r1_35_100.jpg,orange,orange,0.9999997615814209,True
+orange\orange 4__r1_3_100.jpg,orange,orange,0.999997615814209,True
+orange\orange 4__r1_67_100.jpg,orange,orange,0.999998927116394,True
+orange\orange 4__r1_71_100.jpg,orange,orange,0.9999927282333374,True
+orange\orange 4__r1_79_100.jpg,orange,orange,0.9999978542327881,True
+orange\orange 4__r1_95_100.jpg,orange,orange,0.999984622001648,True
+orange\orange 4__r2_119_100.jpg,orange,orange,1.0,True
+orange\orange 4__r2_11_100.jpg,orange,orange,0.9999978542327881,True
+orange\orange 4__r2_151_100.jpg,orange,orange,1.0,True
+orange\orange 4__r2_171_100.jpg,orange,orange,0.9999936819076538,True
+orange\orange 4__r2_199_100.jpg,orange,orange,0.9999690055847168,True
+orange\orange 4__r2_203_100.jpg,orange,orange,0.999955415725708,True
+orange\orange 4__r2_239_100.jpg,orange,orange,0.9999990463256836,True
+orange\orange 4__r2_247_100.jpg,orange,orange,0.999987006187439,True
+orange\orange 4__r2_251_100.jpg,orange,orange,0.9999876022338867,True
+orange\orange 4__r2_263_100.jpg,orange,orange,0.9999991655349731,True
+orange\orange 4__r2_283_100.jpg,orange,orange,0.9999998807907104,True
+orange\orange 4__r2_287_100.jpg,orange,orange,0.9999929666519165,True
+orange\orange 4__r2_31_100.jpg,orange,orange,0.9999954700469971,True
+orange\orange 4__r2_3_100.jpg,orange,orange,0.9999678134918213,True
+orange\orange 4__r2_43_100.jpg,orange,orange,0.9999970197677612,True
+orange\orange 4__r3_103_100.jpg,orange,orange,0.9999855756759644,True
+orange\orange 4__r3_107_100.jpg,orange,orange,0.9999985694885254,True
+orange\orange 4__r3_131_100.jpg,orange,orange,0.9999963045120239,True
+orange\orange 4__r3_135_100.jpg,orange,orange,0.9999959468841553,True
+orange\orange 4__r3_139_100.jpg,orange,orange,0.9999936819076538,True
+orange\orange 4__r3_143_100.jpg,orange,orange,0.9999159574508667,True
+orange\orange 4__r3_151_100.jpg,orange,orange,0.9999978542327881,True
+orange\orange 4__r3_155_100.jpg,orange,orange,0.999995231628418,True
+orange\orange 4__r3_19_100.jpg,orange,orange,0.9999980926513672,True
+orange\orange 4__r3_219_100.jpg,orange,orange,1.0,True
+orange\orange 4__r3_263_100.jpg,orange,orange,0.9999991655349731,True
+orange\orange 4__r3_283_100.jpg,orange,orange,0.9999247789382935,True
+orange\orange 4__r3_303_100.jpg,orange,orange,0.9999960660934448,True
+orange\orange 4__r3_3_100.jpg,orange,orange,0.9999041557312012,True
+orange\orange 4__r3_59_100.jpg,orange,orange,0.9999995231628418,True
+orange\orange 4__r3_79_100.jpg,orange,orange,0.9999047517776489,True
+orange\orange 4__r3_87_100.jpg,orange,orange,0.9999887943267822,True
+orange\Orange 5__r0_107_100.jpg,orange,orange,0.9999371767044067,True
+orange\Orange 5__r0_123_100.jpg,orange,orange,0.9998249411582947,True
+orange\Orange 5__r0_131_100.jpg,orange,orange,0.9999988079071045,True
+orange\Orange 5__r0_135_100.jpg,orange,orange,0.9999982118606567,True
+orange\Orange 5__r0_191_100.jpg,orange,orange,0.9999990463256836,True
+orange\Orange 5__r0_227_100.jpg,orange,orange,0.9999961853027344,True
+orange\Orange 5__r0_231_100.jpg,orange,orange,0.9999964237213135,True
+orange\Orange 5__r0_239_100.jpg,orange,orange,0.999966025352478,True
+orange\Orange 5__r0_23_100.jpg,orange,orange,0.9999935626983643,True
+orange\Orange 5__r0_287_100.jpg,orange,orange,0.9999918937683105,True
+orange\Orange 5__r0_299_100.jpg,orange,orange,0.9999963045120239,True
+orange\Orange 5__r0_35_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 5__r0_3_100.jpg,orange,orange,0.9999997615814209,True
+orange\Orange 5__r0_47_100.jpg,orange,orange,0.9999916553497314,True
+orange\Orange 5__r0_51_100.jpg,orange,orange,0.9999984502792358,True
+orange\Orange 5__r0_55_100.jpg,orange,orange,0.9999986886978149,True
+orange\Orange 5__r0_59_100.jpg,orange,orange,0.9999929666519165,True
+orange\Orange 5__r0_7_100.jpg,orange,orange,0.9999996423721313,True
+orange\Orange 5__r0_91_100.jpg,orange,orange,0.9985357522964478,True
+orange\Orange 5__r1_107_100.jpg,orange,orange,0.9998670816421509,True
+orange\Orange 5__r1_151_100.jpg,orange,orange,0.9998493194580078,True
+orange\Orange 5__r1_15_100.jpg,orange,orange,0.998843789100647,True
+orange\Orange 5__r1_163_100.jpg,orange,orange,0.9991487264633179,True
+orange\Orange 5__r1_171_100.jpg,orange,orange,0.999219536781311,True
+orange\Orange 5__r1_199_100.jpg,orange,orange,0.9999908208847046,True
+orange\Orange 5__r1_267_100.jpg,orange,orange,0.9998630285263062,True
+orange\Orange 5__r1_291_100.jpg,orange,orange,0.9999991655349731,True
+orange\Orange 5__r1_31_100.jpg,orange,orange,0.995958149433136,True
+orange\Orange 5__r1_43_100.jpg,orange,orange,0.9959849119186401,True
+orange\Orange 5__r1_63_100.jpg,orange,orange,0.9997990727424622,True
+orange\Orange 5__r1_79_100.jpg,orange,orange,0.9999649524688721,True
+orange\Orange 5__r1_7_100.jpg,orange,orange,0.9998698234558105,True
+orange\Orange 5__r1_95_100.jpg,orange,orange,0.9999985694885254,True
+orange\Orange 5__r1_99_100.jpg,orange,orange,0.9999996423721313,True
+orange\Orange 5__r2_127_100.jpg,orange,orange,1.0,True
+orange\Orange 5__r2_167_100.jpg,orange,orange,0.9997128844261169,True
+orange\Orange 5__r2_199_100.jpg,orange,orange,0.9999973773956299,True
+orange\Orange 5__r2_211_100.jpg,orange,orange,0.999988317489624,True
+orange\Orange 5__r2_227_100.jpg,orange,orange,0.9999966621398926,True
+orange\Orange 5__r2_231_100.jpg,orange,orange,0.9999973773956299,True
+orange\Orange 5__r2_243_100.jpg,orange,orange,0.9999816417694092,True
+orange\Orange 5__r2_255_100.jpg,orange,orange,0.9999983310699463,True
+orange\Orange 5__r2_259_100.jpg,orange,orange,0.999993085861206,True
+orange\Orange 5__r2_263_100.jpg,orange,orange,0.9999966621398926,True
+orange\Orange 5__r2_271_100.jpg,orange,orange,0.9999920129776001,True
+orange\Orange 5__r2_27_100.jpg,orange,orange,0.9999885559082031,True
+orange\Orange 5__r2_303_100.jpg,orange,orange,0.9996740818023682,True
+orange\Orange 5__r2_307_100.jpg,orange,orange,0.9998607635498047,True
+orange\Orange 5__r2_31_100.jpg,orange,orange,0.999998927116394,True
+orange\Orange 5__r2_3_100.jpg,orange,orange,0.9999916553497314,True
+orange\Orange 5__r2_67_100.jpg,orange,orange,0.9999815225601196,True
+orange\Orange 5__r2_71_100.jpg,orange,orange,0.9999103546142578,True
+orange\Orange 5__r2_75_100.jpg,orange,orange,0.9999927282333374,True
+orange\Orange 5__r2_79_100.jpg,orange,orange,0.999974250793457,True
+orange\Orange 5__r2_7_100.jpg,orange,orange,0.9999579191207886,True
+pineapple\Pineapple 1__13_100.jpg,pineapple,pineapple,0.999985933303833,True
+pineapple\Pineapple 1__144_100.jpg,pineapple,pineapple,0.9999958276748657,True
+pineapple\Pineapple 1__15_100.jpg,pineapple,pineapple,0.9999717473983765,True
+pineapple\Pineapple 1__16_100.jpg,pineapple,pineapple,0.9999873638153076,True
+pineapple\Pineapple 1__189_100.jpg,pineapple,pineapple,0.9999936819076538,True
+pineapple\Pineapple 1__18_100.jpg,pineapple,pineapple,0.9999874830245972,True
+pineapple\Pineapple 1__190_100.jpg,pineapple,pineapple,0.9999947547912598,True
+pineapple\Pineapple 1__192_100.jpg,pineapple,pineapple,0.9999918937683105,True
+pineapple\Pineapple 1__193_100.jpg,pineapple,pineapple,0.9999903440475464,True
+pineapple\Pineapple 1__194_100.jpg,pineapple,pineapple,0.9999833106994629,True
+pineapple\Pineapple 1__197_100.jpg,pineapple,pineapple,0.999996542930603,True
+pineapple\Pineapple 1__198_100.jpg,pineapple,pineapple,0.9999946355819702,True
+pineapple\Pineapple 1__206_100.jpg,pineapple,pineapple,0.9999973773956299,True
+pineapple\Pineapple 1__213_100.jpg,pineapple,pineapple,0.9999949932098389,True
+pineapple\Pineapple 1__214_100.jpg,pineapple,pineapple,0.9999988079071045,True
+pineapple\Pineapple 1__215_100.jpg,pineapple,pineapple,0.9999984502792358,True
+pineapple\Pineapple 1__216_100.jpg,pineapple,pineapple,0.9999959468841553,True
+pineapple\Pineapple 1__217_100.jpg,pineapple,pineapple,0.9999991655349731,True
+pineapple\Pineapple 1__218_100.jpg,pineapple,pineapple,0.9999961853027344,True
+pineapple\Pineapple 1__219_100.jpg,pineapple,pineapple,0.9999978542327881,True
+pineapple\Pineapple 1__221_100.jpg,pineapple,pineapple,0.999994158744812,True
+pineapple\Pineapple 1__222_100.jpg,pineapple,pineapple,0.9999932050704956,True
+pineapple\Pineapple 1__223_100.jpg,pineapple,pineapple,0.999995231628418,True
+pineapple\Pineapple 1__224_100.jpg,pineapple,pineapple,0.9999978542327881,True
+pineapple\Pineapple 1__226_100.jpg,pineapple,pineapple,0.999992847442627,True
+pineapple\Pineapple 1__227_100.jpg,pineapple,pineapple,0.9999880790710449,True
+pineapple\Pineapple 1__22_100.jpg,pineapple,pineapple,0.999993085861206,True
+pineapple\Pineapple 1__230_100.jpg,pineapple,pineapple,0.9999887943267822,True
+pineapple\Pineapple 1__231_100.jpg,pineapple,pineapple,0.9999828338623047,True
+pineapple\Pineapple 1__232_100.jpg,pineapple,pineapple,0.999994158744812,True
+pineapple\Pineapple 1__233_100.jpg,pineapple,pineapple,0.9999834299087524,True
+pineapple\Pineapple 1__236_100.jpg,pineapple,pineapple,0.9999775886535645,True
+pineapple\Pineapple 1__238_100.jpg,pineapple,pineapple,0.9999912977218628,True
+pineapple\Pineapple 1__242_100.jpg,pineapple,pineapple,0.9999703168869019,True
+pineapple\Pineapple 1__243_100.jpg,pineapple,pineapple,0.9999918937683105,True
+pineapple\Pineapple 1__24_100.jpg,pineapple,pineapple,0.9999923706054688,True
+pineapple\Pineapple 1__25_100.jpg,pineapple,pineapple,0.9999954700469971,True
+pineapple\Pineapple 1__266_100.jpg,pineapple,pineapple,0.9999850988388062,True
+pineapple\Pineapple 1__267_100.jpg,pineapple,pineapple,0.9999567270278931,True
+pineapple\Pineapple 1__268_100.jpg,pineapple,pineapple,0.9998341798782349,True
+pineapple\Pineapple 1__269_100.jpg,pineapple,pineapple,0.999963641166687,True
+pineapple\Pineapple 1__271_100.jpg,pineapple,pineapple,0.9999849796295166,True
+pineapple\Pineapple 1__273_100.jpg,pineapple,pineapple,0.9999798536300659,True
+pineapple\Pineapple 1__274_100.jpg,pineapple,pineapple,0.9999678134918213,True
+pineapple\Pineapple 1__275_100.jpg,pineapple,pineapple,0.9999774694442749,True
+pineapple\Pineapple 1__276_100.jpg,pineapple,pineapple,0.9999499320983887,True
+pineapple\Pineapple 1__289_100.jpg,pineapple,pineapple,0.9999856948852539,True
+pineapple\Pineapple 1__28_100.jpg,pineapple,pineapple,0.9999914169311523,True
+pineapple\Pineapple 1__300_100.jpg,pineapple,pineapple,0.9999884366989136,True
+pineapple\Pineapple 1__304_100.jpg,pineapple,pineapple,0.999981164932251,True
+pineapple\Pineapple 1__307_100.jpg,pineapple,pineapple,0.9999892711639404,True
+pineapple\Pineapple 1__313_100.jpg,pineapple,pineapple,0.9999765157699585,True
+pineapple\Pineapple 1__321_100.jpg,pineapple,pineapple,0.9999878406524658,True
+pineapple\Pineapple 1__323_100.jpg,pineapple,pineapple,0.9999836683273315,True
+pineapple\Pineapple 1__326_100.jpg,pineapple,pineapple,0.9999951124191284,True
+pineapple\Pineapple 1__3_100.jpg,pineapple,pineapple,0.9999980926513672,True
+pineapple\Pineapple 1__75_100.jpg,pineapple,pineapple,0.9999853372573853,True
+pineapple\Pineapple 1__7_100.jpg,pineapple,pineapple,0.9999896287918091,True
+pineapple\Pineapple 1__8_100.jpg,pineapple,pineapple,0.9999853372573853,True
+pineapple\Pineapple 1__99_100.jpg,pineapple,pineapple,0.9999970197677612,True
+pineapple\Pineapple 1__r_100_100.jpg,pineapple,pineapple,0.9999724626541138,True
+pineapple\Pineapple 1__r_106_100.jpg,pineapple,pineapple,0.999958872795105,True
+pineapple\Pineapple 1__r_107_100.jpg,pineapple,pineapple,0.999950647354126,True
+pineapple\Pineapple 1__r_108_100.jpg,pineapple,pineapple,0.999946117401123,True
+pineapple\Pineapple 1__r_110_100.jpg,pineapple,pineapple,0.9999277591705322,True
+pineapple\Pineapple 1__r_111_100.jpg,pineapple,pineapple,0.9999692440032959,True
+pineapple\Pineapple 1__r_113_100.jpg,pineapple,pineapple,0.9999589920043945,True
+pineapple\Pineapple 1__r_114_100.jpg,pineapple,pineapple,0.999963641166687,True
+pineapple\Pineapple 1__r_115_100.jpg,pineapple,pineapple,0.9999334812164307,True
+pineapple\Pineapple 1__r_117_100.jpg,pineapple,pineapple,0.9999569654464722,True
+pineapple\Pineapple 1__r_119_100.jpg,pineapple,pineapple,0.9999232292175293,True
+pineapple\Pineapple 1__r_120_100.jpg,pineapple,pineapple,0.9999817609786987,True
+pineapple\Pineapple 1__r_126_100.jpg,pineapple,pineapple,0.9999700784683228,True
+pineapple\Pineapple 1__r_127_100.jpg,pineapple,pineapple,0.9999693632125854,True
+pineapple\Pineapple 1__r_128_100.jpg,pineapple,pineapple,0.9999817609786987,True
+pineapple\Pineapple 1__r_129_100.jpg,pineapple,pineapple,0.9999867677688599,True
+pineapple\Pineapple 1__r_130_100.jpg,pineapple,pineapple,0.999976396560669,True
+pineapple\Pineapple 1__r_131_100.jpg,pineapple,pineapple,0.9999685287475586,True
+pineapple\Pineapple 1__r_141_100.jpg,pineapple,pineapple,0.9999769926071167,True
+pineapple\Pineapple 1__r_144_100.jpg,pineapple,pineapple,0.9999804496765137,True
+pineapple\Pineapple 1__r_147_100.jpg,pineapple,pineapple,0.9999711513519287,True
+pineapple\Pineapple 1__r_148_100.jpg,pineapple,pineapple,0.9999866485595703,True
+pineapple\Pineapple 1__r_149_100.jpg,pineapple,pineapple,0.9999749660491943,True
+pineapple\Pineapple 1__r_155_100.jpg,pineapple,pineapple,0.9999856948852539,True
+pineapple\Pineapple 1__r_190_100.jpg,pineapple,pineapple,0.9997559189796448,True
+pineapple\Pineapple 1__r_201_100.jpg,pineapple,pineapple,0.9999464750289917,True
+pineapple\Pineapple 1__r_202_100.jpg,pineapple,pineapple,0.9998636245727539,True
+pineapple\Pineapple 1__r_203_100.jpg,pineapple,pineapple,0.9999179840087891,True
+pineapple\Pineapple 1__r_205_100.jpg,pineapple,pineapple,0.9999363422393799,True
+pineapple\Pineapple 1__r_206_100.jpg,pineapple,pineapple,0.9998700618743896,True
+pineapple\Pineapple 1__r_207_100.jpg,pineapple,pineapple,0.9999232292175293,True
+pineapple\Pineapple 1__r_208_100.jpg,pineapple,pineapple,0.9999314546585083,True
+pineapple\Pineapple 1__r_211_100.jpg,pineapple,pineapple,0.9999401569366455,True
+pineapple\Pineapple 1__r_212_100.jpg,pineapple,pineapple,0.9999502897262573,True
+pineapple\Pineapple 1__r_214_100.jpg,pineapple,pineapple,0.9999804496765137,True
+pineapple\Pineapple 1__r_215_100.jpg,pineapple,pineapple,0.9999721050262451,True
+pineapple\Pineapple 1__r_216_100.jpg,pineapple,pineapple,0.9999825954437256,True
+pineapple\Pineapple 1__r_217_100.jpg,pineapple,pineapple,0.9999598264694214,True
+pineapple\Pineapple 1__r_218_100.jpg,pineapple,pineapple,0.9999741315841675,True
+pineapple\Pineapple 1__r_219_100.jpg,pineapple,pineapple,0.9999854564666748,True
+pineapple\Pineapple 1__r_220_100.jpg,pineapple,pineapple,0.9999721050262451,True
+pineapple\Pineapple 1__r_221_100.jpg,pineapple,pineapple,0.9999816417694092,True
+pineapple\Pineapple 1__r_222_100.jpg,pineapple,pineapple,0.999954342842102,True
+pineapple\Pineapple 1__r_223_100.jpg,pineapple,pineapple,0.9999791383743286,True
+pineapple\Pineapple 1__r_224_100.jpg,pineapple,pineapple,0.9999682903289795,True
+pineapple\Pineapple 1__r_225_100.jpg,pineapple,pineapple,0.9999784231185913,True
+pineapple\Pineapple 1__r_226_100.jpg,pineapple,pineapple,0.9999840259552002,True
+pineapple\Pineapple 1__r_227_100.jpg,pineapple,pineapple,0.9999898672103882,True
+pineapple\Pineapple 1__r_228_100.jpg,pineapple,pineapple,0.9999858140945435,True
+pineapple\Pineapple 1__r_271_100.jpg,pineapple,pineapple,0.999992847442627,True
+pineapple\Pineapple 1__r_273_100.jpg,pineapple,pineapple,0.9999877214431763,True
+pineapple\Pineapple 1__r_274_100.jpg,pineapple,pineapple,0.9999915361404419,True
+pineapple\Pineapple 1__r_275_100.jpg,pineapple,pineapple,0.9999934434890747,True
+pineapple\Pineapple 1__r_276_100.jpg,pineapple,pineapple,0.9999953508377075,True
+pineapple\Pineapple 1__r_277_100.jpg,pineapple,pineapple,0.9999933242797852,True
+pineapple\Pineapple 1__r_278_100.jpg,pineapple,pineapple,0.9999939203262329,True
+pineapple\Pineapple 1__r_58_100.jpg,pineapple,pineapple,0.9999934434890747,True
+pineapple\Pineapple 1__r_62_100.jpg,pineapple,pineapple,0.9999951124191284,True
+pineapple\Pineapple 1__r_71_100.jpg,pineapple,pineapple,0.9999948740005493,True
+pineapple\Pineapple 1__r_74_100.jpg,pineapple,pineapple,0.9999954700469971,True
+pineapple\Pineapple 1__r_76_100.jpg,pineapple,pineapple,0.9999879598617554,True
+pineapple\Pineapple 1__r_77_100.jpg,pineapple,pineapple,0.9999945163726807,True
+pineapple\Pineapple 1__r_79_100.jpg,pineapple,pineapple,0.9999964237213135,True
+pineapple\Pineapple 1__r_81_100.jpg,pineapple,pineapple,0.9999977350234985,True
+pineapple\Pineapple 1__r_84_100.jpg,pineapple,pineapple,0.9999924898147583,True
+pineapple\Pineapple 1__r_87_100.jpg,pineapple,pineapple,0.9999964237213135,True
+pineapple\Pineapple 1__r_88_100.jpg,pineapple,pineapple,0.9999969005584717,True
+pineapple\Pineapple Mini 1__0_100.jpg,pineapple,pineapple,0.9999536275863647,True
+pineapple\Pineapple Mini 1__123_100.jpg,pineapple,pineapple,0.999991774559021,True
+pineapple\Pineapple Mini 1__124_100.jpg,pineapple,pineapple,0.9999915361404419,True
+pineapple\Pineapple Mini 1__125_100.jpg,pineapple,pineapple,0.9999904632568359,True
+pineapple\Pineapple Mini 1__126_100.jpg,pineapple,pineapple,0.999988317489624,True
+pineapple\Pineapple Mini 1__127_100.jpg,pineapple,pineapple,0.9999899864196777,True
+pineapple\Pineapple Mini 1__128_100.jpg,pineapple,pineapple,0.9999755620956421,True
+pineapple\Pineapple Mini 1__129_100.jpg,pineapple,pineapple,0.9999904632568359,True
+pineapple\Pineapple Mini 1__131_100.jpg,pineapple,pineapple,0.9999904632568359,True
+pineapple\Pineapple Mini 1__132_100.jpg,pineapple,pineapple,0.9999904632568359,True
+pineapple\Pineapple Mini 1__133_100.jpg,pineapple,pineapple,0.9999927282333374,True
+pineapple\Pineapple Mini 1__134_100.jpg,pineapple,pineapple,0.9999912977218628,True
+pineapple\Pineapple Mini 1__136_100.jpg,pineapple,pineapple,0.9999915361404419,True
+pineapple\Pineapple Mini 1__137_100.jpg,pineapple,pineapple,0.9999881982803345,True
+pineapple\Pineapple Mini 1__145_100.jpg,pineapple,pineapple,0.999980092048645,True
+pineapple\Pineapple Mini 1__19_100.jpg,pineapple,pineapple,0.9999713897705078,True
+pineapple\Pineapple Mini 1__1_100.jpg,pineapple,pineapple,0.9999278783798218,True
+pineapple\Pineapple Mini 1__20_100.jpg,pineapple,pineapple,0.9999912977218628,True
+pineapple\Pineapple Mini 1__21_100.jpg,pineapple,pineapple,0.9999915361404419,True
+pineapple\Pineapple Mini 1__23_100.jpg,pineapple,pineapple,0.9999890327453613,True
+pineapple\Pineapple Mini 1__257_100.jpg,pineapple,pineapple,0.9999459981918335,True
+pineapple\Pineapple Mini 1__258_100.jpg,pineapple,pineapple,0.9998784065246582,True
+pineapple\Pineapple Mini 1__259_100.jpg,pineapple,pineapple,0.9997969269752502,True
+pineapple\Pineapple Mini 1__265_100.jpg,pineapple,pineapple,0.9999648332595825,True
+pineapple\Pineapple Mini 1__266_100.jpg,pineapple,pineapple,0.9999793767929077,True
+pineapple\Pineapple Mini 1__268_100.jpg,pineapple,pineapple,0.9999929666519165,True
+pineapple\Pineapple Mini 1__269_100.jpg,pineapple,pineapple,0.9999696016311646,True
+pineapple\Pineapple Mini 1__270_100.jpg,pineapple,pineapple,0.9999856948852539,True
+pineapple\Pineapple Mini 1__271_100.jpg,pineapple,pineapple,0.9999878406524658,True
+pineapple\Pineapple Mini 1__272_100.jpg,pineapple,pineapple,0.9999854564666748,True
+pineapple\Pineapple Mini 1__274_100.jpg,pineapple,pineapple,0.9999960660934448,True
+pineapple\Pineapple Mini 1__275_100.jpg,pineapple,pineapple,0.9999701976776123,True
+pineapple\Pineapple Mini 1__293_100.jpg,pineapple,pineapple,0.9999823570251465,True
+pineapple\Pineapple Mini 1__294_100.jpg,pineapple,pineapple,0.9999843835830688,True
+pineapple\Pineapple Mini 1__295_100.jpg,pineapple,pineapple,0.9999587535858154,True
+pineapple\Pineapple Mini 1__298_100.jpg,pineapple,pineapple,0.9999645948410034,True
+pineapple\Pineapple Mini 1__2_100.jpg,pineapple,pineapple,0.9999256134033203,True
+pineapple\Pineapple Mini 1__300_100.jpg,pineapple,pineapple,0.9999903440475464,True
+pineapple\Pineapple Mini 1__303_100.jpg,pineapple,pineapple,0.9999873638153076,True
+pineapple\Pineapple Mini 1__304_100.jpg,pineapple,pineapple,0.9999545812606812,True
+pineapple\Pineapple Mini 1__306_100.jpg,pineapple,pineapple,0.9999685287475586,True
+pineapple\Pineapple Mini 1__309_100.jpg,pineapple,pineapple,0.9999740123748779,True
+pineapple\Pineapple Mini 1__310_100.jpg,pineapple,pineapple,0.9999312162399292,True
+pineapple\Pineapple Mini 1__311_100.jpg,pineapple,pineapple,0.999977707862854,True
+pineapple\Pineapple Mini 1__314_100.jpg,pineapple,pineapple,0.9999799728393555,True
+pineapple\Pineapple Mini 1__316_100.jpg,pineapple,pineapple,0.9999892711639404,True
+pineapple\Pineapple Mini 1__31_100.jpg,pineapple,pineapple,0.9999966621398926,True
+pineapple\Pineapple Mini 1__325_100.jpg,pineapple,pineapple,0.9999772310256958,True
+pineapple\Pineapple Mini 1__326_100.jpg,pineapple,pineapple,0.9999650716781616,True
+pineapple\Pineapple Mini 1__327_100.jpg,pineapple,pineapple,0.9999880790710449,True
+pineapple\Pineapple Mini 1__40_100.jpg,pineapple,pineapple,0.9999828338623047,True
+pineapple\Pineapple Mini 1__60_100.jpg,pineapple,pineapple,0.9999779462814331,True
+pineapple\Pineapple Mini 1__66_100.jpg,pineapple,pineapple,0.9999639987945557,True
+pineapple\Pineapple Mini 1__73_100.jpg,pineapple,pineapple,0.9999854564666748,True
+pineapple\Pineapple Mini 1__75_100.jpg,pineapple,pineapple,0.9999679327011108,True
+pineapple\Pineapple Mini 1__7_100.jpg,pineapple,pineapple,0.9999821186065674,True
+pineapple\Pineapple Mini 1__86_100.jpg,pineapple,pineapple,0.9999700784683228,True
+pineapple\Pineapple Mini 1__r_164_100.jpg,pineapple,pineapple,0.9999806880950928,True
+pineapple\Pineapple Mini 1__r_165_100.jpg,pineapple,pineapple,0.9999802112579346,True
+pineapple\Pineapple Mini 1__r_167_100.jpg,pineapple,pineapple,0.9999896287918091,True
+pineapple\Pineapple Mini 1__r_168_100.jpg,pineapple,pineapple,0.9999860525131226,True
+pineapple\Pineapple Mini 1__r_171_100.jpg,pineapple,pineapple,0.9999738931655884,True
+pineapple\Pineapple Mini 1__r_172_100.jpg,pineapple,pineapple,0.9999722242355347,True
+pineapple\Pineapple Mini 1__r_173_100.jpg,pineapple,pineapple,0.9999957084655762,True
+pineapple\Pineapple Mini 1__r_174_100.jpg,pineapple,pineapple,0.999994158744812,True
+pineapple\Pineapple Mini 1__r_17_100.jpg,pineapple,pineapple,0.9999426603317261,True
+pineapple\Pineapple Mini 1__r_185_100.jpg,pineapple,pineapple,0.9999918937683105,True
+pineapple\Pineapple Mini 1__r_18_100.jpg,pineapple,pineapple,0.9999555349349976,True
+pineapple\Pineapple Mini 1__r_19_100.jpg,pineapple,pineapple,0.9999629259109497,True
+pineapple\Pineapple Mini 1__r_206_100.jpg,pineapple,pineapple,0.9998250603675842,True
+pineapple\Pineapple Mini 1__r_207_100.jpg,pineapple,pineapple,0.99993896484375,True
+pineapple\Pineapple Mini 1__r_208_100.jpg,pineapple,pineapple,0.9999450445175171,True
+pineapple\Pineapple Mini 1__r_218_100.jpg,pineapple,pineapple,0.9999473094940186,True
+pineapple\Pineapple Mini 1__r_219_100.jpg,pineapple,pineapple,0.9999357461929321,True
+pineapple\Pineapple Mini 1__r_21_100.jpg,pineapple,pineapple,0.9999171495437622,True
+pineapple\Pineapple Mini 1__r_221_100.jpg,pineapple,pineapple,0.9999866485595703,True
+pineapple\Pineapple Mini 1__r_222_100.jpg,pineapple,pineapple,0.9999896287918091,True
+pineapple\Pineapple Mini 1__r_223_100.jpg,pineapple,pineapple,0.9999903440475464,True
+pineapple\Pineapple Mini 1__r_224_100.jpg,pineapple,pineapple,0.999984622001648,True
+pineapple\Pineapple Mini 1__r_225_100.jpg,pineapple,pineapple,0.9999810457229614,True
+pineapple\Pineapple Mini 1__r_226_100.jpg,pineapple,pineapple,0.9999884366989136,True
+pineapple\Pineapple Mini 1__r_227_100.jpg,pineapple,pineapple,0.9999872446060181,True
+pineapple\Pineapple Mini 1__r_228_100.jpg,pineapple,pineapple,0.9999583959579468,True
+pineapple\Pineapple Mini 1__r_229_100.jpg,pineapple,pineapple,0.9999842643737793,True
+pineapple\Pineapple Mini 1__r_230_100.jpg,pineapple,pineapple,0.9999915361404419,True
+pineapple\Pineapple Mini 1__r_232_100.jpg,pineapple,pineapple,0.9999916553497314,True
+pineapple\Pineapple Mini 1__r_233_100.jpg,pineapple,pineapple,0.9999939203262329,True
+pineapple\Pineapple Mini 1__r_234_100.jpg,pineapple,pineapple,0.9999964237213135,True
+pineapple\Pineapple Mini 1__r_235_100.jpg,pineapple,pineapple,0.9999966621398926,True
+pineapple\Pineapple Mini 1__r_236_100.jpg,pineapple,pineapple,0.999996542930603,True
+pineapple\Pineapple Mini 1__r_238_100.jpg,pineapple,pineapple,0.9999957084655762,True
+pineapple\Pineapple Mini 1__r_239_100.jpg,pineapple,pineapple,0.9999990463256836,True
+pineapple\Pineapple Mini 1__r_24_100.jpg,pineapple,pineapple,0.9999680519104004,True
+pineapple\Pineapple Mini 1__r_25_100.jpg,pineapple,pineapple,0.9999499320983887,True
+pineapple\Pineapple Mini 1__r_26_100.jpg,pineapple,pineapple,0.9999161958694458,True
+pineapple\Pineapple Mini 1__r_28_100.jpg,pineapple,pineapple,0.9999575614929199,True
+pineapple\Pineapple Mini 1__r_305_100.jpg,pineapple,pineapple,0.9999986886978149,True
+pineapple\Pineapple Mini 1__r_30_100.jpg,pineapple,pineapple,0.9999752044677734,True
+pineapple\Pineapple Mini 1__r_31_100.jpg,pineapple,pineapple,0.9996947050094604,True
+pineapple\Pineapple Mini 1__r_320_100.jpg,pineapple,pineapple,0.9999457597732544,True
+pineapple\Pineapple Mini 1__r_325_100.jpg,pineapple,pineapple,0.9999804496765137,True
+pineapple\Pineapple Mini 1__r_326_100.jpg,pineapple,pineapple,0.9999600648880005,True
+pineapple\Pineapple Mini 1__r_327_100.jpg,pineapple,pineapple,0.9999649524688721,True
+pineapple\Pineapple Mini 1__r_32_100.jpg,pineapple,pineapple,0.9998842477798462,True
+pineapple\Pineapple Mini 1__r_33_100.jpg,pineapple,pineapple,0.9999293088912964,True
+pineapple\Pineapple Mini 1__r_34_100.jpg,pineapple,pineapple,0.9999867677688599,True
+pineapple\Pineapple Mini 1__r_36_100.jpg,pineapple,pineapple,0.9998584985733032,True
+pineapple\Pineapple Mini 1__r_37_100.jpg,pineapple,pineapple,0.99996018409729,True
+pineapple\Pineapple Mini 1__r_38_100.jpg,pineapple,pineapple,0.9998348951339722,True
+pineapple\Pineapple Mini 1__r_39_100.jpg,pineapple,pineapple,0.9999771118164062,True
+pineapple\Pineapple Mini 1__r_40_100.jpg,pineapple,pineapple,0.9999834299087524,True
+pineapple\Pineapple Mini 1__r_42_100.jpg,pineapple,pineapple,0.9999935626983643,True
+pineapple\Pineapple Mini 1__r_43_100.jpg,pineapple,pineapple,0.9998965263366699,True
+pineapple\Pineapple Mini 1__r_45_100.jpg,pineapple,pineapple,0.9999682903289795,True
+pineapple\Pineapple Mini 1__r_46_100.jpg,pineapple,pineapple,0.999984622001648,True
+pineapple\Pineapple Mini 1__r_47_100.jpg,pineapple,pineapple,0.9999843835830688,True
+pineapple\Pineapple Mini 1__r_48_100.jpg,pineapple,pineapple,0.9999872446060181,True
+pineapple\Pineapple Mini 1__r_49_100.jpg,pineapple,pineapple,0.9999858140945435,True
+pineapple\Pineapple Mini 1__r_50_100.jpg,pineapple,pineapple,0.9999916553497314,True
+pineapple\Pineapple Mini 1__r_52_100.jpg,pineapple,pineapple,0.9999796152114868,True
+pineapple\Pineapple Mini 1__r_53_100.jpg,pineapple,pineapple,0.9999194145202637,True
+pineapple\Pineapple Mini 1__r_55_100.jpg,pineapple,pineapple,0.9999383687973022,True
+pineapple\Pineapple Mini 1__r_56_100.jpg,pineapple,pineapple,0.9999648332595825,True
+strawberry\Strawberry 1__321_100.jpg,strawberry,strawberry,0.9999977350234985,True
+strawberry\Strawberry 1__323_100.jpg,strawberry,strawberry,0.9999979734420776,True
+strawberry\Strawberry 1__325_100.jpg,strawberry,strawberry,0.9999918937683105,True
+strawberry\Strawberry 1__32_100.jpg,strawberry,strawberry,0.9999943971633911,True
+strawberry\Strawberry 1__35_100.jpg,strawberry,strawberry,0.9999775886535645,True
+strawberry\Strawberry 1__36_100.jpg,strawberry,strawberry,0.9999949932098389,True
+strawberry\Strawberry 1__37_100.jpg,strawberry,strawberry,0.9999871253967285,True
+strawberry\Strawberry 1__3_100.jpg,strawberry,strawberry,0.9999878406524658,True
+strawberry\Strawberry 1__41_100.jpg,strawberry,strawberry,0.9999759197235107,True
+strawberry\Strawberry 1__42_100.jpg,strawberry,strawberry,0.999962568283081,True
+strawberry\Strawberry 1__43_100.jpg,strawberry,strawberry,0.9999853372573853,True
+strawberry\Strawberry 1__44_100.jpg,strawberry,strawberry,0.9999700784683228,True
+strawberry\Strawberry 1__47_100.jpg,strawberry,strawberry,0.9999228715896606,True
+strawberry\Strawberry 1__49_100.jpg,strawberry,strawberry,0.9999935626983643,True
+strawberry\Strawberry 1__4_100.jpg,strawberry,strawberry,0.9999920129776001,True
+strawberry\Strawberry 1__51_100.jpg,strawberry,strawberry,0.9999843835830688,True
+strawberry\Strawberry 1__54_100.jpg,strawberry,strawberry,0.9999909400939941,True
+strawberry\Strawberry 1__55_100.jpg,strawberry,strawberry,0.999954342842102,True
+strawberry\Strawberry 1__58_100.jpg,strawberry,strawberry,0.999954342842102,True
+strawberry\Strawberry 1__59_100.jpg,strawberry,strawberry,0.999848484992981,True
+strawberry\Strawberry 1__60_100.jpg,strawberry,strawberry,0.9998589754104614,True
+strawberry\Strawberry 1__63_100.jpg,strawberry,strawberry,0.9994522929191589,True
+strawberry\Strawberry 1__64_100.jpg,strawberry,strawberry,0.999021053314209,True
+strawberry\Strawberry 1__65_100.jpg,strawberry,strawberry,0.9989467263221741,True
+strawberry\Strawberry 1__69_100.jpg,strawberry,strawberry,0.9999709129333496,True
+strawberry\Strawberry 1__71_100.jpg,strawberry,strawberry,0.9999746084213257,True
+strawberry\Strawberry 1__72_100.jpg,strawberry,strawberry,0.9999643564224243,True
+strawberry\Strawberry 1__74_100.jpg,strawberry,strawberry,0.9997817873954773,True
+strawberry\Strawberry 1__75_100.jpg,strawberry,strawberry,0.9999157190322876,True
+strawberry\Strawberry 1__77_100.jpg,strawberry,strawberry,0.9999752044677734,True
+strawberry\Strawberry 1__82_100.jpg,strawberry,strawberry,0.999982476234436,True
+strawberry\Strawberry 1__88_100.jpg,strawberry,strawberry,0.9999814033508301,True
+strawberry\Strawberry 1__94_100.jpg,strawberry,strawberry,0.9999144077301025,True
+strawberry\Strawberry 1__95_100.jpg,strawberry,strawberry,0.9999455213546753,True
+strawberry\Strawberry 1__96_100.jpg,strawberry,strawberry,0.9999195337295532,True
+strawberry\Strawberry 1__99_100.jpg,strawberry,strawberry,0.9999843835830688,True
+strawberry\Strawberry 1__9_100.jpg,strawberry,strawberry,0.9999978542327881,True
+strawberry\Strawberry 1__r_321_100.jpg,strawberry,strawberry,0.999941349029541,True
+strawberry\Strawberry 1__r_323_100.jpg,strawberry,strawberry,0.9999818801879883,True
+strawberry\Strawberry 1__r_325_100.jpg,strawberry,strawberry,0.999958872795105,True
+strawberry\Strawberry 1__r_326_100.jpg,strawberry,strawberry,0.9999819993972778,True
+strawberry\Strawberry 1__r_33_100.jpg,strawberry,strawberry,0.999968409538269,True
+strawberry\Strawberry 1__r_35_100.jpg,strawberry,strawberry,0.9999865293502808,True
+strawberry\Strawberry 1__r_3_100.jpg,strawberry,strawberry,0.9998610019683838,True
+strawberry\Strawberry 1__r_40_100.jpg,strawberry,strawberry,0.9999815225601196,True
+strawberry\Strawberry 1__r_43_100.jpg,strawberry,strawberry,0.9999929666519165,True
+strawberry\Strawberry 1__r_45_100.jpg,strawberry,strawberry,0.9999884366989136,True
+strawberry\Strawberry 1__r_46_100.jpg,strawberry,strawberry,0.9999960660934448,True
+strawberry\Strawberry 1__r_4_100.jpg,strawberry,strawberry,0.9999152421951294,True
+strawberry\Strawberry 1__r_50_100.jpg,strawberry,strawberry,0.9999860525131226,True
+strawberry\Strawberry 1__r_53_100.jpg,strawberry,strawberry,0.9999788999557495,True
+strawberry\Strawberry 1__r_56_100.jpg,strawberry,strawberry,0.9999874830245972,True
+strawberry\Strawberry 1__r_58_100.jpg,strawberry,strawberry,0.9999927282333374,True
+strawberry\Strawberry 1__r_59_100.jpg,strawberry,strawberry,0.999983549118042,True
+strawberry\Strawberry 1__r_5_100.jpg,strawberry,strawberry,0.9993942975997925,True
+strawberry\Strawberry 1__r_60_100.jpg,strawberry,strawberry,0.9999805688858032,True
+strawberry\Strawberry 1__r_61_100.jpg,strawberry,strawberry,0.9999674558639526,True
+strawberry\Strawberry 1__r_62_100.jpg,strawberry,strawberry,0.9999796152114868,True
+strawberry\Strawberry 1__r_63_100.jpg,strawberry,strawberry,0.9999862909317017,True
+strawberry\Strawberry 1__r_64_100.jpg,strawberry,strawberry,0.9999889135360718,True
+strawberry\Strawberry 1__r_66_100.jpg,strawberry,strawberry,0.9999796152114868,True
+strawberry\Strawberry 1__r_67_100.jpg,strawberry,strawberry,0.9999868869781494,True
+strawberry\Strawberry 1__r_68_100.jpg,strawberry,strawberry,0.9997888207435608,True
+strawberry\Strawberry 1__r_6_100.jpg,strawberry,strawberry,0.999987006187439,True
+strawberry\Strawberry 1__r_70_100.jpg,strawberry,strawberry,0.9999845027923584,True
+strawberry\Strawberry 1__r_72_100.jpg,strawberry,strawberry,0.9999749660491943,True
+strawberry\Strawberry 1__r_74_100.jpg,strawberry,strawberry,0.9999849796295166,True
+strawberry\Strawberry 1__r_75_100.jpg,strawberry,strawberry,0.9999972581863403,True
+strawberry\Strawberry 1__r_76_100.jpg,strawberry,strawberry,0.9999934434890747,True
+strawberry\Strawberry 1__r_79_100.jpg,strawberry,strawberry,0.9999910593032837,True
+strawberry\Strawberry 1__r_80_100.jpg,strawberry,strawberry,0.9999854564666748,True
+strawberry\Strawberry 1__r_81_100.jpg,strawberry,strawberry,0.9999717473983765,True
+strawberry\Strawberry 1__r_84_100.jpg,strawberry,strawberry,0.9998995065689087,True
+strawberry\Strawberry 1__r_88_100.jpg,strawberry,strawberry,0.9999476671218872,True
+strawberry\Strawberry 1__r_89_100.jpg,strawberry,strawberry,0.9999796152114868,True
+strawberry\Strawberry 1__r_8_100.jpg,strawberry,strawberry,0.9998292922973633,True
+strawberry\Strawberry 1__r_93_100.jpg,strawberry,strawberry,0.9999935626983643,True
+strawberry\Strawberry 1__r_95_100.jpg,strawberry,strawberry,0.9999896287918091,True
+strawberry\Strawberry 1__r_97_100.jpg,strawberry,strawberry,0.9999788999557495,True
+strawberry\Strawberry 1__r_99_100.jpg,strawberry,strawberry,0.9999738931655884,True
+strawberry\Strawberry 2__r0_103_100.jpg,strawberry,strawberry,0.9999916553497314,True
+strawberry\Strawberry 2__r0_111_100.jpg,strawberry,strawberry,0.9999945163726807,True
+strawberry\Strawberry 2__r0_115_100.jpg,strawberry,strawberry,0.9999599456787109,True
+strawberry\Strawberry 2__r0_119_100.jpg,strawberry,strawberry,0.999970555305481,True
+strawberry\Strawberry 2__r0_11_100.jpg,strawberry,strawberry,0.9999819993972778,True
+strawberry\Strawberry 2__r0_123_100.jpg,strawberry,strawberry,0.999875545501709,True
+strawberry\Strawberry 2__r0_131_100.jpg,strawberry,strawberry,0.9999663829803467,True
+strawberry\Strawberry 2__r0_135_100.jpg,strawberry,strawberry,0.999976396560669,True
+strawberry\Strawberry 2__r0_151_100.jpg,strawberry,strawberry,0.9999872446060181,True
+strawberry\Strawberry 2__r0_163_100.jpg,strawberry,strawberry,0.9999641180038452,True
+strawberry\Strawberry 2__r0_171_100.jpg,strawberry,strawberry,0.9999610185623169,True
+strawberry\Strawberry 2__r0_183_100.jpg,strawberry,strawberry,0.9999821186065674,True
+strawberry\Strawberry 2__r0_187_100.jpg,strawberry,strawberry,0.9999483823776245,True
+strawberry\Strawberry 2__r0_191_100.jpg,strawberry,strawberry,0.9998795986175537,True
+strawberry\Strawberry 2__r0_195_100.jpg,strawberry,strawberry,0.9999439716339111,True
+strawberry\Strawberry 2__r0_207_100.jpg,strawberry,strawberry,0.9999368190765381,True
+strawberry\Strawberry 2__r0_211_100.jpg,strawberry,strawberry,0.9999797344207764,True
+strawberry\Strawberry 2__r0_219_100.jpg,strawberry,strawberry,0.9999966621398926,True
+strawberry\Strawberry 2__r0_223_100.jpg,strawberry,strawberry,0.9999978542327881,True
+strawberry\Strawberry 2__r0_227_100.jpg,strawberry,strawberry,0.9999971389770508,True
+strawberry\Strawberry 2__r0_231_100.jpg,strawberry,strawberry,0.9999938011169434,True
+strawberry\Strawberry 2__r0_235_100.jpg,strawberry,strawberry,0.9999910593032837,True
+strawberry\Strawberry 2__r0_239_100.jpg,strawberry,strawberry,0.9999914169311523,True
+strawberry\Strawberry 2__r0_23_100.jpg,strawberry,strawberry,0.9999908208847046,True
+strawberry\Strawberry 2__r0_243_100.jpg,strawberry,strawberry,0.9999920129776001,True
+strawberry\Strawberry 2__r0_247_100.jpg,strawberry,strawberry,0.9999898672103882,True
+strawberry\Strawberry 2__r0_251_100.jpg,strawberry,strawberry,0.9999902248382568,True
+strawberry\Strawberry 2__r0_255_100.jpg,strawberry,strawberry,0.9999865293502808,True
+strawberry\Strawberry 2__r0_259_100.jpg,strawberry,strawberry,0.9999891519546509,True
+strawberry\Strawberry 2__r0_263_100.jpg,strawberry,strawberry,0.9999984502792358,True
+strawberry\Strawberry 2__r0_275_100.jpg,strawberry,strawberry,0.9999914169311523,True
+strawberry\Strawberry 2__r0_287_100.jpg,strawberry,strawberry,0.9999947547912598,True
+strawberry\Strawberry 2__r0_299_100.jpg,strawberry,strawberry,0.9999911785125732,True
+strawberry\Strawberry 2__r0_303_100.jpg,strawberry,strawberry,0.9999948740005493,True
+strawberry\Strawberry 2__r0_35_100.jpg,strawberry,strawberry,0.9999873638153076,True
+strawberry\Strawberry 2__r0_39_100.jpg,strawberry,strawberry,0.9999659061431885,True
+strawberry\Strawberry 2__r0_43_100.jpg,strawberry,strawberry,0.9999263286590576,True
+strawberry\Strawberry 2__r0_47_100.jpg,strawberry,strawberry,0.9999545812606812,True
+strawberry\Strawberry 2__r0_63_100.jpg,strawberry,strawberry,0.9999183416366577,True
+strawberry\Strawberry 2__r0_67_100.jpg,strawberry,strawberry,0.9998830556869507,True
+strawberry\Strawberry 2__r0_71_100.jpg,strawberry,strawberry,0.9999765157699585,True
+strawberry\Strawberry 2__r0_75_100.jpg,strawberry,strawberry,0.999984622001648,True
+strawberry\Strawberry 2__r0_79_100.jpg,strawberry,strawberry,0.9999915361404419,True
+strawberry\Strawberry 2__r0_7_100.jpg,strawberry,strawberry,0.9999974966049194,True
+strawberry\Strawberry 2__r0_95_100.jpg,strawberry,strawberry,0.999992847442627,True
+strawberry\Strawberry 2__r0_99_100.jpg,strawberry,strawberry,0.9999823570251465,True
+strawberry\Strawberry 2__r1_19_100.jpg,strawberry,strawberry,0.9999889135360718,True
+strawberry\Strawberry 2__r1_27_100.jpg,strawberry,strawberry,0.9999986886978149,True
+strawberry\Strawberry 2__r1_43_100.jpg,strawberry,strawberry,0.9999990463256836,True
+strawberry\Strawberry 2__r1_47_100.jpg,strawberry,strawberry,0.999997615814209,True
+strawberry\Strawberry 3__r0_107_100.jpg,strawberry,strawberry,0.9999805688858032,True
+strawberry\Strawberry 3__r0_111_100.jpg,strawberry,strawberry,0.9999942779541016,True
+strawberry\Strawberry 3__r0_115_100.jpg,strawberry,strawberry,0.9999929666519165,True
+strawberry\Strawberry 3__r0_119_100.jpg,strawberry,strawberry,0.9999910593032837,True
+strawberry\Strawberry 3__r0_123_100.jpg,strawberry,strawberry,0.9999834299087524,True
+strawberry\Strawberry 3__r0_127_100.jpg,strawberry,strawberry,0.9999704360961914,True
+strawberry\Strawberry 3__r0_131_100.jpg,strawberry,strawberry,0.9999465942382812,True
+strawberry\Strawberry 3__r0_135_100.jpg,strawberry,strawberry,0.9999254941940308,True
+strawberry\Strawberry 3__r0_147_100.jpg,strawberry,strawberry,0.9997240900993347,True
+strawberry\Strawberry 3__r0_155_100.jpg,strawberry,strawberry,0.999845027923584,True
+strawberry\Strawberry 3__r0_167_100.jpg,strawberry,strawberry,0.9999901056289673,True
+strawberry\Strawberry 3__r0_183_100.jpg,strawberry,strawberry,0.9999923706054688,True
+strawberry\Strawberry 3__r0_187_100.jpg,strawberry,strawberry,0.9999936819076538,True
+strawberry\Strawberry 3__r0_191_100.jpg,strawberry,strawberry,0.9999833106994629,True
+strawberry\Strawberry 3__r0_195_100.jpg,strawberry,strawberry,0.9999771118164062,True
+strawberry\Strawberry 3__r0_19_100.jpg,strawberry,strawberry,0.9999781847000122,True
+strawberry\Strawberry 3__r0_203_100.jpg,strawberry,strawberry,0.9999631643295288,True
+strawberry\Strawberry 3__r0_207_100.jpg,strawberry,strawberry,0.9999903440475464,True
+strawberry\Strawberry 3__r0_223_100.jpg,strawberry,strawberry,0.9999867677688599,True
+strawberry\Strawberry 3__r0_235_100.jpg,strawberry,strawberry,0.9999982118606567,True
+strawberry\Strawberry 3__r0_251_100.jpg,strawberry,strawberry,0.9999977350234985,True
+strawberry\Strawberry 3__r0_259_100.jpg,strawberry,strawberry,0.9999997615814209,True
+strawberry\Strawberry 3__r0_27_100.jpg,strawberry,strawberry,0.9999387264251709,True
+strawberry\Strawberry 3__r0_287_100.jpg,strawberry,strawberry,0.9999990463256836,True
+strawberry\Strawberry 3__r0_291_100.jpg,strawberry,strawberry,0.9999926090240479,True
+strawberry\Strawberry 3__r0_295_100.jpg,strawberry,strawberry,0.999991774559021,True
+strawberry\Strawberry 3__r0_303_100.jpg,strawberry,strawberry,0.999972939491272,True
+strawberry\Strawberry 3__r0_31_100.jpg,strawberry,strawberry,0.9999046325683594,True
+strawberry\Strawberry 3__r0_35_100.jpg,strawberry,strawberry,0.999825656414032,True
+strawberry\Strawberry 3__r0_39_100.jpg,strawberry,strawberry,0.9999330043792725,True
+strawberry\Strawberry 3__r0_3_100.jpg,strawberry,strawberry,0.9999862909317017,True
+strawberry\Strawberry 3__r0_43_100.jpg,strawberry,strawberry,0.9999434947967529,True
+strawberry\Strawberry 3__r0_47_100.jpg,strawberry,strawberry,0.9999631643295288,True
+strawberry\Strawberry 3__r0_51_100.jpg,strawberry,strawberry,0.9999737739562988,True
+strawberry\Strawberry 3__r0_59_100.jpg,strawberry,strawberry,0.9999872446060181,True
+strawberry\Strawberry 3__r0_63_100.jpg,strawberry,strawberry,0.9999946355819702,True
+strawberry\Strawberry 3__r0_67_100.jpg,strawberry,strawberry,0.999990701675415,True
+strawberry\Strawberry 3__r0_71_100.jpg,strawberry,strawberry,0.9999969005584717,True
+strawberry\Strawberry 3__r0_75_100.jpg,strawberry,strawberry,0.9999961853027344,True
+strawberry\Strawberry 3__r0_7_100.jpg,strawberry,strawberry,0.9999412298202515,True
+strawberry\Strawberry 3__r0_83_100.jpg,strawberry,strawberry,0.9999744892120361,True
+strawberry\Strawberry 3__r0_87_100.jpg,strawberry,strawberry,0.999995231628418,True
+strawberry\Strawberry 3__r0_95_100.jpg,strawberry,strawberry,0.9999921321868896,True
+strawberry\Strawberry 3__r1_103_100.jpg,strawberry,strawberry,0.9999903440475464,True
+strawberry\Strawberry 3__r1_107_100.jpg,strawberry,strawberry,0.9999942779541016,True
+strawberry\Strawberry 3__r1_115_100.jpg,strawberry,strawberry,0.999957799911499,True
+strawberry\Strawberry 3__r1_119_100.jpg,strawberry,strawberry,0.9999579191207886,True
+strawberry\Strawberry 3__r1_127_100.jpg,strawberry,strawberry,0.999988317489624,True
+strawberry\Strawberry 3__r1_135_100.jpg,strawberry,strawberry,0.9999873638153076,True
+strawberry\Strawberry 3__r1_139_100.jpg,strawberry,strawberry,0.9999827146530151,True
+strawberry\Strawberry 3__r1_143_100.jpg,strawberry,strawberry,0.999992847442627,True
+strawberry\Strawberry 3__r1_155_100.jpg,strawberry,strawberry,0.9999959468841553,True
+strawberry\Strawberry 3__r1_159_100.jpg,strawberry,strawberry,0.9999955892562866,True
+strawberry\Strawberry 3__r1_15_100.jpg,strawberry,strawberry,0.9999978542327881,True
+strawberry\Strawberry 3__r1_163_100.jpg,strawberry,strawberry,0.9999938011169434,True
+strawberry\Strawberry 3__r1_167_100.jpg,strawberry,strawberry,0.9999942779541016,True
+strawberry\Strawberry 3__r1_175_100.jpg,strawberry,strawberry,0.9999923706054688,True
+strawberry\Strawberry 3__r1_179_100.jpg,strawberry,strawberry,0.9999936819076538,True
+strawberry\Strawberry 3__r1_183_100.jpg,strawberry,strawberry,0.9999837875366211,True
+strawberry\Strawberry 3__r1_195_100.jpg,strawberry,strawberry,0.9999929666519165,True
+strawberry\Strawberry 3__r1_203_100.jpg,strawberry,strawberry,0.9999775886535645,True
+strawberry\Strawberry 3__r1_207_100.jpg,strawberry,strawberry,0.9998841285705566,True
+strawberry\Strawberry 3__r1_211_100.jpg,strawberry,strawberry,0.9998382329940796,True
+strawberry\Strawberry 3__r1_223_100.jpg,strawberry,strawberry,0.9999179840087891,True
+strawberry\Strawberry 3__r1_227_100.jpg,strawberry,strawberry,0.9999344348907471,True
+strawberry\Strawberry 3__r1_235_100.jpg,strawberry,strawberry,0.999835729598999,True
+strawberry\Strawberry 3__r1_239_100.jpg,strawberry,strawberry,0.9999643564224243,True
+strawberry\Strawberry 3__r1_23_100.jpg,strawberry,strawberry,0.9999957084655762,True
+strawberry\Strawberry 3__r1_243_100.jpg,strawberry,strawberry,0.9999871253967285,True
+strawberry\Strawberry 3__r1_251_100.jpg,strawberry,strawberry,0.9999963045120239,True
+strawberry\Strawberry 3__r1_259_100.jpg,strawberry,strawberry,0.999996542930603,True
+strawberry\Strawberry 3__r1_271_100.jpg,strawberry,strawberry,0.9999983310699463,True
+strawberry\Strawberry 3__r1_275_100.jpg,strawberry,strawberry,0.9999926090240479,True
+strawberry\Strawberry 3__r1_279_100.jpg,strawberry,strawberry,0.9999884366989136,True
+strawberry\Strawberry 3__r1_27_100.jpg,strawberry,strawberry,0.9999915361404419,True
+strawberry\Strawberry 3__r1_291_100.jpg,strawberry,strawberry,0.9999932050704956,True
+strawberry\Strawberry 3__r1_299_100.jpg,strawberry,strawberry,0.9999897480010986,True
+strawberry\Strawberry 3__r1_39_100.jpg,strawberry,strawberry,0.9999982118606567,True
+strawberry\Strawberry 3__r1_47_100.jpg,strawberry,strawberry,0.9999991655349731,True
+strawberry\Strawberry 3__r1_51_100.jpg,strawberry,strawberry,0.9999583959579468,True
+strawberry\Strawberry 3__r1_63_100.jpg,strawberry,strawberry,0.9999649524688721,True
+strawberry\Strawberry 3__r1_67_100.jpg,strawberry,strawberry,0.9998505115509033,True
+strawberry\Strawberry 3__r1_71_100.jpg,strawberry,strawberry,0.9999850988388062,True
+strawberry\Strawberry 3__r1_75_100.jpg,strawberry,strawberry,0.9999620914459229,True
+strawberry\Strawberry 3__r1_79_100.jpg,strawberry,strawberry,0.999984622001648,True
+strawberry\Strawberry 3__r1_83_100.jpg,strawberry,strawberry,0.9999281167984009,True
+strawberry\Strawberry 3__r1_87_100.jpg,strawberry,strawberry,0.9999544620513916,True
+strawberry\Strawberry 3__r2_115_100.jpg,strawberry,strawberry,0.9999762773513794,True
+strawberry\Strawberry 3__r2_119_100.jpg,strawberry,strawberry,0.9999911785125732,True
+strawberry\Strawberry 3__r2_11_100.jpg,strawberry,strawberry,0.9999780654907227,True
+strawberry\Strawberry 3__r2_123_100.jpg,strawberry,strawberry,0.9999910593032837,True
+strawberry\Strawberry 3__r2_127_100.jpg,strawberry,strawberry,0.9999901056289673,True
+strawberry\Strawberry 3__r2_155_100.jpg,strawberry,strawberry,0.9999984502792358,True
+strawberry\Strawberry 3__r2_167_100.jpg,strawberry,strawberry,0.9999997615814209,True
+strawberry\Strawberry 3__r2_175_100.jpg,strawberry,strawberry,0.9999982118606567,True
+strawberry\Strawberry 3__r2_179_100.jpg,strawberry,strawberry,0.9999984502792358,True
+strawberry\Strawberry 3__r2_195_100.jpg,strawberry,strawberry,0.9999902248382568,True
+strawberry\Strawberry 3__r2_199_100.jpg,strawberry,strawberry,0.9999508857727051,True
+strawberry\Strawberry 3__r2_203_100.jpg,strawberry,strawberry,0.9999253749847412,True
+strawberry\Strawberry 3__r2_207_100.jpg,strawberry,strawberry,0.9998884201049805,True
+strawberry\Strawberry 3__r2_211_100.jpg,strawberry,strawberry,0.9999339580535889,True
+strawberry\Strawberry 3__r2_223_100.jpg,strawberry,strawberry,0.999764621257782,True
+strawberry\Strawberry 3__r2_227_100.jpg,strawberry,strawberry,0.9999076128005981,True
+strawberry\Strawberry 3__r2_231_100.jpg,strawberry,strawberry,0.9999289512634277,True
+strawberry\Strawberry 3__r2_235_100.jpg,strawberry,strawberry,0.9999103546142578,True
+strawberry\Strawberry 3__r2_239_100.jpg,strawberry,strawberry,0.9999464750289917,True
+strawberry\Strawberry 3__r2_23_100.jpg,strawberry,strawberry,0.9999984502792358,True
+strawberry\Strawberry 3__r2_247_100.jpg,strawberry,strawberry,0.9999678134918213,True
+strawberry\Strawberry 3__r2_255_100.jpg,strawberry,strawberry,0.9999957084655762,True
+strawberry\Strawberry 3__r2_267_100.jpg,strawberry,strawberry,0.9999825954437256,True
+strawberry\Strawberry 3__r2_275_100.jpg,strawberry,strawberry,0.999935507774353,True
+strawberry\Strawberry 3__r2_27_100.jpg,strawberry,strawberry,0.9999980926513672,True
+strawberry\Strawberry 3__r2_31_100.jpg,strawberry,strawberry,0.9999978542327881,True
+strawberry\Strawberry 3__r2_43_100.jpg,strawberry,strawberry,0.999985933303833,True
+strawberry\Strawberry 3__r2_55_100.jpg,strawberry,strawberry,0.9998929500579834,True
+strawberry\Strawberry 3__r2_67_100.jpg,strawberry,strawberry,0.9999107122421265,True
+strawberry\Strawberry 3__r2_75_100.jpg,strawberry,strawberry,0.999994158744812,True
+strawberry\Strawberry 3__r2_7_100.jpg,strawberry,strawberry,0.9999982118606567,True
+strawberry\Strawberry 3__r2_91_100.jpg,strawberry,strawberry,0.999997615814209,True
+strawberry\Strawberry 3__r2_95_100.jpg,strawberry,strawberry,0.9999977350234985,True

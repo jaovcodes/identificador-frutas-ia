@@ -1,0 +1,25 @@
+REGISTRO DE TESTES EXTERNOS — 23/11/2026 (America/Manaus)
+
+Versão inicial: MobileNetV2 congelada, entrada 160x160, cabeça específica de seis classes.
+Preservados: modelo, classes, histórico de treinamento, métricas Fruits-360,
+seis imagens originais de Downloads e seis prints do aplicativo.
+O modelo e as imagens possuem hashes SHA-256 no registro.json.
+
+Os seis casos enviados são falhas selecionadas pelo usuário. Não constituem
+uma amostra representativa e não permitem calcular a acurácia global em fotos externas.
+São duas fotos de limão verde, duas de laranja e duas de abacaxi.
+Três previsões erradas foram apresentadas como identificação; três foram
+barradas pelo limiar de 70%. O aviso de incerteza não equivale a classificar corretamente.
+
+O resultado de 1.499/1.500 no Fruits-360 deve ser relatado separadamente.
+Estas evidências mostram falhas de generalização nesta seleção externa,
+inclusive em fundos brancos e com confiança alta. O limão verde (Limes)
+não estava incluído na preparação inicial. A influência de fundo, cortes e
+folhas é uma hipótese a investigar, não uma causa comprovada isoladamente.
+
+Para completar o experimento: registrar também imagens que passaram,
+rótulo esperado, previsão, confiança, versão do modelo e origem/URL.
+URLs e licenças destas fotos não foram fornecidas; completar antes de
+reproduzi-las no artigo ou em materiais públicos com atribuição adequada.
+Não usar este conjunto no treinamento. Para uma avaliação final após ajustes,
+separar outras imagens ainda não usadas no desenvolvimento.

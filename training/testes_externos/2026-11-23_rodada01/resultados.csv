@@ -1,0 +1,7 @@
+﻿id,file,expected,observed_prediction,observed_confidence_percent,observed_ui_status,reproduced_prediction,reproduced_confidence,reproduced_confident,correct,description,sha256
+caso_01,OIP (2).webp,lemon,apple,78.4,identified,apple,0.7843055725097656,True,False,"Limão verde inteiro e cortado, sobre madeira",81d1b8eb0bc3519cd529bd418bc9fd09885214581cfb3652f0e3e9ca28f9b6b3
+caso_02,R.jpg,orange,strawberry,52.6,uncertain,strawberry,0.5260735154151917,False,False,"Laranja inteira e cortada, com folhas, fundo branco",ba64ab8b8d2349cab0075cbc1b32384d30f06351329cc3ad6fcf13098b32a07d
+caso_03,R (1).jpg,pineapple,strawberry,69.8,uncertain,strawberry,0.6980103850364685,False,False,"Abacaxi com coroa e fatias, fundo branco",f8d40c7a7d2eeb0cb92460aeab6093fdd24ca50b110a2cf27e342331925a20fa
+caso_04,OIP.webp,orange,banana,62.3,uncertain,banana,0.6230806708335876,False,False,"Laranja inteira e cortada, fundo natural",4c26d20aef62cc025bf395bacf4c16a49a37279eb5f1a46adb43e0ddd2fdc2f9
+caso_05,OIP (4).webp,lemon,apple,97.1,identified,apple,0.970619797706604,True,False,"Limão verde inteiro e cortado, fundo branco",c83c1e82c62084852b336b17c0a23bb1d6e6d82e129479be0beee98e6beff0f6
+caso_06,OIP (5).webp,pineapple,strawberry,79.5,identified,strawberry,0.7950231432914734,True,False,"Abacaxi na planta, folhas e fundo complexo",9d9906d8bba9ebaf90df38ca4cb9dd92509e6765f84084717c144a8feb11fe1d

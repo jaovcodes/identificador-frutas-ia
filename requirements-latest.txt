@@ -1,0 +1,5 @@
+# Alternativa sem travar versões; use apenas se as versões fixas derem conflito.
+streamlit
+tensorflow
+numpy
+Pillow

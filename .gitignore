@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+
+# Credenciais e arquivos locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dados locais: recriar com preparar_dataset.py
+dataset_frutas6/
+
+# Evidências redundantes e fotos sem fonte/licença documentada
+training/**/modelo_baseline/
+training/**/imagens/
+training/**/prints/
+training/**/candidatas/
+training/conferencia_fotos_externas.png
+training/contato_pasta_testes_*.png
+training/testes_externos/2026-11-23_rodada01/contato_imagens.png
+training/testes_externos/2026-11-23_rodada02_completa/contato_imagens.png
+
+# Logs e pacotes gerados; métricas e relatórios permanecem versionados
+*.log
+*.zip

@@ -1,0 +1,435 @@
+RELATÓRIO TÉCNICO DE TREINAMENTO E AVALIAÇÃO
+IDENTIFICADOR DE FRUTAS COM INTELIGÊNCIA ARTIFICIAL
+Data de consolidação: 23/11/2026. Fuso: America/Manaus (UTC−04:00).
+
+DESTINO E ESCOPO
+Material de referência para o chat responsável pelo artigo e pela apresentação.
+Este é um registro técnico das evidências disponíveis, não o artigo final em ABNT.
+Instituição: Centro Universitário FAMETRO. Curso: Engenharia de Software.
+Disciplina: Inteligência Artificial. Professor: Manfrine Tapiramutá.
+Integrantes: João Victor Brito Rocha e Mykaell Santana de Souza Rodrigues.
+Objetivo: classificar imagens em Maçã, Banana, Laranja, Limão, Abacaxi ou Morango.
+
+1. CONCLUSÃO QUE OS DADOS PERMITEM
+O sistema executa upload, inferência e apresentação do resultado. O modelo inicial
+teve desempenho elevado no teste padronizado do Fruits-360 (1.499/1.500; 99,93%),
+mas apresentou falhas importantes em fotografias externas. Na rodada de 30 fotos
+da internet, acertou a classe mais provável em 16/30 (53,33%). Com o limiar de
+70% usado pela interface, houve 15 acertos aceitos, 7 erros aceitos e 8 resultados
+inconclusivos. Não se pode declarar 99,93% de precisão para fotos reais.
+O limiar não transforma as probabilidades em garantia de acerto.
+Nenhuma das fotos externas foi usada no treinamento ou para alterar os pesos.
+
+2. QUANDO, O QUE FOI FEITO E POR QUÊ
+- 22/11/2026: preparação de uma amostra equilibrada das seis categorias do
+  Fruits-360 local, para substituir a interpretação genérica do ImageNet.
+  O dataset original foi preservado. O script antes estava apenas em utils/;
+  foi criada a entrada na raiz e removido o comportamento de apagar o destino.
+- 22/11/2026, por volta de 23h48: salvamento do modelo inicial. A data/hora vem
+  da modificação local dos artefatos, não de um cronômetro de início do experimento.
+  O treinamento registrou 126,75 segundos, incluindo extração das características,
+  ajuste da cabeça e salvamento. Não é uma medição de latência por imagem.
+- 22/11/2026, por volta de 23h50: geração das métricas de 1.500 imagens do Test
+  do Fruits-360. Horário aproximado obtido dos artefatos locais.
+- 23/11/2026: o usuário relatou seis falhas em screenshots. Os originais foram
+  encontrados em Downloads e as mesmas previsões foram reproduzidas e preservadas.
+- 23/11/2026, 00h10min47s: avaliação dos 11 arquivos de Downloads/Imagens-testes,
+  incluindo os seis erros relatados e cinco casos adicionais que passaram.
+- 23/11/2026: revisão da interface para separar envio/resultado e informar que
+  a saída é uma sugestão, sem mudar os pesos nem corrigir a capacidade do modelo.
+- 23/11/2026, 00h30min36s: conclusão da rodada de 30 fotos do Wikimedia Commons,
+  cinco por fruta. URLs, autoria, licenças, imagens e resultados foram guardados.
+As duas últimas horas de avaliação vêm do campo timestamp dos registros JSON.
+
+3. QUANTAS IMAGENS EXISTEM E QUANTAS FORAM EFETIVAMENTE USADAS
+Inventário local dos agrupamentos permitidos, reconferido em 23/11/2026:
+contagem de arquivos .jpg/.jpeg maiores que 1.000 bytes. Esse inventário não
+constitui validação de integridade de todas as imagens do dataset original.
+
+Fruta       | Origem Training | Origem Test | Preparadas para treino/validação | Teste selecionado
+Maçã        | 16.571          | 5.506       | 800                              | 250
+Banana      | 1.925           | 648         | 800                              | 250
+Laranja     | 3.555           | 1.180       | 800                              | 250
+Limão       | 982             | 330         | 800                              | 250
+Abacaxi     | 983             | 329         | 800                              | 250
+Morango     | 1.443           | 479         | 800                              | 250
+TOTAL       | 25.459          | 8.472       | 4.800                            | 1.500
+
+O inventário acima considera somente as pastas correspondentes às seis classes,
+não a totalidade de categorias existentes no Fruits-360.
+Foram preparadas 6.300 imagens: 4.800 de Training e 1.500 de Test.
+A divisão efetiva da amostra de Training foi:
+
+Fruta       | Ajuste dos pesos | Validação | Teste Fruits-360 | Total selecionado
+Maçã        | 640              | 160       | 250              | 1.050
+Banana      | 640              | 160       | 250              | 1.050
+Laranja     | 640              | 160       | 250              | 1.050
+Limão       | 640              | 160       | 250              | 1.050
+Abacaxi     | 640              | 160       | 250              | 1.050
+Morango     | 640              | 160       | 250              | 1.050
+TOTAL       | 3.840            | 960       | 1.500            | 6.300
+
+Resposta precisa a “quantas imagens são a base de cada identificação”:
+a camada classificadora foi ajustada com 640 exemplos por fruta. As 160 imagens
+por fruta de validação orientaram a escolha da época, sem atualizar os pesos por
+gradiente; as 250 de teste mediram o resultado e não participaram do ajuste.
+A MobileNetV2 já possuía pesos pré-treinados no ImageNet, que foram reutilizados.
+Esses dados de pré-treinamento são uma fonte anterior de conhecimento; não devem
+ser somados aos números do dataset local sem especificar o protocolo original.
+Na inferência, uma foto passa pela rede com os pesos aprendidos; não são consultadas
+nem comparadas diretamente todas as 640/800 imagens de cada classe.
+
+4. PREPARAÇÃO E CONTROLE DOS DADOS
+- Semente aleatória 42; amostragem por fruta, sem balanceamento por variedade.
+- Training e Test do dataset original permaneceram separados.
+- Selecionadas variedades Apple, Banana, Orange numeradas, Lemon/Lemon Meyer,
+  Pineapple/Pineapple Mini e Strawberry numeradas.
+- Excluídos Orange peeled, Strawberry Wedge, pimentões, tomates e Limes.
+  A ausência de Limes é relevante para o limão verde observado nas fotos externas.
+- Cada arquivo selecionado foi verificado e decodificado com Pillow; após copiar,
+  a integridade foi conferida novamente e o SHA-256 comparado com a origem.
+- Na seleção executada: 0 candidatos inválidos encontrados e 0 duplicatas exatas
+  descartadas. Isso não prova que todo o dataset original esteja íntegro.
+- As 6.300 cópias selecionadas tinham hashes únicos. A remoção de duplicatas
+  byte a byte não exclui imagens sequenciais muito semelhantes do mesmo fruto.
+- A validação é aleatória por classe (20%), não separada por fruto físico, sessão
+  fotográfica ou variedade. Isso limita a independência das observações.
+
+5. MODELO, AMBIENTE E TREINAMENTO
+Ambiente observado: Windows, Python 3.12.10, TensorFlow 2.16.2, Keras 3.15.1,
+NumPy 1.26.4, Pillow 10.4.0 e Streamlit 1.41.1. As dependências funcionais foram
+mantidas. O TensorFlow retornou lista de GPUs vazia; a execução utilizou CPU,
+ainda que o notebook informado possua uma RTX 3050 e 8 GB de RAM.
+
+Arquitetura: MobileNetV2 pré-treinada no ImageNet, sem sua cabeça original,
+congelada, seguida de global average pooling (vetor de 1.280 valores), Dropout
+0,25 e Dense com seis saídas softmax. Regularização L2 de 0,0001 na Dense.
+Somente a cabeça classificadora foi treinada; não houve fine-tuning da base.
+Pré-processamento compartilhado entre treino, avaliação e aplicativo: orientação
+EXIF, RGB, redimensionamento bilinear para 160×160 pixels sem preservar a razão
+de aspecto dentro do tensor e reescala interna x/127,5 − 1. A prévia visual da
+interface preserva a proporção; isso não altera o tensor de entrada do modelo.
+
+Extração de características em lotes de 16 imagens. Só vetores compactos foram
+mantidos na memória, evitando armazenar simultaneamente todas as imagens.
+As características de treino e validação foram extraídas pela base congelada,
+com training=False; a validação não atualizou a base nem suas estatísticas.
+Ajuste da cabeça em lotes de 32, Adam com taxa 0,001 e perda
+sparse_categorical_crossentropy. Semente 42. Limite de 40 épocas.
+EarlyStopping configurado em val_loss, patience=6, restore_best_weights=True.
+A execução atingiu 40 épocas e a melhor val_loss foi na época 40; portanto,
+o mecanismo não encerrou esta execução antecipadamente.
+Não houve aumento de imagens; Dropout é regularização, não data augmentation.
+O uso da base congelada e da resolução de 160 pixels buscou reduzir memória e
+custo na CPU. Não houve comparação controlada para provar que essa resolução
+causou as falhas externas.
+
+Métricas registradas na época selecionada (40):
+- Acurácia de treinamento: 100,00%.
+- Loss de treinamento: 0,0021628216.
+- Acurácia de validação: 100,00%.
+- Loss de validação: 0,0016676845.
+As perdas de fit incluem a regularização L2 da cabeça. A entropia cruzada do
+script de avaliação é calculada só a partir das probabilidades, sem somar L2;
+por isso, não são exatamente a mesma definição de loss.
+Os 100% de treino/validação não demonstram generalização para fotos externas.
+
+6. DEFINIÇÕES DAS MÉTRICAS
+- Top-1: fruta com a maior saída softmax, mesmo abaixo do limiar.
+- Acurácia top-1: previsões top-1 corretas / total de imagens.
+- Aceito: maior saída softmax >= 0,70. Inconclusivo: abaixo de 0,70.
+- Acerto aceito: top-1 correto e aceito pela interface.
+- Erro aceito: top-1 incorreto, mas aceito pela interface.
+- Cobertura: resultados aceitos / total de imagens.
+- Acurácia entre aceitos: acertos aceitos / resultados aceitos. Esse denominador
+  é diferente do usado na acurácia top-1; não intercambiar as duas porcentagens.
+- Precisão por classe: TP/(TP+FP). Recall: TP/(TP+FN). F1: 2PR/(P+R).
+  Os cálculos por classe usam todas as previsões top-1, inclusive inconclusivas.
+  Precisão e F1 são definidos como zero quando o denominador é nulo.
+- Macro: média simples da métrica entre as seis classes.
+“Confiança”/“pontuação” refere-se à saída softmax. Não foi feita calibração de
+probabilidades; uma saída de 99% não equivale a uma probabilidade de acerto de 99%.
+O limiar de 70% é heurístico e foi mantido em todas as avaliações. Não foi otimizado
+com o teste. O modelo sempre distribui a saída entre seis frutas e não foi treinado
+para rejeitar objetos fora do catálogo ou detectar várias espécies numa foto.
+
+7. RESULTADOS NO FRUITS-360 — 1.500 IMAGENS
+- Acurácia top-1: 1.499/1.500 = 99,9333% (99,93% arredondado).
+- Erro top-1: 1/1.500 = 0,0667%.
+- Entropia cruzada média, sem L2: 0,0010962696.
+- Acertos aceitos: 1.499/1.500 = 99,9333%.
+- Erros aceitos: 0/1.500 = 0,00%.
+- Inconclusivos: 1/1.500 = 0,0667%.
+- Cobertura: 1.499/1.500 = 99,9333%.
+- Acurácia entre aceitos: 1.499/1.499 = 100,00%.
+A única previsão errada foi uma maçã classificada como limão; estava abaixo do
+limiar e seria exibida como inconclusiva. Não afirmar que o limiar detecta todos
+os erros: isso ocorreu somente neste teste, não nas avaliações externas.
+
+Fruta       | Acertos/250 | Recall    | Precisão  | F1
+Maçã        | 249/250     | 99,60%    | 100,00%   | 99,80%
+Banana      | 250/250     | 100,00%   | 100,00%   | 100,00%
+Laranja     | 250/250     | 100,00%   | 100,00%   | 100,00%
+Limão       | 250/250     | 100,00%   | 99,60%    | 99,80%
+Abacaxi     | 250/250     | 100,00%   | 100,00%   | 100,00%
+Morango     | 250/250     | 100,00%   | 100,00%   | 100,00%
+Macro-F1: aproximadamente 99,9333%.
+
+8. TESTES EXTERNOS INICIAIS — 6 FALHAS E 11 ARQUIVOS
+Os seis screenshots foram enviados porque os casos tinham falhado: amostra
+selecionada por erro, inadequada para estimar uma acurácia global. Neles, houve
+0/6 top-1 corretos, 3/6 erros aceitos (50%) e 3/6 inconclusivos (50%).
+Posteriormente foram avaliados 11 arquivos da pasta fornecida pelo usuário.
+Os seis casos anteriores estão incluídos nesses 11. Não somar 6+11.
+
+Resultado nos 11 arquivos:
+- Acerto top-1: 5/11 = 45,45%; erro top-1: 6/11 = 54,55%.
+- Acertos aceitos: 5/11 = 45,45%.
+- Erros aceitos: 3/11 = 27,27%.
+- Inconclusivos: 3/11 = 27,27%; os três tinham top-1 incorreto.
+- Cobertura: 8/11 = 72,73%.
+- Acurácia entre aceitos: 5/8 = 62,50%.
+- Macro-F1 top-1: aproximadamente 30,56%.
+
+Fruta       | Imagens | Acertos top-1 | Acertos aceitos | Erros aceitos | Inconclusivos
+Maçã        | 1       | 1 (100%)      | 1               | 0             | 0
+Banana      | 1       | 1 (100%)      | 1               | 0             | 0
+Laranja     | 2       | 0 (0%)        | 0               | 0             | 2
+Limão verde | 2       | 0 (0%)        | 0               | 2             | 0
+Abacaxi     | 2       | 0 (0%)        | 0               | 1             | 1
+Morango     | 3       | 3 (100%)      | 3               | 0             | 0
+
+1556727865-morango.jpg e morango.webp são versões da mesma fotografia.
+Logo, são 11 arquivos e 10 grupos visuais, não 11 observações independentes.
+Os cinco casos adicionais que o usuário relatou como aprovados foram reproduzidos.
+As URLs de origem dessa rodada não foram fornecidas; fontes/licenças permanecem
+pendentes. Os originais e screenshots foram preservados.
+
+9. TESTE DE CINCO FOTOS POR FRUTA — 30 ARQUIVOS DA INTERNET
+Seleção de conveniência no Wikimedia Commons, congelada antes da inferência.
+Busca, candidatos, substituições, rótulos e fontes foram documentados. Foram
+excluídas uma ilustração e uma imagem de identificação ambígua entre laranja e
+tangerina. Alguns downloads foram substituídos após erro HTTP 429. Nenhuma
+substituição foi orientada por previsões: o modelo foi executado após a seleção.
+Fotos com fundos variados, fruta inteira, cortada, grupos e árvores/plantas.
+As miniaturas oficiais disponíveis foram usadas; algumas cópias vieram da URL
+original. Não houve recorte manual para favorecer o resultado. Todas passaram
+pelo mesmo pré-processamento do aplicativo.
+
+Resultados gerais:
+- Acerto top-1: 16/30 = 53,33%; erro top-1: 14/30 = 46,67%.
+- Acertos aceitos: 15/30 = 50,00%.
+- Erros aceitos: 7/30 = 23,33%.
+- Inconclusivos: 8/30 = 26,67%.
+- Cobertura: 22/30 = 73,33%.
+- Acurácia entre aceitos: 15/22 = 68,18%.
+- Entre os 8 inconclusivos: 1 top-1 correto e 7 incorretos.
+- Macro-precisão top-1: 35,24%; macro-recall: 53,33%; macro-F1: 41,98%.
+
+Fruta       | Top-1 correto | Acertos aceitos | Erros aceitos | Inconclusivos
+Maçã        | 4/5 (80%)     | 3/5 (60%)       | 0/5 (0%)      | 2/5 (40%)
+Banana      | 5/5 (100%)    | 5/5 (100%)      | 0/5 (0%)      | 0/5 (0%)
+Laranja     | 0/5 (0%)      | 0/5 (0%)        | 3/5 (60%)     | 2/5 (40%)
+Limão       | 2/5 (40%)     | 2/5 (40%)       | 1/5 (20%)     | 2/5 (40%)
+Abacaxi     | 0/5 (0%)      | 0/5 (0%)        | 3/5 (60%)     | 2/5 (40%)
+Morango     | 5/5 (100%)    | 5/5 (100%)      | 0/5 (0%)      | 0/5 (0%)
+TOTAL       | 16/30         | 15/30           | 7/30          | 8/30
+
+Top-1 correto e inconclusivo não são categorias mutuamente exclusivas.
+As três colunas da interface (acerto aceito, erro aceito, inconclusivo) somam
+cinco por fruta; top-1 é outra forma de medir o mesmo conjunto.
+Limão: dois lemons amarelos (2/2 corretos) e três limes verdes (0/3 corretos).
+A maçã correta abaixo do limiar teve pontuação de 64,33%.
+A saída para laranja foi limão em três imagens, banana em uma e maçã em uma.
+A saída para abacaxi foi morango em quatro imagens e maçã em uma.
+
+Precisão, recall e F1 top-1 por classe:
+Fruta       | Precisão | Recall | F1
+Maçã        | 44,44%   | 80,00% | 57,14%
+Banana      | 71,43%   | 100,00%| 83,33%
+Laranja     | 0,00%*   | 0,00%  | 0,00%
+Limão       | 40,00%   | 40,00% | 40,00%
+Abacaxi     | 0,00%*   | 0,00%  | 0,00%
+Morango     | 55,56%   | 100,00%| 71,43%
+* Nenhuma previsão para essa classe; precisão definida como zero por convenção.
+
+Matriz de confusão top-1 (linhas reais; colunas previstas):
+                 Maçã Banana Limão Laranja Abacaxi Morango
+Maçã               4     1     0      0       0       0
+Banana             0     5     0      0       0       0
+Limão              3     0     2      0       0       0
+Laranja            1     1     3      0       0       0
+Abacaxi            1     0     0      0       0       4
+Morango            0     0     0      0       0       5
+
+10. INTERPRETAÇÃO: O QUE ESTÁ CONFIRMADO E O QUE É HIPÓTESE
+CONFIRMADO PELOS ARQUIVOS E TESTES:
+- A amostra de treinamento específica é equilibrada por fruta, não por variedade.
+- Limes não estava incluído no treinamento; houve falha nos cinco exemplos
+  externos de limão verde das rodadas de 11 e de 30 arquivos.
+- O teste padronizado e os testes externos produziram desempenhos diferentes.
+- Houve previsões incorretas com softmax alto; na rodada de 30, um limão verde
+  foi previsto como maçã com aproximadamente 99,85%.
+- A revisão de UX/UI não alterou os pesos e não melhorou a acurácia do modelo.
+
+HIPÓTESES PLAUSÍVEIS, AINDA NÃO DEMONSTRADAS POR EXPERIMENTO CONTROLADO:
+- Mudança de distribuição entre Fruits-360 e fotos externas: fundo, iluminação,
+  escala, orientação, folhas, cortes, fruta na planta e múltiplos exemplares.
+- Semelhança de imagens sequenciais pode favorecer as métricas de validação.
+- Base congelada, amostra limitada e ausência de aumento de imagens podem limitar
+  a adaptação. Não é possível atribuir quantitativamente as falhas a cada fator.
+Não afirmar que o modelo usa exclusivamente cor ou fundo; isso exigiria análise
+adicional (ablação, saliência ou explicabilidade) que não foi realizada.
+
+11. LIMITAÇÕES E PRÓXIMOS EXPERIMENTOS
+- As amostras externas são pequenas e de conveniência, sem sorteio representativo.
+- Duas imagens de laranja parecem derivadas da mesma composição e duas de morango
+  parecem da mesma sessão; os grupos foram marcados em visual_group. Os 30 arquivos
+  não devem ser tratados como 30 observações necessariamente independentes.
+- Não combinar automaticamente 11 e 30 arquivos em uma “acurácia real geral”.
+- Não foi auditada exaustivamente a origem das fotos em relação ao pré-treinamento
+  ImageNet. O teste externo não constitui uma prova de ausência total de sobreposição
+  com fontes históricas de pré-treinamento.
+- Não houve calibração, teste amplo com objetos fora do catálogo, comparação entre
+  arquiteturas, múltiplas sementes, benchmark de latência ou avaliação de robustez.
+- Melhoria proposta, ainda NÃO executada: incluir Limes na classe Limão, ampliar
+  fotos de treino diversificadas, controlar sessões de captura na divisão dos dados,
+  testar aumento de imagens e eventualmente fine-tuning com recursos disponíveis.
+- Após usar estes resultados para desenvolver melhorias, eles servem para regressão.
+  A conclusão final deve usar outro conjunto independente, não consultado no ajuste.
+
+12. ORIENTAÇÃO PARA O ARTIGO E A APRESENTAÇÃO
+Apresentar o contraste entre avaliação no domínio e avaliação externa. Informar
+sempre o denominador e o protocolo ao citar uma porcentagem. Usar “acurácia top-1”
+para 99,93%, 45,45% e 53,33%; não chamar indiscriminadamente de precisão por classe.
+O status inconclusivo é abstenção da interface, não uma identificação correta.
+Não apresentar o modelo como validado para uso geral em fotos reais.
+Não afirmar que foram usadas 800 imagens por fruta para ajustar os pesos: das
+800 preparadas, 640 ajustaram a cabeça e 160 foram reservadas à validação.
+Não confundir o limiar de 70% com acurácia mínima garantida.
+Texto sugerido:
+“O modelo obteve acurácia top-1 de 99,93% em 1.500 imagens do conjunto Test do
+Fruits-360, enquanto uma avaliação externa de conveniência com 30 fotografias,
+cinco por categoria, apresentou 53,33%. Com limiar de saída softmax de 0,70,
+15 resultados foram corretos e aceitos, sete incorretos e aceitos e oito foram
+inconclusivos. A discrepância evidencia limitações de generalização nesta
+avaliação, sem permitir extrapolar a taxa de acerto para toda fotografia real.”
+
+13. EVIDÊNCIAS E REPRODUTIBILIDADE
+Modelo usado nas avaliações externas (SHA-256): 954bf6d72037546619e13fc0b965e2d174c0039be4028f2ee7a89735d74b9f64
+Ordem das saídas: apple, banana, lemon, orange, pineapple, strawberry.
+- Manifesto e origens da preparação: dataset_frutas6/manifest.json
+- Histórico de treino e divisão de arquivos: model/training.json
+- Metadados das saídas e pré-processamento: model/classes.json
+- Métricas Fruits-360: training/evaluation/metrics.json
+- Resultados individuais Fruits-360: training/evaluation/predictions.csv
+- Matriz visual Fruits-360: training/evaluation/confusion_matrix.png
+- Seis falhas iniciais e screenshots: training/testes_externos/2026-11-23_rodada01/registro.json
+- Registro dos 11 arquivos: training/testes_externos/2026-11-23_rodada02_completa/registro.json
+- Registro dos 30 arquivos: training/testes_externos/2026-11-23_internet30/avaliacao/registro.json
+- Fontes, autores e licenças dos 30 arquivos: training/testes_externos/2026-11-23_internet30/fontes.json
+- Protocolo dos 30 arquivos: training/testes_externos/2026-11-23_internet30/protocolo.txt
+- Relatório com fotos e atribuições: training/testes_externos/2026-11-23_internet30/relatorio.html
+
+Comandos PowerShell (não é necessário executá-los para redigir o artigo):
+.\.venv\Scripts\python.exe avaliar_modelo.py
+.\.venv\Scripts\python.exe avaliar_fotos_externas.py --imagens training/testes_externos/2026-11-23_internet30/selecionadas --rotulos training/testes_externos/2026-11-23_internet30/rotulos.csv --output training/testes_externos/nova_avaliacao
+O segundo script recusa destinos existentes para preservar evidências.
+Os arquivos do modelo são necessários para repetir a inferência; apenas o hash
+não permite executá-la. O pacote de evidências para redação não inclui o modelo.
+
+APÊNDICE A — 30 RESULTADOS INDIVIDUAIS (PREVISÃO TOP-1)
+apple_01.jpg: esperado Maçã; previsto Maçã; pontuação 99,93%; acerto aceito; top-1 correto.
+apple_02.jpg: esperado Maçã; previsto Banana; pontuação 54,43%; inconclusivo; top-1 errado.
+apple_03.jpg: esperado Maçã; previsto Maçã; pontuação 99,96%; acerto aceito; top-1 correto.
+apple_04.jpg: esperado Maçã; previsto Maçã; pontuação 64,33%; inconclusivo; top-1 correto.
+apple_05.jpg: esperado Maçã; previsto Maçã; pontuação 99,98%; acerto aceito; top-1 correto.
+banana_01.jpg: esperado Banana; previsto Banana; pontuação 99,35%; acerto aceito; top-1 correto.
+banana_02.jpg: esperado Banana; previsto Banana; pontuação 99,81%; acerto aceito; top-1 correto.
+banana_03.jpg: esperado Banana; previsto Banana; pontuação 91,83%; acerto aceito; top-1 correto.
+banana_04.jpg: esperado Banana; previsto Banana; pontuação 99,28%; acerto aceito; top-1 correto.
+banana_05.jpg: esperado Banana; previsto Banana; pontuação 96,89%; acerto aceito; top-1 correto.
+orange_01.jpg: esperado Laranja; previsto Limão; pontuação 70,25%; erro aceito; top-1 errado.
+orange_02.jpg: esperado Laranja; previsto Banana; pontuação 61,29%; inconclusivo; top-1 errado.
+orange_03.jpg: esperado Laranja; previsto Maçã; pontuação 41,25%; inconclusivo; top-1 errado.
+orange_04.jpg: esperado Laranja; previsto Limão; pontuação 71,81%; erro aceito; top-1 errado.
+orange_05.jpg: esperado Laranja; previsto Limão; pontuação 98,56%; erro aceito; top-1 errado.
+lemon_01.jpg: esperado Limão; previsto Limão; pontuação 98,05%; acerto aceito; top-1 correto.
+lemon_02.jpg: esperado Limão; previsto Limão; pontuação 96,20%; acerto aceito; top-1 correto.
+lemon_03.jpg: esperado Limão; previsto Maçã; pontuação 60,39%; inconclusivo; top-1 errado.
+lemon_04.jpg: esperado Limão; previsto Maçã; pontuação 54,86%; inconclusivo; top-1 errado.
+lemon_05.jpg: esperado Limão; previsto Maçã; pontuação 99,85%; erro aceito; top-1 errado.
+pineapple_01.jpg: esperado Abacaxi; previsto Morango; pontuação 58,47%; inconclusivo; top-1 errado.
+pineapple_02.jpg: esperado Abacaxi; previsto Maçã; pontuação 78,93%; erro aceito; top-1 errado.
+pineapple_03.jpg: esperado Abacaxi; previsto Morango; pontuação 67,75%; inconclusivo; top-1 errado.
+pineapple_04.jpg: esperado Abacaxi; previsto Morango; pontuação 98,20%; erro aceito; top-1 errado.
+pineapple_05.jpg: esperado Abacaxi; previsto Morango; pontuação 99,33%; erro aceito; top-1 errado.
+strawberry_01.jpg: esperado Morango; previsto Morango; pontuação 99,98%; acerto aceito; top-1 correto.
+strawberry_02.jpg: esperado Morango; previsto Morango; pontuação 100,00%; acerto aceito; top-1 correto.
+strawberry_03.jpg: esperado Morango; previsto Morango; pontuação 99,86%; acerto aceito; top-1 correto.
+strawberry_04.jpg: esperado Morango; previsto Morango; pontuação 100,00%; acerto aceito; top-1 correto.
+strawberry_05.jpg: esperado Morango; previsto Morango; pontuação 99,53%; acerto aceito; top-1 correto.
+
+APÊNDICE B — FONTES DAS 30 FOTOS
+A autoria/licença abaixo foi transcrita dos metadados do Wikimedia Commons.
+apple_01.jpg | https://commons.wikimedia.org/wiki/File:Red_Apple.jpg
+Autor: Abhijit Tembhekar from Mumbai, India | Licença: CC BY 2.0 | https://creativecommons.org/licenses/by/2.0
+apple_02.jpg | https://commons.wikimedia.org/wiki/File:Tree_with_red_apples_in_Barkedal_4.jpg
+Autor: W.carter | Licença: CC0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en
+apple_03.jpg | https://commons.wikimedia.org/wiki/File:Apple_fruit_in_illorin.jpg
+Autor: Eunice Ameh | Licença: CC0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en
+apple_04.jpg | https://commons.wikimedia.org/wiki/File:Whole_apple_and_bitten_apple.jpg
+Autor: Lucíola Correia | Licença: CC BY 2.0 | https://creativecommons.org/licenses/by/2.0
+apple_05.jpg | https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Red_Apple_(Whole_Fruit).jpg
+Autor: HaJunkiyada | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+banana_01.jpg | https://commons.wikimedia.org/wiki/File:Cavendish_banana_from_Maracaibo.jpg
+Autor: Wilfredor | Licença: CC BY-SA 3.0 | https://creativecommons.org/licenses/by-sa/3.0
+banana_02.jpg | https://commons.wikimedia.org/wiki/File:Bananas_on_black_background_02.jpg
+Autor: Krzysztof Golik | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+banana_03.jpg | https://commons.wikimedia.org/wiki/File:Green_raw_bananas.jpg
+Autor: Vitaium | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+banana_04.jpg | https://commons.wikimedia.org/wiki/File:Banana_fruit_(musa).jpg
+Autor: DEEPAN RAJA .M | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+banana_05.jpg | https://commons.wikimedia.org/wiki/File:Banana_fruits.jpg
+Autor: Subash Bose 29 | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+orange_01.jpg | https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg
+Autor: Ivar Leidus | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+orange_02.jpg | https://commons.wikimedia.org/wiki/File:Ambersweet_oranges.jpg
+Autor:  | Licença: Public domain |
+orange_03.jpg | https://commons.wikimedia.org/wiki/File:Orange-Fruit-Pieces.jpg
+Autor: Evan-Amos | Licença: CC BY-SA 3.0 | https://creativecommons.org/licenses/by-sa/3.0
+orange_04.jpg | https://commons.wikimedia.org/wiki/File:Oranges_%C3%93bidos_February_2022-1.jpg
+Autor: Alvesgaspar | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+orange_05.jpg | https://commons.wikimedia.org/wiki/File:Orange-Whole-%26-Split.jpg
+Autor: Evan-Amos | Licença: CC BY-SA 3.0 | https://creativecommons.org/licenses/by-sa/3.0
+lemon_01.jpg | https://commons.wikimedia.org/wiki/File:Lemon.jpg
+Autor: André Karwath aka Aka
+ | Licença: CC BY-SA 2.5 | https://creativecommons.org/licenses/by-sa/2.5
+lemon_02.jpg | https://commons.wikimedia.org/wiki/File:Lemon_-_whole_and_split.jpg
+Autor: Ivar Leidus | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+lemon_03.jpg | https://commons.wikimedia.org/wiki/File:Lime_-_whole_and_halved.jpg
+Autor: Ivar Leidus | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+lemon_04.jpg | https://commons.wikimedia.org/wiki/File:Lime-Whole-Split.jpg
+Autor: Evan-Amos | Licença: CC0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en
+lemon_05.jpg | https://commons.wikimedia.org/wiki/File:Limes.jpg
+Autor:  | Licença: CC BY-SA 2.5 | https://creativecommons.org/licenses/by-sa/2.5
+pineapple_01.jpg | https://commons.wikimedia.org/wiki/File:Pineapple_fruit_2.jpg
+Autor: Wilfredor | Licença: CC0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en
+pineapple_02.jpg | https://commons.wikimedia.org/wiki/File:Pineapple_Chunks.jpg
+Autor: Gaurav Dhwaj Khadka | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+pineapple_03.jpg | https://commons.wikimedia.org/wiki/File:Pineapple.jpg
+Autor: Renee Comet (Photographer) | Licença: Public domain |
+pineapple_04.jpg | https://commons.wikimedia.org/wiki/File:Pineapple_fruit,_April_2023.jpg
+Autor: Grace789 | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+pineapple_05.jpg | https://commons.wikimedia.org/wiki/File:Pineapple_victoria_dsc07770.jpg
+Autor: David Monniaux | Licença: CC BY-SA 3.0 | http://creativecommons.org/licenses/by-sa/3.0/
+strawberry_01.jpg | https://commons.wikimedia.org/wiki/File:Strawberries.jpg
+Autor: Brian Prechtel | Licença: Public domain |
+strawberry_02.jpg | https://commons.wikimedia.org/wiki/File:STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_(bought_in_Norway_December_2020)_IMG_2524.jpg
+Autor: Wolfmann | Licença: CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0
+strawberry_03.jpg | https://commons.wikimedia.org/wiki/File:Strawberry_fruit_sliced.jpg
+Autor: Paolo Neo | Licença: Public domain |
+strawberry_04.jpg | https://commons.wikimedia.org/wiki/File:Strawberry_fruit_in_studio.jpg
+Autor: Paolo Neo | Licença: Public domain |
+strawberry_05.jpg | https://commons.wikimedia.org/wiki/File:Garden_Strawberries_in_Germany.JPG
+Autor: Leo Johannes | Licença: Public domain |

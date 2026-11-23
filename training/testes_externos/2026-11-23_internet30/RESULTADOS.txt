@@ -1,0 +1,57 @@
+AVALIAÇÃO EXTERNA — 30 FOTOS DA INTERNET — 23/11/2026
+
+Cinco arquivos por fruta; fonte Wikimedia Commons; rótulos por inspeção visual.
+Mesmo modelo inicial; sem treinamento nem alteração do limiar de 70%.
+Acerto top-1: 16/30 (53,33%).
+Na interface: 15 acertos aceitos, 7 erros aceitos e 8 inconclusivos.
+Uma previsão correta de maçã ficou abaixo do limiar (64,3%).
+Cobertura: 22/30 (73,33%). Entre resultados aceitos: 15/22 corretos (68,18%).
+
+Fruta | Acertos top-1 / 5 | Acertos aceitos | Erros aceitos | Inconclusivos
+Maçã | 4/5 | 3 | 0 | 2
+Banana | 5/5 | 5 | 0 | 0
+Laranja | 0/5 | 0 | 3 | 2
+Limão | 2/5 | 2 | 1 | 2
+Abacaxi | 0/5 | 0 | 3 | 2
+Morango | 5/5 | 5 | 0 | 0
+
+Limão: 2/2 amarelos corretos; 0/3 verdes corretos.
+A categoria Limão inclui lemons e limes; o treinamento inicial não incluiu Limes.
+Amostra pequena de conveniência. Não estima o desempenho geral nem substitui o teste Fruits-360.
+Há possíveis relações visuais entre orange_03/orange_05 e strawberry_03/strawberry_04.
+Não somar esta rodada às anteriores como uma única amostra aleatória.
+Arquivos e fontes definidos antes da avaliação. Seleções não dependeram dos resultados.
+Fotos reservadas para avaliação/regressão; não inseridas no treinamento.
+Fontes, autoria e licenças estão em fontes.json e no relatório HTML.
+
+DETALHAMENTO POR IMAGEM:
+apple_01.jpg | esperado: Maçã | previsão: Maçã | 99.9% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Red_Apple.jpg
+apple_02.jpg | esperado: Maçã | previsão: Banana | 54.4% | inconclusivo | https://commons.wikimedia.org/wiki/File:Tree_with_red_apples_in_Barkedal_4.jpg
+apple_03.jpg | esperado: Maçã | previsão: Maçã | 100.0% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Apple_fruit_in_illorin.jpg
+apple_04.jpg | esperado: Maçã | previsão: Maçã | 64.3% | inconclusivo | https://commons.wikimedia.org/wiki/File:Whole_apple_and_bitten_apple.jpg
+apple_05.jpg | esperado: Maçã | previsão: Maçã | 100.0% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Red_Apple_(Whole_Fruit).jpg
+banana_01.jpg | esperado: Banana | previsão: Banana | 99.4% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Cavendish_banana_from_Maracaibo.jpg
+banana_02.jpg | esperado: Banana | previsão: Banana | 99.8% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Bananas_on_black_background_02.jpg
+banana_03.jpg | esperado: Banana | previsão: Banana | 91.8% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Green_raw_bananas.jpg
+banana_04.jpg | esperado: Banana | previsão: Banana | 99.3% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Banana_fruit_(musa).jpg
+banana_05.jpg | esperado: Banana | previsão: Banana | 96.9% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Banana_fruits.jpg
+orange_01.jpg | esperado: Laranja | previsão: Limão | 70.3% | erro_aceito | https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg
+orange_02.jpg | esperado: Laranja | previsão: Banana | 61.3% | inconclusivo | https://commons.wikimedia.org/wiki/File:Ambersweet_oranges.jpg
+orange_03.jpg | esperado: Laranja | previsão: Maçã | 41.2% | inconclusivo | https://commons.wikimedia.org/wiki/File:Orange-Fruit-Pieces.jpg
+orange_04.jpg | esperado: Laranja | previsão: Limão | 71.8% | erro_aceito | https://commons.wikimedia.org/wiki/File:Oranges_%C3%93bidos_February_2022-1.jpg
+orange_05.jpg | esperado: Laranja | previsão: Limão | 98.6% | erro_aceito | https://commons.wikimedia.org/wiki/File:Orange-Whole-%26-Split.jpg
+lemon_01.jpg | esperado: Limão | previsão: Limão | 98.0% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Lemon.jpg
+lemon_02.jpg | esperado: Limão | previsão: Limão | 96.2% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Lemon_-_whole_and_split.jpg
+lemon_03.jpg | esperado: Limão | previsão: Maçã | 60.4% | inconclusivo | https://commons.wikimedia.org/wiki/File:Lime_-_whole_and_halved.jpg
+lemon_04.jpg | esperado: Limão | previsão: Maçã | 54.9% | inconclusivo | https://commons.wikimedia.org/wiki/File:Lime-Whole-Split.jpg
+lemon_05.jpg | esperado: Limão | previsão: Maçã | 99.8% | erro_aceito | https://commons.wikimedia.org/wiki/File:Limes.jpg
+pineapple_01.jpg | esperado: Abacaxi | previsão: Morango | 58.5% | inconclusivo | https://commons.wikimedia.org/wiki/File:Pineapple_fruit_2.jpg
+pineapple_02.jpg | esperado: Abacaxi | previsão: Maçã | 78.9% | erro_aceito | https://commons.wikimedia.org/wiki/File:Pineapple_Chunks.jpg
+pineapple_03.jpg | esperado: Abacaxi | previsão: Morango | 67.7% | inconclusivo | https://commons.wikimedia.org/wiki/File:Pineapple.jpg
+pineapple_04.jpg | esperado: Abacaxi | previsão: Morango | 98.2% | erro_aceito | https://commons.wikimedia.org/wiki/File:Pineapple_fruit,_April_2023.jpg
+pineapple_05.jpg | esperado: Abacaxi | previsão: Morango | 99.3% | erro_aceito | https://commons.wikimedia.org/wiki/File:Pineapple_victoria_dsc07770.jpg
+strawberry_01.jpg | esperado: Morango | previsão: Morango | 100.0% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Strawberries.jpg
+strawberry_02.jpg | esperado: Morango | previsão: Morango | 100.0% | acerto_aceito | https://commons.wikimedia.org/wiki/File:STRAWBERRY_SPROUTING_green_sprout_vivipary_achenes_oblong_fruit_close-up_Jordb%C3%A6r_gr%C3%B8nt_skudd_(bought_in_Norway_December_2020)_IMG_2524.jpg
+strawberry_03.jpg | esperado: Morango | previsão: Morango | 99.9% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Strawberry_fruit_sliced.jpg
+strawberry_04.jpg | esperado: Morango | previsão: Morango | 100.0% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Strawberry_fruit_in_studio.jpg
+strawberry_05.jpg | esperado: Morango | previsão: Morango | 99.5% | acerto_aceito | https://commons.wikimedia.org/wiki/File:Garden_Strawberries_in_Germany.JPG

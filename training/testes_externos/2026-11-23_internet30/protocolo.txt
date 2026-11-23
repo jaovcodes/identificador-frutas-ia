@@ -1,0 +1,15 @@
+PROTOCOLO — 23/11/2026 — 30 fotos externas
+Seleção de cinco arquivos por categoria, antes de executar o modelo.
+Fonte: Wikimedia Commons. Autoria, licença, URLs e SHA-256 em fontes.json.
+Rótulos por inspeção visual e metadados; ilustração e citros ambíguos excluídos.
+Exclusões e falhas de download preservadas nos arquivos de busca/candidatos.
+Amostra de conveniência: fruta inteira, cortada, grupos e fundos variados.
+Limão inclui 2 lemons amarelos e 3 limes verdes. Modelo não foi treinado com Limes.
+Sem treino, alteração de limiar ou seleção orientada pelas previsões.
+Miniaturas oficiais (quando disponíveis), sem recorte manual; imagens maiores
+foram recebidas como fornecidas pelo Commons. Pipeline de inferência do app.
+Os arquivos orange_03 e orange_05 parecem derivados da mesma composição;
+strawberry_03 e strawberry_04 parecem da mesma sessão. Marcados em visual_group.
+Não considerar 30 observações estatisticamente independentes.
+Registrar acerto top-1 separadamente de identificação aceita e inconclusiva.
+Manter o resultado do Fruits-360 separado. Não usar estas fotos para treino.

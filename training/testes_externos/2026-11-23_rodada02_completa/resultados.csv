@@ -1,0 +1,12 @@
+﻿file,expected,predicted,confidence,confident,correct,status,visual_group,sha256,error
+1556727865-morango.jpg,strawberry,strawberry,0.9999383687973022,True,True,acerto_aceito,morangos_01,7edf922b6395b0bfb15e1dc1fdf44c3eca4a5ca85672d234bdd7531e0bd16654,
+beneficios-da-maca-scaled.jpg.webp,apple,apple,0.9956551790237427,True,True,acerto_aceito,maca_01,8d2596a54dae7be20ef789209ed7b64a6ac0341706a3270d99885977b4096ceb,
+morango.webp,strawberry,strawberry,0.9999068975448608,True,True,acerto_aceito,morangos_01,67645fe715bfcb6e4b063d4de802f19196c9882fdfa38bc9998abfda5b5a247a,
+OIP (1).webp,banana,banana,0.9989573955535889,True,True,acerto_aceito,banana_01,9e3e574ada4b9833ec7dbc57819e8778ce063a78eb0a9302fa9867a85e29fc76,
+OIP (2).webp,lemon,apple,0.7843051552772522,True,False,erro_aceito,limao_01,81d1b8eb0bc3519cd529bd418bc9fd09885214581cfb3652f0e3e9ca28f9b6b3,
+OIP (3).webp,strawberry,strawberry,0.9999380111694336,True,True,acerto_aceito,morangos_02,72c1c81ef8dff3ce5784769b5b1ddfe5e46309d823824d16d4cb447d36da73db,
+OIP (4).webp,lemon,apple,0.9706200361251831,True,False,erro_aceito,limao_02,c83c1e82c62084852b336b17c0a23bb1d6e6d82e129479be0beee98e6beff0f6,
+OIP (5).webp,pineapple,strawberry,0.7950231432914734,True,False,erro_aceito,abacaxi_01,9d9906d8bba9ebaf90df38ca4cb9dd92509e6765f84084717c144a8feb11fe1d,
+OIP.webp,orange,banana,0.623079776763916,False,False,inconclusivo,laranja_01,4c26d20aef62cc025bf395bacf4c16a49a37279eb5f1a46adb43e0ddd2fdc2f9,
+R (1).jpg,pineapple,strawberry,0.6980103850364685,False,False,inconclusivo,abacaxi_02,f8d40c7a7d2eeb0cb92460aeab6093fdd24ca50b110a2cf27e342331925a20fa,
+R.jpg,orange,strawberry,0.5260740518569946,False,False,inconclusivo,laranja_02,ba64ab8b8d2349cab0075cbc1b32384d30f06351329cc3ad6fcf13098b32a07d,

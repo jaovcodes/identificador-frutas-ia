@@ -1,0 +1,37 @@
+TESTES EXTERNOS — RODADA COMPLETA — 23/11/2026
+
+Origem: Downloads/Imagens-testes. Rótulos esperados definidos por inspeção visual.
+Foi usado o mesmo modelo da rodada inicial de falhas (SHA-256 conferido).
+Não houve treinamento nem alteração dos pesos durante estes testes.
+
+Resultado por arquivo, em 11 arquivos:
+- 5 previsões corretas (45,45% de acerto top-1 nesta amostra).
+- 6 previsões top-1 erradas; destas, 3 ficaram abaixo do limiar de confiança.
+- Na interface: 5 acertos aceitos, 3 erros aceitos e 3 resultados inconclusivos.
+- Cobertura do limiar de 70%: 8/11 (72,73%).
+- Entre as 8 previsões aceitas: 5/8 corretas (62,5%).
+
+Por fruta (acertos top-1 / arquivos):
+Maçã: 1/1; banana: 1/1; morango: 3/3;
+limão verde: 0/2; laranja: 0/2; abacaxi: 0/2.
+
+Os cinco casos adicionais passaram, conforme informado pelo usuário.
+As seis falhas anteriores foram reproduzidas. Esta rodada inclui a anterior;
+não somar os totais das duas rodadas.
+1556727865-morango.jpg e morango.webp são versões da mesma fotografia,
+identificadas visualmente e agrupadas em visual_group=morangos_01.
+Há 11 arquivos, mas somente 10 grupos visuais; são 4 grupos visuais com acerto.
+
+Para artigo e apresentação: relatar separadamente dos 99,93% obtidos no
+Fruits-360. O conjunto externo é pequeno, de conveniência e contém variantes
+da mesma foto. Os números não estimam a acurácia geral de uso real.
+A confiança elevada não impediu erros. A ausência de Limes no treino é
+confirmada; outras causas de falha são hipóteses a investigar.
+
+Evidências preservadas: imagens, rótulos, probabilidades das seis classes,
+CSV de resultados, matriz de confusão em JSON e cópia do modelo e metadados.
+Os prints originais das falhas permanecem na rodada01.
+As URLs e licenças das fotos ainda precisam ser documentadas.
+Reservar estas imagens para regressão, sem colocá-las no treinamento.
+Após melhorias orientadas por estes resultados, avaliar também um conjunto
+final independente, ainda não usado no desenvolvimento.

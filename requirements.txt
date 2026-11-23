@@ -1,0 +1,5 @@
+# Ambiente validado com Python 3.12 no Windows.
+streamlit==1.41.1
+tensorflow==2.16.2
+numpy==1.26.4
+Pillow==10.4.0
